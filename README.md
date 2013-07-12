@@ -1,8 +1,7 @@
-saiadecasa.github.io
-====================
+# Saia de casa!
 
-Seu calendário de eventos e programações para não ficar em casa e codar com a comunidade de desenvolvedores.
+O seu calendário de eventos e programações para não ficar em casa e codar com a comunidade de desenvolvedores.
 
-A idéia principal é de forma colaborativa manter um caledário central de eventos, onde qualquer um pode publicar um evento via Pull Request, ou até mesmo excluir um passado.
+O **Saia de casa** é um projeto colaborativo, e tem como principal ideia manter um caledário central de eventos, onde qualquer um possa publicar eventos futuros (via [Pull Request](https://github.com/saiadecasa/saiadecasa.github.io/pulls)), ou até mesmo excluir um evento passado.
 
-Contribua ou nos de alguma sugestão. 
+[Contribua com este projeto](https://github.com/saiadecasa/saiadecasa.github.io/pulls) ou nos envie a sua [sugestão](https://github.com/saiadecasa/saiadecasa.github.io/issues).
