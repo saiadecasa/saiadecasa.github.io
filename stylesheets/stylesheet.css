@@ -369,3 +369,17 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
+
+/* #FontAwesome links
+========================= */
+ 
+.awesome-link:before {
+    content: "\f0c1"; 
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    padding-right: 0.5em;
+    color: #000;
+}

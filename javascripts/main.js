@@ -10,15 +10,19 @@
         var content = this.innerHTML;
         console.log(content);
 
-        // pegar o id
-        var id = this.id;
-        console.log(id);
+        // monta slug
+        var slug = getSlug(content);
+        console.log(slug);
 
         // colocar uma âncora no conteúdo
-        content = '<a href="#' + id + '">' + content + '</a>';
+        content = '<a class="anchor" href="#' + slug + '" name="' + slug + '">'
+            + '<span class="awesome awesome-link"></span></a>' + content;
 
         // troca content
         this.innerHTML = content;
+
+        // remove id do h4
+        this.id = null;
     });
 
 })();
