@@ -20,7 +20,7 @@
         }
 
         // colocar link no conteúdo
-        content = '<a class="anchor" href="#' + slug + '" name="' + slug + '">'
+        content = '<a class="anchor" href="#' + link + '" name="' + link + '">'
             + '<span class="awesome awesome-link"></span></a>' + content;
 
         // trocar content
