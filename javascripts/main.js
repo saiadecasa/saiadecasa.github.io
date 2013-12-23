@@ -7,7 +7,6 @@
 
         // pegar conteúdo atual
         var content = this.innerHTML;
-        console.log(content);
 
         if (this.id) {
             // usar o id da tag, se houver
