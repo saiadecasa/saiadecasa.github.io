@@ -337,6 +337,11 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+/* SaiaDeCasa Maps */
+.sdc_maps iframe {
+  float: right;
+}
+
 /* #Media Queries
 ================================================== */
 
