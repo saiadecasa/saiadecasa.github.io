@@ -11,3 +11,13 @@ O **Saia de Casa** é um projeto colaborativo, e tem como principal ideia manter
 
 
 [![Gitter chat](https://badges.gitter.im/saiadecasa.png)](https://gitter.im/saiadecasa)
+
+**Como contribuir com o projeto:**
+
+- Faça um fork do projeto em seu repositório local
+- Copie a url que está localizado no canto inferior direito 
+- Crie um diretório em seu computador e digite em seu terminal: git clone https://github.com/saiadecasa/saiadecasa.github.io.git
+- Abra o arquivo index.html e edite o arquivo inserindo o evento que deseja, adicione e dê seu commit falando sobre o título do evento adicionado
+- Depois dê um push em seu repositório local através do terminal: git push origin master
+- Estando com o projeto alterado e pronto, vá até o projeto principal(https://github.com/saiadecasa/saiadecasa.github.io) e dê um pull request(o botão verder)
+- Diga qual foi o evento adicionado e pronto.
