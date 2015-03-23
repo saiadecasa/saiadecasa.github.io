@@ -1,5 +1,19 @@
 (function(){
-    // pegar todos os h4
+
+    //onde pagina sera gerada
+    var $inner = $('#main_content');
+
+    //o objeto de eventos
+    var events = Events.getEvents(); 
+
+    //usando underscore (_) para gerar HTML
+    var template = _.template( Events.getTemplate() );
+
+    events.forEach(function( event ){
+        $inner.append( template( event ) );
+    });
+
+    //pegar todos os h4
     var headings = $( "h4" );
 
     // adicionar link em todos os h4
