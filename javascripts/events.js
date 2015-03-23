@@ -51,28 +51,9 @@
 			}
 		];
 
-		var template = 
-			'<h4><%= titulo %></h4>' + 
-            '<ul>' + 
-              '<li><b>Data:</b><%= data %></li>' + 
-              '<li><b>Local:</b><%= local %> </li>' + 
-              '<li><b>Endereço:</b><%= endereco %></li>' +
-              '<% if(embed_link) { %>'+ 
-               '<div class="sdc_maps clearfix"><br/>' +
-                '<iframe src="<%= embed_link %>" width="100%" height="450" frameborder="0" style="border:0"></iframe>' + 
-               '</div>'+
-               '<% } %>'+
-            '</ul>'+
-            '<p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>'+
-            '<hr>';
-       		
-
 		w.Events = {
-				getEvents : function(){
+				getAll : function(){
 					return events; 
-				},
-				getTemplate : function(){
-					return template; 
 				}
 		};
 })(window);
