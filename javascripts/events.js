@@ -50,6 +50,14 @@
                 link : "http://www.conferenciacssbrasil.com.br/"
             },
             {
+                titulo : "The Developers Conference - Florianópolis",
+                data : "13 a 16 de maio",
+                local : "Oceania Convention Center",
+                endereco : "Rua do Marisco, 550 - Ingleses - Florianópolis",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3541.1684351171016!2d-48.399936!3d-27.432861!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527420773711be1%3A0xdd51edbd5dfb6a15!2sOceania+Convention+Center!5e0!3m2!1spt-BR!2sbr!4v1428577375490",
+                link : "http://www.thedevelopersconference.com.br/"
+            },
+            {
                 titulo : "RuPy Campinas",
                 data : "20 de junho",
                 local : "Faculdade de Engenharia Elétrica e de Computação (FEEC) - Unicamp",
