@@ -26,14 +26,6 @@
                 link : "http://2015.pythonnordeste.org/"
             },
             {
-                titulo : "Tropical Ruby 15",
-                data : "5 a 8 Março",
-                local : "Porto de Galinhas, Recife, Pernambuco",
-                endereco : "Gleba 6-A, Propriedade Merepe - C, S/N, Praia de Muro Alto, Ipojuca - PE",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31573.284728669678!2d-34.97670095442575!3d-8.43495210609904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7aaeccd4ed3ad69%3A0x267605f86a114960!2sSummervilleBeach+Resort!5e0!3m2!1spt-BR!2sbr!4v1417457103658",
-                link : "http://tropicalrb.com/"
-            },
-            {
                 titulo : "Conferência CSS Brasil",
                 data : "9 de maio",
                 local : "Hotel Maksoud Plaza",
