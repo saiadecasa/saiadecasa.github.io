@@ -2,12 +2,12 @@
 
         var events = [
             {
-                titulo : "PHPSP + Pub - Abril 2015",
-                data : "09 de abril de 2015",
-                local : "Gibi Cultura Geek",
-                endereco : "Rua Major Maragliano, 364, Vila Mariana, São Paulo",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.428804182697!2d-46.63918690000002!3d-23.5889497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a283513ee27%3A0x76950c1ef28fd7ef!2sR.+Maj.+Maragliano%2C+364+-+Vila+Mariana%2C+S%C3%A3o+Paulo+-+SP%2C+04017-030!5e0!3m2!1spt-BR!2sbr!4v1428202812516",
-                link : "http://www.meetup.com/php-sp/events/220261009/"
+                titulo : "Alagoas Dev Day",
+                data : "18 de Abril",
+                local : "Colégio Contato",
+                endereco : "Rua Prof. Silvio de Macedo, 125, Jatiúca, Maceió - AL",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3933.405863603271!2d-35.70357200000001!3d-9.646319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x55baf0344682c769!2sCol%C3%A9gio+Contato!5e0!3m2!1spt-BR!2sbr!4v1423048047491",
+                link : "http://alagoasdevday.com.br/"
             },
             {
                 titulo : "PHP Experience 2015",
@@ -18,28 +18,12 @@
                 link : "http://phpexperience.imasters.com.br/"
             },
             {
-                titulo : "Alagoas Dev Day",
-                data : "18 de Abril",
-                local : "Colégio Contato",
-                endereco : "Rua Prof. Silvio de Macedo, 125, Jatiúca, Maceió - AL",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3933.405863603271!2d-35.70357200000001!3d-9.646319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x55baf0344682c769!2sCol%C3%A9gio+Contato!5e0!3m2!1spt-BR!2sbr!4v1423048047491",
-                link : "http://alagoasdevday.com.br/"
-            },
-            {
                 titulo : "Python Nordeste 2015",
                 data : "7 a 9 de Maio",
                 local : "Natal - Rio Grande do Norte",
                 endereco : "A ser definido.",
                 embed_link : "",
                 link : "http://2015.pythonnordeste.org/"
-            },
-            {
-                titulo : "Tropical Ruby 15",
-                data : "5 a 8 Março",
-                local : "Porto de Galinhas, Recife, Pernambuco",
-                endereco : "Gleba 6-A, Propriedade Merepe - C, S/N, Praia de Muro Alto, Ipojuca - PE",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31573.284728669678!2d-34.97670095442575!3d-8.43495210609904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7aaeccd4ed3ad69%3A0x267605f86a114960!2sSummervilleBeach+Resort!5e0!3m2!1spt-BR!2sbr!4v1417457103658",
-                link : "http://tropicalrb.com/"
             },
             {
                 titulo : "Conferência CSS Brasil",
