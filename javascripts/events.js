@@ -19,10 +19,10 @@
             },
             {
                 titulo : "Python Nordeste 2015",
-                data : "7 a 9 de Maio",
+                data : "14 a 16 de Maio",
                 local : "Natal - Rio Grande do Norte",
-                endereco : "A ser definido.",
-                embed_link : "",
+                endereco : "Hotel Imirá Plaza - Via Costeira",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3969.1976254172037!2d-35.182604000000005!3d-5.827737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2ffb83562ed77%3A0xea0923125a199def!2sImir%C3%A1+Plaza+Hotel+%26+Convention!5e0!3m2!1spt-BR!2sbr!4v1429061393672",
                 link : "http://2015.pythonnordeste.org/"
             },
             {
