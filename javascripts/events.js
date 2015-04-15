@@ -30,7 +30,7 @@
                 data : "9 de maio",
                 local : "Hotel Maksoud Plaza",
                 endereco : "Alameda Campinas, 150 - Jardins - São Paulo",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.648689672884!2d-46.62610489999997!3d-23.509160099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce588236e91cd7%3A0xe31031a002bd81fe!2sR.+Volunt%C3%A1rios+da+P%C3%A1tria%2C+1284+-+Santana%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1420646906122",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.135260480343!2d-46.6509437!3d-23.563585099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59b801642931%3A0xa48173eb179da934!2sAlameda+Campinas%2C+150+-+Jardim+Paulista%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1429064817546",
                 link : "http://www.conferenciacssbrasil.com.br/"
             },
             {
