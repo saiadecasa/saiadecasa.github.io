@@ -14,6 +14,18 @@
         $inner.append( template( event ) );
     });
 
+    $('.sdc_staticmaps').on('click', function () {
+        var $this = $(this);
+        var $canvas = $this.parent().find('.sdc_maps');
+        var evento = Events.getByTitulo($this.data('titulo'));
+
+        if ($canvas.data('rendered') === 0) {
+            $canvas.html('<br><iframe src="' + evento.embed_link + '" width="100%" height="450" frameborder="0" style="border:0"></iframe>');
+            $this.fadeOut(500);
+            $canvas.show();
+        }
+    });
+
     //pegar todos os h4
     var headings = $( "h4" );
 
