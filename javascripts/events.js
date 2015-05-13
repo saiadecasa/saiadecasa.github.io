@@ -38,6 +38,18 @@
                 link : "http://2015.pythonnordeste.org/"
             },
             {
+                titulo : "17º Encontro Locaweb de Profissionais de Internet - São Paulo",
+                data : "18 de junho",
+                local : "Fecomercio-SP",
+                endereco : "Rua Doutor Plínio Barreto, 285 - Bela Vista, São Paulo - SP, 01313-020",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7314.5998102613485!2d-46.652248!3d-23.55767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x21c71fd197983309!2sFedera%C3%A7%C3%A3o+do+Com%C3%A9rcio+do+Estado+de+S%C3%A3o+Paulo!5e0!3m2!1spt-BR!2sbr!4v1424887846908",
+                localizacao : {
+                    latitude: -23.55767,
+                    longitude: -46.652248
+                },
+                link : "http://eventos.locaweb.com.br/17o-encontro-locaweb-de-profissionais-de-internet-de-sao-paulo/"
+            },
+            {
                 titulo : "RuPy Campinas",
                 data : "20 de junho",
                 local : "Faculdade de Engenharia Elétrica e de Computação (FEEC) - Unicamp",
