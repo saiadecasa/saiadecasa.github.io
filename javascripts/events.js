@@ -14,6 +14,30 @@
                 link : "http://tecnologia.bandtec.com.br/atividades-praticas-sobre-tendencias-em-ti-graduacao/"
             },
             {
+                titulo : "Workshop: Primeiros passos em Programação com Arduino",
+                data : "17 de junho",
+                local : "Faculdade Bandtec",
+                endereco : "Rua Estela, 268 - Vila Mariana, São Paulo - SP, 04011-001",
+                embed_link : "https://www.google.com.br/maps/place/Faculdade+de+Tecnologia+Bandeirantes+-+Bandtec/@-23.577697,-46.643358,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce59905987b185:0x694b9d3b5828073f",
+                localizacao : {
+                    latitude: -23.577689,
+                    longitude: -46.643360
+                },
+                link : "http://tecnologia.bandtec.com.br/atividades-praticas-sobre-tendencias-em-ti-graduacao/"
+            },
+            {
+                titulo : "Workshop: Banco de Dados",
+                data : "18 de junho",
+                local : "Faculdade Bandtec",
+                endereco : "Rua Estela, 268 - Vila Mariana, São Paulo - SP, 04011-001",
+                embed_link : "https://www.google.com.br/maps/place/Faculdade+de+Tecnologia+Bandeirantes+-+Bandtec/@-23.577697,-46.643358,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce59905987b185:0x694b9d3b5828073f",
+                localizacao : {
+                    latitude: -23.577689,
+                    longitude: -46.643360
+                },
+                link : "http://tecnologia.bandtec.com.br/atividades-praticas-sobre-tendencias-em-ti-graduacao/"
+            },
+            {
                 titulo : "17º Encontro Locaweb de Profissionais de Internet - São Paulo",
                 data : "18 de junho",
                 local : "Fecomercio-SP",
