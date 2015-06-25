@@ -2,64 +2,16 @@
 
         var events = [
             {
-                titulo : "Workshop: Análise de Vulnerabilidade em Ambientes Wireless",
-                data : "16 de junho",
-                local : "Faculdade Bandtec",
-                endereco : "Rua Estela, 268 - Vila Mariana, São Paulo - SP, 04011-001",
-                embed_link : "https://www.google.com.br/maps/place/Faculdade+de+Tecnologia+Bandeirantes+-+Bandtec/@-23.577697,-46.643358,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce59905987b185:0x694b9d3b5828073f",
+                titulo : "DrupalCamp São Paulo 2015",
+                data : "26 e 27 de junho",
+                local : "Impacta Tecnologia",
+                endereco : "Avenida Rudge, 315 - Bom Retiro, São Paulo - SP, 01133-000",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.195126999969!2d-46.6495323!3d-23.525483299999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce586d6fa31fab%3A0x31356ea05c4cb1b!2sAv.+Rudge%2C+315+-+Bom+Retiro%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1sen!2sbr!4v1435189959302",
                 localizacao : {
-                    latitude: -23.577689,
-                    longitude: -46.643360
+                    latitude: -23.525551,
+                    longitude: -46.649487
                 },
-                link : "http://tecnologia.bandtec.com.br/atividades-praticas-sobre-tendencias-em-ti-graduacao/"
-            },
-            {
-                titulo : "Workshop: Primeiros passos em Programação com Arduino",
-                data : "17 de junho",
-                local : "Faculdade Bandtec",
-                endereco : "Rua Estela, 268 - Vila Mariana, São Paulo - SP, 04011-001",
-                embed_link : "https://www.google.com.br/maps/place/Faculdade+de+Tecnologia+Bandeirantes+-+Bandtec/@-23.577697,-46.643358,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce59905987b185:0x694b9d3b5828073f",
-                localizacao : {
-                    latitude: -23.577689,
-                    longitude: -46.643360
-                },
-                link : "http://tecnologia.bandtec.com.br/atividades-praticas-sobre-tendencias-em-ti-graduacao/"
-            },
-            {
-                titulo : "Workshop: Banco de Dados",
-                data : "18 de junho",
-                local : "Faculdade Bandtec",
-                endereco : "Rua Estela, 268 - Vila Mariana, São Paulo - SP, 04011-001",
-                embed_link : "https://www.google.com.br/maps/place/Faculdade+de+Tecnologia+Bandeirantes+-+Bandtec/@-23.577697,-46.643358,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce59905987b185:0x694b9d3b5828073f",
-                localizacao : {
-                    latitude: -23.577689,
-                    longitude: -46.643360
-                },
-                link : "http://tecnologia.bandtec.com.br/atividades-praticas-sobre-tendencias-em-ti-graduacao/"
-            },
-            {
-                titulo : "17º Encontro Locaweb de Profissionais de Internet - São Paulo",
-                data : "18 de junho",
-                local : "Fecomercio-SP",
-                endereco : "Rua Doutor Plínio Barreto, 285 - Bela Vista, São Paulo - SP, 01313-020",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7314.5998102613485!2d-46.652248!3d-23.55767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x21c71fd197983309!2sFedera%C3%A7%C3%A3o+do+Com%C3%A9rcio+do+Estado+de+S%C3%A3o+Paulo!5e0!3m2!1spt-BR!2sbr!4v1424887846908",
-                localizacao : {
-                    latitude: -23.55767,
-                    longitude: -46.652248
-                },
-                link : "http://eventos.locaweb.com.br/17o-encontro-locaweb-de-profissionais-de-internet-de-sao-paulo/"
-            },
-            {
-                titulo : "RuPy Campinas",
-                data : "20 de junho",
-                local : "Faculdade de Engenharia Elétrica e de Computação (FEEC) - Unicamp",
-                endereco : "Avenida Albert Einstein, 400 - Cidade Universitária - Campinas",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7355.074395894319!2d-47.064721568999175!3d-22.819606489990303!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8c6add6b9f5d3%3A0x82e3f5267d13e82c!2sAv.+Albert+Einstein%2C+400+-+Cidade+Universit%C3%A1ria%2C+Faculdade+de+Engenharia+El%C3%A9trica+e+Computa%C3%A7%C3%A3o+(FEEC)%2C+Universidade+Estadual+de+Campinas+-+Campinas+-+SP%2C+13083-852!5e0!3m2!1sen!2sbr!4v1424211246725",
-                localizacao : {
-                    latitude: -22.819606489990303,
-                    longitude: -47.064721568999175
-                },
-                link : "http://campinas.rupy.com.br/"
+                link : "http://saopaulo.drupalcamp.com.br/2015/"
             },
             {
                 titulo : "The Developers Conference - São Paulo",
