@@ -2,6 +2,18 @@
 
         var events = [
             {
+                titulo : "DrupalCamp São Paulo 2015",
+                data : "26 e 27 de junho",
+                local : "Impacta Tecnologia",
+                endereco : "Avenida Rudge, 315 - Bom Retiro, São Paulo - SP, 01133-000",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.195126999969!2d-46.6495323!3d-23.525483299999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce586d6fa31fab%3A0x31356ea05c4cb1b!2sAv.+Rudge%2C+315+-+Bom+Retiro%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1sen!2sbr!4v1435189959302",
+                localizacao : {
+                    latitude: -23.525551,
+                    longitude: -46.649487
+                },
+                link : "http://saopaulo.drupalcamp.com.br/2015/"
+            },
+            {
                 titulo : "The Developers Conference - São Paulo",
                 data : "21 a 25 de julho",
                 local : "Universidade Anhembi Morumbi",
