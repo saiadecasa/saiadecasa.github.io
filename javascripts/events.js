@@ -2,6 +2,18 @@
 
         var events = [
             {
+                titulo : "Front-End Carioca 2015",
+                data : "26 de setembro",
+                local : "Clube de Engenharia",
+                endereco : "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ",
+                embed_link : "https://www.google.com.br/maps/place/Clube+de+Engenharia/@-22.9025174,-43.1777431,16z/data=!4m5!1m2!2m1!1sAv.+Rio+Branco,+124+-+Centro,+Rio+de+Janeiro+-+RJ+CEP:+20040-001!3m1!1s0x997f5e44942bed:0xe6f52d490fb5bcf0",
+                localizacao : {
+                    latitude: -22.9025174,
+                    longitude: -43.1777431
+                },
+                link : "http://frontendcarioca.com.br/"
+            },         
+            {
                 titulo : "BrazilJS Conf 2015",
                 data : "21 e 22 de agosto",
                 local : "Shopping Center BarraShoppingSul",
