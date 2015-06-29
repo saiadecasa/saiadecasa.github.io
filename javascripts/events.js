@@ -2,6 +2,18 @@
 
         var events = [
             {
+                titulo : "Front-End Carioca 2015",
+                data : "26 de setembro",
+                local : "Clube de Engenharia",
+                endereco : "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ",
+                embed_link : "https://www.google.com.br/maps/place/Clube+de+Engenharia/@-22.9025174,-43.1777431,16z/data=!4m5!1m2!2m1!1sAv.+Rio+Branco,+124+-+Centro,+Rio+de+Janeiro+-+RJ+CEP:+20040-001!3m1!1s0x997f5e44942bed:0xe6f52d490fb5bcf0",
+                localizacao : {
+                    latitude: -22.9025174,
+                    longitude: -43.1777431
+                },
+                link : "http://frontendcarioca.com.br/"
+            },         
+            {
                 titulo : "BrazilJS Conf 2015",
                 data : "21 e 22 de agosto",
                 local : "Shopping Center BarraShoppingSul",
@@ -37,18 +49,6 @@
                 },
                 link : "http://www.thedevelopersconference.com.br/"
             },
-            {
-                titulo : "Front in BH 2014",
-                data : "26 de julho",
-                local : "Teatro Ney Soares",
-                endereco : "R. Diamantina, 488 - Lagoinha, MG, 31110-320",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m22!1m12!1m3!1d3751.390672182783!2d-43.94352446951748!3d-19.90793534328476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m7!1i0!3e6!4m0!4m3!3m2!1d-19.907978999999997!2d-43.941421999999996!5e0!3m2!1sen!2s!4v1402416646316",
-                localizacao : {
-                    latitude: -19.9077883,
-                    longitude: -43.9414493
-                },
-                link : "http://frontinbh.com.br/"
-            }
         ];
 
         w.Events = {
