@@ -12,7 +12,19 @@
                     longitude: -43.1777431
                 },
                 link : "http://frontendcarioca.com.br/"
-            },         
+            },
+            {
+                titulo : "Mobile Summit",
+                data : "26 de setembro",
+                local : "Nós Coworking",
+                endereco : "Av. Cristovao Colombo, 545 - Prédio 02 - 3º andar, Porto Alegre - RS",
+                embed_link : "https://www.google.com.br/maps/place/N%C3%B3s+Coworking/@-30.0255108,-51.212344,17z/data=!3m1!4b1!4m2!3m1!1s0x951979a561211cef:0x523e58ce2e6fac7d",
+                localizacao : {
+                    latitude: -30.0255108,
+                    longitude: -51.212344
+                },
+                link : "http://www.facebook.com/events/760732324024794/"
+            },
             {
                 titulo : "BrazilJS Conf 2015",
                 data : "21 e 22 de agosto",
