@@ -9,8 +9,4 @@ O **Saia de Casa** é um projeto colaborativo, e tem como principal ideia manter
 
 [Contribua com este projeto](CONTRIBUTING.md) ou nos envie a sua [sugestão](https://github.com/saiadecasa/saiadecasa.github.io/issues).
 
-**Obs:** Para que o mapa renderize corretamente e habilite a navegação, copie o link do Google Maps em: 
-
-*"Settings > Compartilhar ou Incorporar mapa > Incorporar mapa"*
-
 [![Gitter chat](https://badges.gitter.im/saiadecasa.png)](https://gitter.im/saiadecasa)
