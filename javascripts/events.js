@@ -6,10 +6,10 @@
                 data : "26 de setembro",
                 local : "Clube de Engenharia",
                 endereco : "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ",
-                embed_link : "https://www.google.com.br/maps/place/Clube+de+Engenharia/@-22.9025174,-43.1777431,16z/data=!4m5!1m2!2m1!1sAv.+Rio+Branco,+124+-+Centro,+Rio+de+Janeiro+-+RJ+CEP:+20040-001!3m1!1s0x997f5e44942bed:0xe6f52d490fb5bcf0",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.229129110692!2d-43.1780723!3d-22.904918100000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5e44176677%3A0x13531119e47c4cc9!2sAv.+Rio+Branco%2C+124+-+Centro%2C+Rio+de+Janeiro+-+RJ%2C+20040-001!5e0!3m2!1spt-BR!2sbr!4v1435802972051",
                 localizacao : {
-                    latitude: -22.9025174,
-                    longitude: -43.1777431
+                    latitude: -22.9049181,
+                    longitude: -43.1780723
                 },
                 link : "http://frontendcarioca.com.br/"
             },
@@ -18,10 +18,10 @@
                 data : "26 de setembro",
                 local : "Nós Coworking",
                 endereco : "Av. Cristovao Colombo, 545 - Prédio 02 - 3º andar, Porto Alegre - RS",
-                embed_link : "https://www.google.com.br/maps/place/N%C3%B3s+Coworking/@-30.0255108,-51.212344,17z/data=!3m1!4b1!4m2!3m1!1s0x951979a561211cef:0x523e58ce2e6fac7d",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.665708962401!2d-51.1960402!3d-30.0177538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979bacf9a52cb%3A0xaf13de93d92ca85f!2sCondom%C3%ADnio+do+Edif%C3%ADcio+Cinderela+-+Av.+Crist%C3%B3v%C3%A3o+Colombo%2C+2472+-+Floresta%2C+Porto+Alegre+-+RS%2C+90560-002!5e0!3m2!1spt-BR!2sbr!4v1435802499425",
                 localizacao : {
-                    latitude: -30.0255108,
-                    longitude: -51.212344
+                    latitude: -30.0177538,
+                    longitude: -51.1960402
                 },
                 link : "http://www.facebook.com/events/760732324024794/"
             },
