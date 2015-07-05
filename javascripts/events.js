@@ -26,18 +26,6 @@
                 link : "http://www.facebook.com/events/760732324024794/"
             },
             {
-                titulo : "BrazilJS Conf 2015",
-                data : "21 e 22 de agosto",
-                local : "Shopping Center BarraShoppingSul",
-                endereco : "Av. Diário de Notícias, 300, bairro Cristal, Porto Alegre, RS",
-                embed_link : "https://www.google.com/maps/place/30%C2%B004'58.3%22S+51%C2%B014'49.2%22W/@-30.082806,-51.2469509,17z/data=!4m2!3m1!1s0x0:0x0?hl=pt-BR",
-                localizacao : {
-                    latitude: -30.0828617,
-                    longitude: -51.246993799999984
-                },
-                link : "http://braziljs.com.br/"
-            },
-            {
                 titulo : "Mobile Summit",
                 data : "26 de setembro",
                 local : "Espaço de Eventos Nós Coworking",
@@ -48,6 +36,18 @@
                     longitude: -51.212344099999996
                 },
                 link : "http://www.msummit.com.br/"
+            },            
+            {
+                titulo : "BrazilJS Conf 2015",
+                data : "21 e 22 de agosto",
+                local : "Shopping Center BarraShoppingSul",
+                endereco : "Av. Diário de Notícias, 300, bairro Cristal, Porto Alegre, RS",
+                embed_link : "https://www.google.com/maps/place/30%C2%B004'58.3%22S+51%C2%B014'49.2%22W/@-30.082806,-51.2469509,17z/data=!4m2!3m1!1s0x0:0x0?hl=pt-BR",
+                localizacao : {
+                    latitude: -30.0828617,
+                    longitude: -51.246993799999984
+                },
+                link : "http://braziljs.com.br/"
             },
             {
                 titulo : "The Developers Conference - São Paulo",
