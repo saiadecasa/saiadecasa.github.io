@@ -38,6 +38,18 @@
                 link : "http://braziljs.com.br/"
             },
             {
+                titulo : "Mobile Summit",
+                data : "26 de setembro",
+                local : "Espaço de Eventos Nós Coworking",
+                endereco : "Av. Cristovão Colombo, 545, Bairro Floresta, Porto Alegre/RS",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.3954512080195!2d-51.212343999999995!3d-30.0255108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979a561211cef%3A0x523e58ce2e6fac7d!2sN%C3%B3s+Coworking!5e0!3m2!1spt-BR!2sbr!4v1436064787490",
+                localizacao : {
+                    latitude: -30.025513131441684,
+                    longitude: -51.212344099999996
+                },
+                link : "http://www.msummit.com.br/"
+            },
+            {
                 titulo : "The Developers Conference - São Paulo",
                 data : "21 a 25 de julho",
                 local : "Universidade Anhembi Morumbi",
