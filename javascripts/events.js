@@ -61,6 +61,18 @@
                 },
                 link : "http://www.thedevelopersconference.com.br/"
             },
+            {
+                titulo : "Meetup RioJS",
+                data : "18 de julho",
+                local : "He:labs",
+                endereco : "Rua da Glória, 190 - sala 1002 - Glória, Rio de Janeiro - RJ ",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3674.854622520986!2d-43.1776643!3d-22.9187324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f7c53432603%3A0x14ef96e1337504eb!2sR.+da+Gl%C3%B3ria%2C+190+-+Gl%C3%B3ria%2C+Rio+de+Janeiro+-+RJ%2C+20241-180%2C+Brasil!5e0!3m2!1spt-BR!2sus!4v1436134224050",
+                localizacao : {
+                    latitude: -22.9187324,
+                    longitude: -43.1776643
+                },
+                link : "http://www.eventick.com.br/meetup-riojs-julho-2015"
+            },
         ];
 
         w.Events = {
