@@ -12,7 +12,7 @@
                     longitude: -43.1776643
                 },
                 link : "http://www.eventick.com.br/meetup-riojs-julho-2015"
-            },            
+            },
             {
                 titulo : "The Developers Conference - São Paulo",
                 data : "21 a 25 de julho",
@@ -36,6 +36,18 @@
                     longitude: -42.9173542
                 },
                 link : "http://braziljs.com.br/"
+            },
+            {
+                titulo : "Android DevConference 2015",
+                data : "29 de agosto",
+                local : "Hotel Renaissance",
+                endereco : "Av. Alameda Santos, 2233, São Paulo - SP",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2665262031114!2d-46.662335999999996!3d-23.5588693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59d2c9a0e4c3%3A0x32c2ff75b7acd122!2sAlameda+Santos%2C+2233+-+Jardim+Paulista%2C+S%C3%A3o+Paulo+-+SP%2C+01419-002!5e0!3m2!1spt-BR!2sbr!4v1437063872582",
+                localizacao : {
+                    latitude: -23.5588693,
+                    longitude: -46.6623359
+                },
+                link : "http://androidconference.imasters.com.br/"
             },
             {
                 titulo : "Front-End Carioca 2015",
