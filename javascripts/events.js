@@ -50,6 +50,18 @@
                 link : "http://androidconference.imasters.com.br/"
             },
             {
+                titulo : "WordCamp Rio de Janeiro 2015",
+                data : "29 de agosto",
+                local : "Senac Flamengo",
+                endereco : "Rua Marquês de Abrantes, 99 – Flamengo – Rio de Janeiro, RJ",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d3674.371875920687!2d-43.1773033!3d-22.9365277!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x997f88f435624f%3A0x83ed42214af802dd!2sR.+Marqu%C3%AAs+de+Abrantes%2C+99+-+Flamengo%2C+Rio+de+Janeiro+-+RJ%2C+22230-061!3m2!1d-22.9365277!2d-43.1773033!5e0!3m2!1spt-BR!2sbr!4v1437756544681",
+                localizacao : {
+                    latitude: -22.9365277,
+                    longitude: -43.1773033
+                },
+                link : "https://riodejaneiro.wordcamp.org/2015/"
+            },
+            {
                 titulo : "Front-End Carioca 2015",
                 data : "26 de setembro",
                 local : "Clube de Engenharia",
