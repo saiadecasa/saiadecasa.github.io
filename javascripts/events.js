@@ -2,28 +2,16 @@
 
         var events = [
             {
-                titulo : "Meetup RioJS",
-                data : "18 de julho",
-                local : "He:labs",
-                endereco : "Rua da Glória, 190 - sala 1002 - Glória, Rio de Janeiro - RJ ",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3674.854622520986!2d-43.1776643!3d-22.9187324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f7c53432603%3A0x14ef96e1337504eb!2sR.+da+Gl%C3%B3ria%2C+190+-+Gl%C3%B3ria%2C+Rio+de+Janeiro+-+RJ%2C+20241-180%2C+Brasil!5e0!3m2!1spt-BR!2sus!4v1436134224050",
+                titulo : "Campinas Front-End Meetup",
+                data : "01 de agosto",
+                local : "CDI Campinas",
+                endereco : "Av. Nestor Castanheira, 80, Vila Industrial, Campinas - SP",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d14715.652343097261!2d-42.9173542!3d-22.76860655!3m2!1i1024!2i768!4f13.1!2m1!1sAv.+Di%C3%A1rio+de+Not%C3%ADcias%2C+300%2C+bairro+Cristal%2C+Porto+Alegre%2C+RS!5e0!3m2!1spt-BR!2sbr!4v1436140686717",
                 localizacao : {
-                    latitude: -22.9187324,
-                    longitude: -43.1776643
+                    latitude: -22.912374,
+                    longitude: -47.069336
                 },
-                link : "http://www.eventick.com.br/meetup-riojs-julho-2015"
-            },
-            {
-                titulo : "The Developers Conference - São Paulo",
-                data : "21 a 25 de julho",
-                local : "Universidade Anhembi Morumbi",
-                endereco : "Rua Casa do Ator, 275 - Vila Olímpia - São Paulo - SP",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.1174053028217!2d-46.677008!3d-23.600122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57536602d7f7%3A0xe8034f1be9c3a8b8!2sUniversidade+Anhembi+Morumbi!5e0!3m2!1spt-BR!2sbr!4v1431381035864",
-                localizacao : {
-                    latitude: -23.600122,
-                    longitude: -46.677008
-                },
-                link : "http://www.thedevelopersconference.com.br/"
+                link : "http://www.meetup.com/pt/Campinas-Front-End-Meetup/events/223794842/"
             },
             {
                 titulo : "BrazilJS Conf 2015",
