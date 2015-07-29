@@ -62,6 +62,18 @@
                 link : "https://riodejaneiro.wordcamp.org/2015/"
             },
             {
+                titulo : "Conferência Web.br 2015",
+                data : "22 e 23 de setembro",
+                local : "Centro de Convenções Rebolsas",
+                endereco : "Rua Doutor Enéas de Carvalho Aguiar, 23 - Cerqueira Cesar",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.304241239964!2d-46.66812059999998!3d-23.5575142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce582b0020752d%3A0x3c6835cc0084f24c!2sAv.+Dr.+En%C3%A9as+de+Carvalho+Aguiar%2C+23+-+Cerqueira+C%C3%A9sar%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1sen!2sbr!4v1438211682234",
+                localizacao : {
+                    latitude: -23.557352,
+                    longitude: -46.668105
+                },
+                link : "http://conferenciaweb.w3c.br/"
+            },
+            {
                 titulo : "Front-End Carioca 2015",
                 data : "26 de setembro",
                 local : "Clube de Engenharia",
