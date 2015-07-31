@@ -62,6 +62,18 @@
                 link : "https://riodejaneiro.wordcamp.org/2015/"
             },
             {
+                titulo : "RubyConf Brasil",
+                data : "18 e 19 de Setembro",
+                local : "FECOMERCIO SP",
+                endereco : "Rua Doutor Plínio Barreto, 285 - Bela Vista - São Paulo",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7314.430140061132!2d-46.653856000000005!3d-23.560717999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x21c71fd197983309!2sFedera%C3%A7%C3%A3o+do+Com%C3%A9rcio+do+Estado+de+S%C3%A3o+Paulo!5e0!3m2!1spt-BR!2sus!4v1438352225051",
+                localizacao : {
+                    latitude: -23.55797,
+                    longitude: -46.652316
+                },
+                link : "http://www.rubyconf.com.br/pt-BR/home"
+            },
+            {
                 titulo : "Conferência Web.br 2015",
                 data : "22 e 23 de setembro",
                 local : "Centro de Convenções Rebolsas",
@@ -108,7 +120,7 @@
                     longitude: -45.883767
                 },
                 link : "http://frontinvale.com.br/"
-            },
+            }
         ];
 
         w.Events = {
