@@ -96,7 +96,19 @@
                     longitude: -51.212344
                 },
                 link : "http://www.msummit.com.br/"
-            }
+            },
+            {
+                titulo : "Front in Vale",
+                data : "28 de Setembro",
+                local : "Faro Hotel São José dos Campos",
+                endereco : "Rua Síria, Jardim Oswaldo Cruz, São José dos Campos - São Paulo",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7334.556781778243!2d-45.88264!3d-23.196523!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4a42f3190209%3A0x91ee04f155df318e!2sFaro+Hotel!5e0!3m2!1spt-BR!2sus!4v1438354820485",
+                localizacao : {
+                    latitude: -23.198722,
+                    longitude: -45.883767
+                },
+                link : "http://frontinvale.com.br/"
+            },
         ];
 
         w.Events = {
