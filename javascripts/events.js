@@ -62,6 +62,18 @@
                 link : "https://riodejaneiro.wordcamp.org/2015/"
             },
             {
+                titulo : "JoomlaDay Brasil 2015",
+                data : "4 a 6 de Setembro",
+                local : "Universidade Católica de Brasília",
+                endereco : "QS 07, Lote 01, EPCT, s/n - Águas Claras, Brasília - DF",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3837.7826667761815!2d-48.02944694442749!3d-15.86801596095458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2d99eddf2aeb%3A0x1f93c6652deda3dc!2sUCB+-+Universidade+Cat%C3%B3lica+de+Bras%C3%ADlia!5e0!3m2!1spt-BR!2sbr!4v1439132769648",
+                localizacao : {
+                    latitude: -15.8680159,
+                    longitude: -48.0294469
+                },
+                link : "http://joomladaybrasil.org/2015/"
+            },
+            {
                 titulo : "RubyConf Brasil",
                 data : "18 e 19 de Setembro",
                 local : "FECOMERCIO SP",
