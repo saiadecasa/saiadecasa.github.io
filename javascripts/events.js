@@ -2,30 +2,6 @@
 
         var events = [
             {
-                titulo : "1º Nodeschool Campinas",
-                data : "31 de julho",
-                local : "Princi Web - Agência Digital",
-                endereco : "Av. Júlio Diniz, 435 - Jardim Ns. Auxiliadora, Campinas",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.916823387267!2d-47.058397299999996!3d-22.879530799999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8c6081d772e1d%3A0xa5cda7f0aea12787!2sAv.+J%C3%BAlio+Diniz%2C+435+-+Jardim+Nossa+Sra.+Auxiliadora%2C+Campinas+-+SP%2C+13075-420%2C+Brazil!5e0!3m2!1sen!2sus!4v1438013309499",
-                localizacao : {
-                    latitude: -22.879358,
-                    longitude: -47.058381
-                },
-                link : "http://www.meetup.com/pt/Nodeschool-Campinas/events/223778257/"
-            },
-            {
-                titulo : "Campinas Front-End Meetup",
-                data : "01 de agosto",
-                local : "CDI Campinas",
-                endereco : "Av. Nestor Castanheira, 80, Vila Industrial, Campinas - SP",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d14715.652343097261!2d-42.9173542!3d-22.76860655!3m2!1i1024!2i768!4f13.1!2m1!1sAv.+Di%C3%A1rio+de+Not%C3%ADcias%2C+300%2C+bairro+Cristal%2C+Porto+Alegre%2C+RS!5e0!3m2!1spt-BR!2sbr!4v1436140686717",
-                localizacao : {
-                    latitude: -22.912354,
-                    longitude: -47.069400
-                },
-                link : "http://www.meetup.com/pt/Campinas-Front-End-Meetup/events/223794842/"
-            },
-            {
                 titulo : "BrazilJS Conf 2015",
                 data : "21 e 22 de agosto",
                 local : "Shopping Center BarraShoppingSul",
