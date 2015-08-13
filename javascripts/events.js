@@ -96,7 +96,19 @@
                     longitude: -45.883767
                 },
                 link : "http://frontinvale.com.br/"
-            }
+            },
+            {
+                titulo : "1º Encontro PHPESTE",
+                data : "3 e 4 de Outubro",
+                local : "Instituto Federal da Paraíba",
+                endereco : "Av. Primeiro de Maio, 795 - Jaguaribe, João Pessoa, Paraíba",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.9257522572016!2d-34.873064899999996!3d-7.1345847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ace81a70c800dd%3A0x9b9b3adc146a7d82!2sAv.+Primeiro+de+Maio%2C+795+-+Jaguaribe%2C+Jo%C3%A3o+Pessoa+-+PB!5e0!3m2!1spt-BR!2sbr!4v1439134819504",
+                localizacao : {
+                    latitude: -7.1345847,
+                    longitude: -34.8730648
+                },
+                link : "http://phpeste.net/"
+            }            
         ];
 
         w.Events = {
