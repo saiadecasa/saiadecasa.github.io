@@ -2,18 +2,6 @@
 
         var events = [
             {
-                titulo : "BrazilJS Conf 2015",
-                data : "21 e 22 de agosto",
-                local : "Shopping Center BarraShoppingSul",
-                endereco : "Av. Diário de Notícias, 300, bairro Cristal, Porto Alegre, RS",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d14715.652343097261!2d-42.9173542!3d-22.76860655!3m2!1i1024!2i768!4f13.1!2m1!1sAv.+Di%C3%A1rio+de+Not%C3%ADcias%2C+300%2C+bairro+Cristal%2C+Porto+Alegre%2C+RS!5e0!3m2!1spt-BR!2sbr!4v1436140686717",
-                localizacao : {
-                    latitude: -22.76860655,
-                    longitude: -42.9173542
-                },
-                link : "http://braziljs.com.br/"
-            },
-            {
                 titulo : "Android DevConference 2015",
                 data : "29 de agosto",
                 local : "Hotel Renaissance",
@@ -48,7 +36,7 @@
                     longitude: -48.0294469
                 },
                 link : "http://joomladaybrasil.org/2015/"
-            },            
+            },
             {
                 titulo : "RubyConf Brasil",
                 data : "18 e 19 de Setembro",
@@ -120,7 +108,7 @@
                     longitude: -34.8730648
                 },
                 link : "http://phpeste.net/"
-            }            
+            }
         ];
 
         w.Events = {
