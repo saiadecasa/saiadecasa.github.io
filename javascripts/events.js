@@ -2,6 +2,18 @@
 
         var events = [
             {
+                titulo : "TICNOVA Maringá 2015 - PR",
+                data : "25 de agosto",
+                local : "Teatro Calil Haddad",
+                endereco : "Av. Dr. Luiz Teixeira Mendes, 2500",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7321.548650701402!2d-51.96611899999997!3d-23.432517999999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6fbc01378f23d9e9!2sTeatro+Calil+Haddad!5e0!3m2!1spt-BR!2sus!4v1440438732766",
+                localizacao : {
+                    latitude: -23.432154,
+                    longitude: -51.966194
+                },
+                link : "http://ticnova.com.br/"
+            },
+            {
                 titulo : "Android DevConference 2015",
                 data : "29 de agosto",
                 local : "Hotel Renaissance",
@@ -108,6 +120,18 @@
                     longitude: -34.8730648
                 },
                 link : "http://phpeste.net/"
+            },
+            {
+                titulo : "Frontinsampa 2015",
+                data : "21 de novembro",
+                local : "Inferno Club",
+                endereco : "Rua Augusta, 501 - Jardim Paulista, São Paulo",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.4713389613744!2d-46.650642999999995!3d-23.5515095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce584a87db01ed%3A0x8984cc59b6df5141!2sR.+Augusta%2C+501+-+Consola%C3%A7%C3%A3o%2C+S%C3%A3o+Paulo+-+SP%2C+Brasil!5e0!3m2!1spt-BR!2sus!4v1440439501467",
+                localizacao : {
+                    latitude: -23.551219,
+                    longitude: -46.650659
+                },
+                link : "http://www.frontinsampa.com.br/"
             }
         ];
 
