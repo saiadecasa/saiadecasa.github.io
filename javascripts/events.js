@@ -2,6 +2,18 @@
 
         var events = [
             {
+                titulo : "TICNOVA Maringá 2015 - PR",
+                data : "25 de agosto",
+                local : "Teatro Calil Haddad",
+                endereco : "Av. Dr. Luiz Teixeira Mendes, 2500",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7321.548650701402!2d-51.96611899999997!3d-23.432517999999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6fbc01378f23d9e9!2sTeatro+Calil+Haddad!5e0!3m2!1spt-BR!2sus!4v1440438732766",
+                localizacao : {
+                    latitude: -23.432154,
+                    longitude: -51.966194
+                },
+                link : "http://ticnova.com.br/"
+            },
+            {
                 titulo : "Android DevConference 2015",
                 data : "29 de agosto",
                 local : "Hotel Renaissance",
