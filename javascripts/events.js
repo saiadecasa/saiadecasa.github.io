@@ -2,42 +2,6 @@
 
         var events = [
             {
-                titulo : "TICNOVA Maringá 2015 - PR",
-                data : "25 de agosto",
-                local : "Teatro Calil Haddad",
-                endereco : "Av. Dr. Luiz Teixeira Mendes, 2500",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7321.548650701402!2d-51.96611899999997!3d-23.432517999999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6fbc01378f23d9e9!2sTeatro+Calil+Haddad!5e0!3m2!1spt-BR!2sus!4v1440438732766",
-                localizacao : {
-                    latitude: -23.432154,
-                    longitude: -51.966194
-                },
-                link : "http://ticnova.com.br/"
-            },
-            {
-                titulo : "Android DevConference 2015",
-                data : "29 de agosto",
-                local : "Hotel Renaissance",
-                endereco : "Av. Alameda Santos, 2233, São Paulo - SP",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2665262031114!2d-46.662335999999996!3d-23.5588693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59d2c9a0e4c3%3A0x32c2ff75b7acd122!2sAlameda+Santos%2C+2233+-+Jardim+Paulista%2C+S%C3%A3o+Paulo+-+SP%2C+01419-002!5e0!3m2!1spt-BR!2sbr!4v1437063872582",
-                localizacao : {
-                    latitude: -23.5588693,
-                    longitude: -46.6623359
-                },
-                link : "http://androidconference.imasters.com.br/"
-            },
-            {
-                titulo : "WordCamp Rio de Janeiro 2015",
-                data : "29 de agosto",
-                local : "Senac Flamengo",
-                endereco : "Rua Marquês de Abrantes, 99 – Flamengo – Rio de Janeiro, RJ",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d3674.371875920687!2d-43.1773033!3d-22.9365277!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x997f88f435624f%3A0x83ed42214af802dd!2sR.+Marqu%C3%AAs+de+Abrantes%2C+99+-+Flamengo%2C+Rio+de+Janeiro+-+RJ%2C+22230-061!3m2!1d-22.9365277!2d-43.1773033!5e0!3m2!1spt-BR!2sbr!4v1437756544681",
-                localizacao : {
-                    latitude: -22.9365277,
-                    longitude: -43.1773033
-                },
-                link : "https://riodejaneiro.wordcamp.org/2015/"
-            },
-            {
                 titulo : "JoomlaDay Brasil 2015",
                 data : "4 a 6 de Setembro",
                 local : "Universidade Católica de Brasília",
