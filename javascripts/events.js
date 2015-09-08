@@ -105,12 +105,9 @@
                 },
 
                 getByTitulo : function (titulo) {
-                    var eventos = this.getAll();
-                    for(var index in eventos) {
-                        var evento = events[index];
-                        if (evento.titulo === titulo) {
-                            return evento;
-                        }
+                    for(evento of events) {
+                        if (evento.titulo !== titulo) continue;
+                        return evento;
                     }
                 }
         };
