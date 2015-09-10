@@ -113,21 +113,17 @@
                     year2 = dataFim.getFullYear();
 
                     if (year1 != year2) {
-                        alert(day1 + ' de ' + monthNames[month1] + ' de ' + year1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2);
                         return day1 + ' de ' + monthNames[month1] + ' de ' + year1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
                     }
 
                     if (month1 != month2) {
-                        alert(day1 + ' de ' + monthNames[month1] + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2);
                         return day1 + ' de ' + monthNames[month1] + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
                     }
 
                     if (day1 != day2) {
-                        alert(day1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2);
                         return day1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
                     }
 
-                    alert(day1 + ' de ' + monthNames[month2] + ' de ' + year2);
                     return day1 + ' de ' + monthNames[month2] + ' de ' + year2;
                 }
         };
