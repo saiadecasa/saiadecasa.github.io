@@ -2,18 +2,6 @@
 
         var events = [
             {
-                titulo : "Caipira Ágil",
-                data : "19 de setembro",
-                local : "FEEC Unicamp",
-                endereco : "Av. Albert Einstein, 400 - Cidade Universitária – Campinas, SP",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.4892831604047!2d-47.065905199999996!3d-22.821380599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8c6add63acaa3%3A0x67fbe511ef3568be!2sFEEC+-+Faculdade+de+Engenharia+El%C3%A9trica+e+de+Computa%C3%A7%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1440987637114",
-                localizacao : {
-                    latitude: -22.8213806,
-                    longitude:  -47.0659052
-                },
-                link : "http://www.caipiraagil.com/"
-            },
-            {
                 titulo : "JoomlaDay Brasil 2015",
                 data : "4 a 6 de Setembro",
                 local : "Universidade Católica de Brasília",
