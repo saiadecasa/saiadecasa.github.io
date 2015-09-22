@@ -103,14 +103,14 @@
 
                 getTextData : function(dataInicio, dataFim){
                     dataInicio = new Date(dataInicio);
-                    day1 = dataInicio.getDate();
-                    month1 = dataInicio.getMonth();
-                    year1 = dataInicio.getFullYear();
+                    day1 = dataInicio.getUTCDate();
+                    month1 = dataInicio.getUTCMonth();
+                    year1 = dataInicio.getUTCFullYear();
 
                     dataFim = new Date(dataFim);
-                    day2 = dataFim.getDate();
-                    month2 = dataFim.getMonth();
-                    year2 = dataFim.getFullYear();
+                    day2 = dataFim.getUTCDate();
+                    month2 = dataFim.getUTCMonth();
+                    year2 = dataFim.getUTCFullYear();
 
                     if (year1 != year2) {
                         return day1 + ' de ' + monthNames[month1] + ' de ' + year1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
