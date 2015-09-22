@@ -16,7 +16,8 @@ A estrutura de um evento é a seguinte:
 ```javascript
 {
     titulo      : "como o evento vai aparecer no Saia de Casa!",
-    data        : "no formato -> 01 de janeiro de 2099",
+    dataInicio  : "no formato -> 2015-09-22",
+    dataFim     : "no formato -> 2015-09-22",
     local       : "nome do local onde o evento acontece",
     endereco    : "endereço de onde o evento acontece, tente ser o mais completo possível",
     embed_link  : "link do mapa do Google Maps, ajuda aqui: http://goo.gl/PxxQHo",
