@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset='utf-8'>
-        <meta http-equiv='X-UA-Compatible' content='chrome=1'>
-        <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-        <link rel='stylesheet' type='text/css' href='stylesheets/stylesheet.css' media='screen' />
-        <link rel='stylesheet' type='text/css' href='stylesheets/pygment_trac.css' media='screen' />
-        <link rel='stylesheet' type='text/css' href='stylesheets/print.css' media='print' />
-        <link rel='stylesheet' type='text/css' href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <link href="https://fonts.googleapis.com/css?family=Chivo:900" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css">
         <!--[if lt IE 9]>
-        <script src='//html5shiv.googlecode.com/svn/trunk/html5.js'></script>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <title>Saia de Casa! https://saiadecasa.github.io/</title>
         <meta property="og:image" content="https://avatars1.githubusercontent.com/u/4626877"/>
@@ -18,30 +18,30 @@
     </head>
 
     <body>
-        <div id='container'>
-            <div class='inner'>
+        <div id="container">
+            <div class="inner">
 
                 <header>
                     <h1>Saia de Casa!</h1>
-                    <p><a href='https://saiadecasa.github.io/' target="_blank">https://saiadecasa.github.io/</a></p>
+                    <p><a href="https://saiadecasa.github.io/" target="_blank">https://saiadecasa.github.io/</a></p>
                     <h2>Seu calendário de eventos e programações para não ficar em casa e codar com a comunidade de desenvolvedores.</h2>
                 </header>
 
-                <section id='downloads' class='clearfix'>
-                    <a href='https://github.com/saiadecasa/saiadecasa.github.io' id='view-on-github' class='button' target='_blank'><span>Você pode contribuir!</span></a>
+                <section id="downloads" class="clearfix">
+                    <a href="https://github.com/saiadecasa/saiadecasa.github.io" id="view-on-github" class="button" target="_blank"><span>Você pode contribuir!</span></a>
                 </section>
 
                 <hr>
 
-                <section id='main_content'>
+                <section id="main_content">
                   <h3>O que vai rolar</h3>
                   <hr>
                   <!-- Eventos serao gerados aqui -->
               </section>
 
                 <footer>
-                    Saia de Casa! é mantido por <a href='https://github.com/saiadecasa' target="_blank">saiadecasa</a><br>
-                    A página foi gerada pelo <a href='http://pages.github.com' target="_blank">GitHub Pages</a>. Tema Tactile por <a href='http://twitter.com/jasonlong' target="_blank">Jason Long</a>.
+                    Saia de Casa! é mantido por <a href="https://github.com/saiadecasa" target="_blank">saiadecasa</a><br>
+                    A página foi gerada pelo <a href="http://pages.github.com" target="_blank">GitHub Pages</a>. Tema Tactile por <a href="http://twitter.com/jasonlong" target="_blank">Jason Long</a>.
                 </footer>
 
             </div>
@@ -52,13 +52,12 @@
               <li><b>Data:</b> <%= data %></li>
               <li><b>Local:</b> <%= local %> </li>
               <li><b>Endereço:</b> <%= endereco %></li>
-              <% if(embed_link) { %>
-                <div class='sdc_maps clearfix'><br/>
-                 <iframe src="<%=embed_link %>" width="100%" height="450" frameborder="0" style="border:0"></iframe>
-                </div>
+              <% if('localizacao') { %>
+                <div class="sdc_maps clearfix" data-rendered="0"></div>
+                <br><img class="sdc_staticmaps clearfix" data-titulo="<%= titulo %>" src="http://maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=17&format=jpeg&center=<%= localizacao.latitude %>,<%= localizacao.longitude %>&markers=color:red%7Ccolor:red%7Clabel:<%= local %>%7C<%=localizacao.latitude %>,<%=localizacao.longitude %>&sensor=false" alt="Localização do <%= titulo %>">
               <% } %>
             </ul>
-            <p>Mais detalhes: <a href='<%= link %>' target="_blank"><%= titulo %></a></p>
+            <p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>
           <hr>
         </script>
         <script>
@@ -73,19 +72,19 @@
         </script>
 
         <!-- SpeakingURL CDN -->
-        <script src='//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.8.1/speakingurl.min.js'></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/speakingurl/0.8.1/speakingurl.min.js"></script>
         <!-- jQuery CDN -->
-        <script src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <!-- underscore CDN -->
-        <script src='//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js'></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
 
-        <script src='javascripts/events.js'></script>
-        <script src='javascripts/main.js'></script>
+        <script src="javascripts/events.js"></script>
+        <script src="javascripts/main.js"></script>
 
         <!-- AddThis Smart Layers BEGIN -->
         <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
-        <script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52b74d1973963898'></script>
-        <script type='text/javascript'>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52b74d1973963898"></script>
+        <script type="text/javascript">
           addthis.layers({
             'theme' : 'transparent',
             'share' : {
