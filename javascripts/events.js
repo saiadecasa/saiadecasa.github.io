@@ -2,58 +2,6 @@
 
         var events = [
             {
-                titulo : "Conferência Web.br 2015",
-                dataInicio : "2015-09-22",
-                dataFim : "2015-09-23",
-                local : "Centro de Convenções Rebolsas",
-                endereco : "Rua Doutor Enéas de Carvalho Aguiar, 23 - Cerqueira Cesar",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.304241239964!2d-46.66812059999998!3d-23.5575142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce582b0020752d%3A0x3c6835cc0084f24c!2sAv.+Dr.+En%C3%A9as+de+Carvalho+Aguiar%2C+23+-+Cerqueira+C%C3%A9sar%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1sen!2sbr!4v1438211682234",
-                localizacao : {
-                    latitude: -23.557352,
-                    longitude: -46.668105
-                },
-                link : "http://conferenciaweb.w3c.br/"
-            },
-            {
-                titulo : "Front-End Carioca 2015",
-                dataInicio : "2015-09-26",
-                dataFim : "2015-09-26",
-                local : "Clube de Engenharia",
-                endereco : "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.229129110692!2d-43.1780723!3d-22.904918100000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5e44176677%3A0x13531119e47c4cc9!2sAv.+Rio+Branco%2C+124+-+Centro%2C+Rio+de+Janeiro+-+RJ%2C+20040-001!5e0!3m2!1spt-BR!2sbr!4v1435802972051",
-                localizacao : {
-                    latitude: -22.9049181,
-                    longitude: -43.1780723
-                },
-                link : "http://frontendcarioca.com.br/"
-            },
-            {
-                titulo : "Mobile Summit",
-                dataInicio : "2015-09-26",
-                dataFim : "2015-09-26",
-                local : "Nós Coworking",
-                endereco : "Av. Cristovao Colombo, 545 - Prédio 02 - 3º andar, Porto Alegre - RS",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.3954512080186!2d-51.212344!3d-30.025510800000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x523e58ce2e6fac7d!2sN%C3%B3s+Coworking!5e0!3m2!1spt-BR!2sbr!4v1436214361314",
-                localizacao : {
-                    latitude: -30.0255108,
-                    longitude: -51.212344
-                },
-                link : "http://www.msummit.com.br/"
-            },
-            {
-                titulo : "Front in Vale",
-                dataInicio : "2015-09-28",
-                dataFim : "2015-09-28",
-                local : "Faro Hotel São José dos Campos",
-                endereco : "Rua Síria, Jardim Oswaldo Cruz, São José dos Campos - São Paulo",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7334.556781778243!2d-45.88264!3d-23.196523!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4a42f3190209%3A0x91ee04f155df318e!2sFaro+Hotel!5e0!3m2!1spt-BR!2sus!4v1438354820485",
-                localizacao : {
-                    latitude: -23.198722,
-                    longitude: -45.883767
-                },
-                link : "http://frontinvale.com.br/"
-            },
-            {
                 titulo : "1º Encontro PHPESTE",
                 dataInicio : "2015-10-03",
                 dataFim : "2015-10-04",
