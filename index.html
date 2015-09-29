@@ -12,6 +12,13 @@
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <title>Saia de Casa! https://saiadecasa.github.io/</title>
+        <script>
+        // https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it
+        var host = "saiadecasa.github.io";
+        if ((host == window.location.host) && (window.location.protocol != "https:")) {
+          window.location.protocol = "https";
+        }
+        </script>
         <meta property="og:image" content="https://avatars1.githubusercontent.com/u/4626877"/>
         <meta property="og:image:secure_url" content="https://avatars1.githubusercontent.com/u/4626877" />
         <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport">
