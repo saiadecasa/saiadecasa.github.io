@@ -15,6 +15,19 @@
                 link : "http://phpeste.net/"
             },
             {
+                titulo : "FEMUG-RJ - #1",
+                dataInicio : "2015-10-10",
+                dataFim : "2015-10-10",
+                local : "Botafogo - Rio de Janeiro",
+                endereco : "R. da Passagem, 123",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5195.695083176452!2d-43.183497379170895!3d-22.953496278568085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997ffa69cf5d29%3A0x8b2e8127ff1df1ec!2sR.+da+Passagem%2C+123+-+Botafogo%2C+Rio+de+Janeiro+-+RJ%2C+22290-030!5e0!3m2!1spt-BR!2sbr!4v1443586699007",
+                localizacao : {
+                    latitude: -22.9534962,
+                    longitude: -43.1834973
+                },
+                link : "https://www.facebook.com/events/899754253429048/"
+            },
+            {
                 titulo : "Frontinsampa 2015",
                 dataInicio : "2015-11-21",
                 dataFim : "2015-11-21",
