@@ -12,7 +12,7 @@
                     latitude: -13.0106237,
                     longitude: -38.4943685
                 },
-                link : "http://raulhc.cc/Agenda/2015-10-12-hackday-hobbit-apprentice"
+                link : "http://raulhc.cc/Agenda/2015-10-11-hackday-hobbit-apprentice"
             },
             {
                 titulo : "Frontinsampa 2015",
