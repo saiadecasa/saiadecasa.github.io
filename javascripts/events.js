@@ -2,6 +2,19 @@
 
         var events = [
             {
+                titulo : "Hackday Hobbit Apprentice",
+                dataInicio : "2015-10-11",
+                dataFim : "2015-10-11",
+                local : "Raul Hacker Club",
+                endereco : "Rua da Paciência, 257 - Rio Vermelho, Salvador - BA",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3966577753295!2d-38.49421827909851!3d-13.01039374320602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7160350941a2e5d%3A0x13f31ae484551bc4!2sRaul+Hacker+Club!5e0!3m2!1spt-BR!2sbr!4v1444079019714",
+                localizacao : {
+                    latitude: -13.0106237,
+                    longitude: -38.4943685
+                },
+                link : "http://raulhc.cc/Agenda/2015-10-12-hackday-hobbit-apprentice"
+            },
+            {
                 titulo : "Frontinsampa 2015",
                 dataInicio : "2015-11-21",
                 dataFim : "2015-11-21",
