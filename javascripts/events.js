@@ -26,6 +26,19 @@
                     longitude: -46.650659
                 },
                 link : "http://www.frontinsampa.com.br/"
+            },
+            {
+                titulo : "PhpConference Brasil 2015",
+                dataInicio : "2015-12-02",
+                dataFim : "2015-12-06",
+                local : "UNIFIEO",
+                endereco : "Av. Franz Voegeli, 300 - Osasco, São Paulo",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.7789372193115!2d-46.76145219999998!3d-23.540452100000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ceff447f41f72b%3A0xdfa4e0bd5729826e!2sUNIFIEO!5e0!3m2!1spt-BR!2sbr!4v1444267826591",
+                localizacao : {
+                    latitude: -23.540452,
+                    longitude: -46.761452
+                },
+                link : "http://www.phpconference.com.br/"
             }
         ];
 
