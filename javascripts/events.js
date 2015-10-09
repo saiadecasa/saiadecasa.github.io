@@ -54,6 +54,19 @@
                 link : "https://doity.com.br/phprio-talks-outubro2015"
             },
             {
+                titulo : "WordCamp Porto Alegre",
+                dataInicio : "2015-10-31",
+                dataFim : "2015-10-31",
+                local : "Nós Coworking",
+                endereco : "Av. Cristóvão Colombo, 545 - Bairro Floresta - Porto Alegre",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.39545183908!2d-51.214532784885314!3d-30.02551078188926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979a56050c6df%3A0x8635af1590a7caf1!2sAv.+Crist%C3%B3v%C3%A3o+Colombo%2C+545+-+Floresta%2C+Porto+Alegre+-+RS%2C+90560-003!5e0!3m2!1spt-BR!2sbr!4v1444359140428",
+                localizacao : {
+                    latitude: -30.02551078188926,
+                    longitude: -51.214532784885314
+                },
+                link : "https://portoalegre.wordcamp.org/2015/"
+            },
+            {
                 titulo : "Frontinsampa 2015",
                 dataInicio : "2015-11-21",
                 dataFim : "2015-11-21",
