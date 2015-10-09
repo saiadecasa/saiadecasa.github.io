@@ -15,6 +15,58 @@
                 link : "http://raulhc.cc/Agenda/2015-10-11-hackday-hobbit-apprentice"
             },
             {
+                titulo : "Front in Manaus",
+                dataInicio : "2015-10-17",
+                dataFim : "2015-10-17",
+                local : "Hotel Adrianópolis All Suítes",
+                endereco : "Rua Salvador, 195 - Adrianópolis, Manaus",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.950208611021!2d-60.014567485242715!3d-3.1078746977368987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x926c054e625665f9%3A0x9be1788ba6a6aa33!2sR.+Salvador%2C+195+-+Adrian%C3%B3polis%2C+Manaus+-+AM%2C+69057-040!5e0!3m2!1spt-BR!2sbr!4v1444358152327",
+                localizacao : {
+                    latitude: -3.1078746977368987,
+                    longitude: -60.014567485242715
+                },
+                link : "http://frontinmanaus.com.br/"
+            },
+            {
+                titulo : "DevFest Sudeste 2015 em BH",
+                dataInicio : "2015-10-24",
+                dataFim : "2015-10-24",
+                local : "CDL/BH",
+                endereco : "Av. João Pinheiro, 495 – Bairro Funcionários - Belo Horizonte/MG",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.8771525851294!2d-43.93933098508547!3d-19.929580986603934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699e7634e71b5%3A0xf4044fc8a31c7a0a!2sAv.+Jo%C3%A3o+Pinheiro%2C+495+-+Centro%2C+Belo+Horizonte+-+MG%2C+30130-180!5e0!3m2!1spt-BR!2sbr!4v1444358712608",
+                localizacao : {
+                    latitude: -19.929580986603934,
+                    longitude: -43.93933098508547
+                },
+                link : "http://sudeste.devfest.com.br/"
+            },
+            {
+                titulo : "PHPRio Talks",
+                dataInicio : "2015-10-24",
+                dataFim : "2015-10-24",
+                local : "EDX Treinamento e Consultoria",
+                endereco : "Av. Rio Branco, 124 - Sala 1102 , Centro, RJ",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.2298368874094!2d-43.18017438503432!3d-22.904891985012853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5e36fccba5%3A0x86232dbfd6d616b0!2sEDX+Treinamento+e+Consultoria+em+Inform%C3%A1tica!5e0!3m2!1spt-BR!2sbr!4v1444358950531",
+                localizacao : {
+                    latitude: -22.904891985012853,
+                    longitude: -43.18017438503432
+                },
+                link : "https://doity.com.br/phprio-talks-outubro2015"
+            },
+            {
+                titulo : "WordCamp Porto Alegre",
+                dataInicio : "2015-10-31",
+                dataFim : "2015-10-31",
+                local : "Nós Coworking",
+                endereco : "Av. Cristóvão Colombo, 545 - Bairro Floresta - Porto Alegre",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.39545183908!2d-51.214532784885314!3d-30.02551078188926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979a56050c6df%3A0x8635af1590a7caf1!2sAv.+Crist%C3%B3v%C3%A3o+Colombo%2C+545+-+Floresta%2C+Porto+Alegre+-+RS%2C+90560-003!5e0!3m2!1spt-BR!2sbr!4v1444359140428",
+                localizacao : {
+                    latitude: -30.02551078188926,
+                    longitude: -51.214532784885314
+                },
+                link : "https://portoalegre.wordcamp.org/2015/"
+            },
+            {
                 titulo : "Frontinsampa 2015",
                 dataInicio : "2015-11-21",
                 dataFim : "2015-11-21",
