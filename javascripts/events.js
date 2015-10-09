@@ -41,6 +41,19 @@
                 link : "http://sudeste.devfest.com.br/"
             },
             {
+                titulo : "PHPRio Talks",
+                dataInicio : "2015-10-24",
+                dataFim : "2015-10-24",
+                local : "EDX Treinamento e Consultoria",
+                endereco : "Av. Rio Branco, 124 - Sala 1102 , Centro, RJ",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.2298368874094!2d-43.18017438503432!3d-22.904891985012853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5e36fccba5%3A0x86232dbfd6d616b0!2sEDX+Treinamento+e+Consultoria+em+Inform%C3%A1tica!5e0!3m2!1spt-BR!2sbr!4v1444358950531",
+                localizacao : {
+                    latitude: -22.904891985012853,
+                    longitude: -43.18017438503432
+                },
+                link : "https://doity.com.br/phprio-talks-outubro2015"
+            },
+            {
                 titulo : "Frontinsampa 2015",
                 dataInicio : "2015-11-21",
                 dataFim : "2015-11-21",
