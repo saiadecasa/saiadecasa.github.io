@@ -2,6 +2,19 @@
 
         var events = [
             {
+                titulo : "Front in Manaus",
+                dataInicio : "2015-10-17",
+                dataFim : "2015-10-17",
+                local : "Hotel Adrianópolis All Suítes",
+                endereco : "Rua Salvador, 195 - Adrianópolis, Manaus",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.950208611021!2d-60.014567485242715!3d-3.1078746977368987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x926c054e625665f9%3A0x9be1788ba6a6aa33!2sR.+Salvador%2C+195+-+Adrian%C3%B3polis%2C+Manaus+-+AM%2C+69057-040!5e0!3m2!1spt-BR!2sbr!4v1444358152327",
+                localizacao : {
+                    latitude: -3.1078746977368987,
+                    longitude: -60.014567485242715
+                },
+                link : "http://frontinmanaus.com.br/"
+            },
+            {
                 titulo : "Hackday Hobbit Apprentice",
                 dataInicio : "2015-10-11",
                 dataFim : "2015-10-11",
