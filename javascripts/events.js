@@ -2,6 +2,19 @@
 
         var events = [
             {
+                titulo : "DevFest Nordeste 2015 em Recife",
+                dataInicio : "2015-10-17",
+                dataFim : "2015-10-17",
+                local : "Praça Rio Branco (Marco Zero)",
+                endereco : "Avenida Alfredo Lisboa - Recife Antigo - Recife/PE",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3950.374889427789!2d-34.87357468594765!3d-8.063189182800837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1444692200698",
+                localizacao : {
+                    latitude: -8.0631892,
+                    longitude: -34.8735747
+                },
+                link : "https://2015.devfestne.com.br/"
+            },
+            {
                 titulo : "Front in Manaus",
                 dataInicio : "2015-10-17",
                 dataFim : "2015-10-17",
