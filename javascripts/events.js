@@ -2,17 +2,17 @@
 
         var events = [
             {
-                titulo : "Hackday Hobbit Apprentice",
-                dataInicio : "2015-10-11",
-                dataFim : "2015-10-11",
-                local : "Raul Hacker Club",
-                endereco : "Rua da Paciência, 257 - Rio Vermelho, Salvador - BA",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3966577753295!2d-38.49421827909851!3d-13.01039374320602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7160350941a2e5d%3A0x13f31ae484551bc4!2sRaul+Hacker+Club!5e0!3m2!1spt-BR!2sbr!4v1444079019714",
+                titulo : "DevFest Nordeste 2015 em Recife",
+                dataInicio : "2015-10-17",
+                dataFim : "2015-10-17",
+                local : "Praça Rio Branco (Marco Zero)",
+                endereco : "Avenida Alfredo Lisboa - Recife Antigo - Recife/PE",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3950.374889427789!2d-34.87357468594765!3d-8.063189182800837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1444692200698",
                 localizacao : {
-                    latitude: -13.0106237,
-                    longitude: -38.4943685
+                    latitude: -8.0631892,
+                    longitude: -34.8735747
                 },
-                link : "http://raulhc.cc/Agenda/2015-10-11-hackday-hobbit-apprentice"
+                link : "https://2015.devfestne.com.br/"
             },
             {
                 titulo : "Front in Manaus",
