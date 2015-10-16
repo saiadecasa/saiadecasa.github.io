@@ -2,6 +2,19 @@
 
         var events = [
             {
+                titulo : "3º Nodeschool Campinas",
+                dataInicio : "2015-10-17",
+                dataFim : "2015-10-17",
+                local : "Minha Campinas",
+                endereco : "Av. Nestor Castanheira, nº 80, Vila Industrial, Campinas",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.0212782133844!2d-47.07158370000003!3d-22.912585999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8c8c888729d81%3A0xf80451070c91fc17!2sMinha+Campinas!5e0!3m2!1sen!2sbr!4v1444939755956",
+                localizacao : {
+                    latitude: -22.912398,
+                    longitude: -47.069427
+                },
+                link : "http://www.meetup.com/pt/Nodeschool-Campinas/events/225867417/"
+            },
+            {
                 titulo : "DevFest Nordeste 2015 em Recife",
                 dataInicio : "2015-10-17",
                 dataFim : "2015-10-17",
