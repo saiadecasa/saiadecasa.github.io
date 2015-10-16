@@ -93,6 +93,19 @@
                 link : "https://portoalegre.wordcamp.org/2015/"
             },
             {
+                titulo : "FrontInPoa 2015",
+                dataInicio : "2015-11-14",
+                dataFim : "2015-11-14",
+                local : "UniRitter",
+                endereco : "Rua Orfanotrófio, 515 - Alto Teresópolis",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13810.034301842712!2d-51.2193774!3d-30.0796178!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6de74d911b011b86!2sUniRitter!5e0!3m2!1spt-BR!2sbr!4v1445014065257",
+                localizacao : {
+                    latitude: -30.0796178,
+                    longitude: -51.2193774
+                },
+                link : "http://www.frontinpoa.com.br/"
+            },
+            {
                 titulo : "Frontinsampa 2015",
                 dataInicio : "2015-11-21",
                 dataFim : "2015-11-21",
