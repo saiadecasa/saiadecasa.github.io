@@ -1,6 +1,19 @@
 (function(w){
 
         var events = [
+			{
+                titulo : "Roadsec Curitiba 2015",
+                dataInicio : "2015-10-17",
+                dataFim : "2015-10-17",
+                local : "Curitiba, PR",
+                endereco : "Rua Professor Pedro Viriato Parigot de Souza, 5300 - Cidade Industrial ",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7205.4853601977675!2d-49.358832!3d-25.446865!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xc51ad98878b6e3bf!2sUniversidade+Positivo!5e0!3m2!1spt-BR!2sus!4v1445034355157",
+                localizacao : { 
+                    latitude: -25.4470853,
+                    longitude: -49.3586711
+                },
+                link : "http://www.up.com.br/"
+            },
             {
                 titulo : "DevFest Nordeste 2015 em Recife",
                 dataInicio : "2015-10-17",
