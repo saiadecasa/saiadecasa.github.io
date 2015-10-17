@@ -93,6 +93,19 @@
                 link : "https://portoalegre.wordcamp.org/2015/"
             },
             {
+                titulo : "API Experience",
+                dataInicio : "2015-11-11",
+                dataFim : "2015-11-11",
+                local : "Cubo Coworking",
+                endereco : "Rua Casa do Ator, 919 - Vila Olimpia, São Paulo",
+                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14624.45990369449!2d-46.69028104782032!3d-23.600209141125518!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce574e7a6e2f1d%3A0x25a8764c172d9497!2sR.+Casa+do+Ator%2C+919+-+Vila+Ol%C3%ADmpia%2C+S%C3%A3o+Paulo+-+SP%2C+04546-003%2C+Brasil!5e0!3m2!1spt-BR!2sbr!4v1445109251302",
+                localizacao : {
+                    latitude: -23.597663,
+                    longitude: -46.682062
+                },
+                link : "http://www.apiexperience.com.br/"
+            },
+            {
                 titulo : "FrontInPoa 2015",
                 dataInicio : "2015-11-14",
                 dataFim : "2015-11-14",
