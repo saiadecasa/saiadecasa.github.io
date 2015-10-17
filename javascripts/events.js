@@ -2,58 +2,6 @@
 
         var events = [
             {
-                titulo : "3º Nodeschool Campinas",
-                dataInicio : "2015-10-17",
-                dataFim : "2015-10-17",
-                local : "Minha Campinas",
-                endereco : "Av. Nestor Castanheira, nº 80, Vila Industrial, Campinas",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.0212782133844!2d-47.07158370000003!3d-22.912585999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8c8c888729d81%3A0xf80451070c91fc17!2sMinha+Campinas!5e0!3m2!1sen!2sbr!4v1444939755956",
-                localizacao : {
-                    latitude: -22.912398,
-                    longitude: -47.069427
-                },
-                link : "http://www.meetup.com/pt/Nodeschool-Campinas/events/225867417/"
-            },
-            {
-                titulo : "DevFest Nordeste 2015 em Recife",
-                dataInicio : "2015-10-17",
-                dataFim : "2015-10-17",
-                local : "Praça Rio Branco (Marco Zero)",
-                endereco : "Avenida Alfredo Lisboa - Recife Antigo - Recife/PE",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3950.374889427789!2d-34.87357468594765!3d-8.063189182800837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1444692200698",
-                localizacao : {
-                    latitude: -8.0631892,
-                    longitude: -34.8735747
-                },
-                link : "https://2015.devfestne.com.br/"
-            },
-            {
-                titulo : "Front in Manaus",
-                dataInicio : "2015-10-17",
-                dataFim : "2015-10-17",
-                local : "Hotel Adrianópolis All Suítes",
-                endereco : "Rua Salvador, 195 - Adrianópolis, Manaus",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.950208611021!2d-60.014567485242715!3d-3.1078746977368987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x926c054e625665f9%3A0x9be1788ba6a6aa33!2sR.+Salvador%2C+195+-+Adrian%C3%B3polis%2C+Manaus+-+AM%2C+69057-040!5e0!3m2!1spt-BR!2sbr!4v1444358152327",
-                localizacao : {
-                    latitude: -3.1078746977368987,
-                    longitude: -60.014567485242715
-                },
-                link : "http://frontinmanaus.com.br/"
-            },
-            {
-                titulo : "TestFest Respect\Validation",
-                dataInicio : "2015-10-17",
-                dataFim : "2015-10-17",
-                local : "Centro de Treinamentos Novatec",
-                endereco : "Avenida Cruzeiro do Sul, 2463, Conj 617, São Paulo, São Paulo",
-                embed_link : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.6432457280753!2d-46.62739428502325!3d-23.50935608470869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5883ac5e952b%3A0xa882112cc705d9e3!2sCENTRO+DE+TREINAMENTO+NOVATEC+(EDITORA+NOVATEC)+-+6%C2%BA+andar%2C+sala+617!5e0!3m2!1spt-BR!2sbr!4v1444659003706",
-                localizacao : {
-                    latitude: -23.50935608470869,
-                    longitude: -46.62739428502325
-                },
-                link : "http://www.meetup.com/php-sp/events/225914337/"
-            },
-            {
                 titulo : "DevFest Sudeste 2015 em BH",
                 dataInicio : "2015-10-24",
                 dataFim : "2015-10-24",
