@@ -1,5 +1,9 @@
 # Saia de Casa!
 
+[![Build Status](https://travis-ci.org/saiadecasa/saiadecasa.github.io.svg?branch=master)](https://travis-ci.org/saiadecasa/saiadecasa.github.io)
+[![Gitter chat](https://badges.gitter.im/saiadecasa.png)](https://gitter.im/saiadecasa)
+
+
 [https://saiadecasa.github.io](https://saiadecasa.github.io
 )
 
@@ -9,4 +13,4 @@ O **Saia de Casa** é um projeto colaborativo, e tem como principal ideia manter
 
 [Contribua com este projeto](CONTRIBUTING.md) ou nos envie a sua [sugestão](https://github.com/saiadecasa/saiadecasa.github.io/issues).
 
-[![Gitter chat](https://badges.gitter.im/saiadecasa.png)](https://gitter.im/saiadecasa)
+
