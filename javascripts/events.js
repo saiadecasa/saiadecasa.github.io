@@ -44,8 +44,8 @@
             }
 
             return day1 + ' de ' + monthNames[month2] + ' de ' + year2;
-        }
-    };
+        };
+    }
 
     w.Events = Events;
 })(window);
