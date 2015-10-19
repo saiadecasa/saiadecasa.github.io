@@ -1,0 +1,47 @@
+{
+    "tagname-lowercase": true,
+    "attr-lowercase": true,
+    "attr-value-double-quotes": true,
+    "doctype-first": true,
+    "tag-pair": true,
+    "spec-char-escape": true,
+    "id-unique": true,
+    "src-not-empty": true,
+    "attr-no-duplication": true,
+    "title-require": true,
+
+    "jshint": {
+        "browser": true
+    },
+
+    "csslint": {
+        "adjoining-classes": true,
+        "bulletproof-font-face": true,
+        "compatible-vendor-prefixes": true,
+        "display-property-grouping": true,
+        "duplicate-background-images": true,
+        "duplicate-properties": true,
+        "empty-rules": true,
+        "fallback-colors": true,
+        "floats": true,
+        "font-faces": true,
+        "font-sizes": true,
+        "gradients": true,
+        "import": true,
+        "important": true,
+        "known-properties": true,
+        "non-link-hover": true,
+        "overqualified-elements": true,
+        "qualified-headings": true,
+        "regex-selectors": true,
+        "shorthand": true,
+        "star-property-hack": true,
+        "text-indent": true,
+        "underscore-property-hack": true,
+        "vendor-prefix": true,
+        "unique-headings": true,
+        "universal-selector": true,
+        "unqualified-attributes": true,
+        "zero-units": true
+    }
+}

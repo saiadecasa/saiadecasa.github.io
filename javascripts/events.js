@@ -107,7 +107,8 @@
                 },
 
                 getByTitulo : function (titulo) {
-                    for(evento of events) {
+                    /*jshint esnext: true */
+                    for (var evento of events) {
                         if (evento.titulo !== titulo) continue;
                         evento.data = Events.getTextData(evento.dataInicio, evento.dataFim);
                         return evento;

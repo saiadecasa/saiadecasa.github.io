@@ -34,20 +34,21 @@
 
         // pegar conteúdo atual
         var content = this.innerHTML;
+        var link = '';
 
         if (this.id) {
             // usar o id da tag, se houver
-            var link = this.id;
+            link = this.id;
             // remover id do h4
             this.id = null;
         } else {
             // monta slug, se não houver id
-            var link = getSlug(content);
+            link = getSlug(content);
         }
 
         // colocar link no conteúdo
-        content = '<a class="anchor" href="#' + link + '" name="' + link + '">'
-            + '<span class="awesome awesome-link"></span></a>' + content;
+        content = '<a class="anchor" href="#' + link + '" name="' + link + '">' +
+                  '<span class="awesome awesome-link"></span></a>' + content;
 
         // trocar content
         this.innerHTML = content;
