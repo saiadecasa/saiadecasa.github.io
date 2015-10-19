@@ -91,6 +91,18 @@
                     longitude: -46.761452
                 },
                 link : "http://www.phpconference.com.br/"
+            },
+            {
+                titulo : "XII Fórum Goiano de Software Livre",
+                dataInicio : "2015-12-04",
+                dataFim : "2015-12-05",
+                local : "SENAC",
+                endereco : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30576.090874764446!2d-49.22550599999998!3d-16.67631499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xc106e8f2ca4ae796!2sFaculdade+de+Tecnologia+Senac+Goi%C3%A1s!5e0!3m2!1sen!2sca!4v1445217805657",
+                localizacao : {
+                    latitude: -16.669819,
+                    longitude: -49.236063
+                },
+                link : "http://fgsl.net/"
             }
         ];
 
