@@ -1,9 +1,15 @@
-language: python
+sudo: false
+
+language: node_js
+
 branches:
   only:
     - master
-python:
- - "2.7"
-install:
- - "pip install html5validator"
-script: "html5validator"
+
+before_script:
+  - npm install htmlhint jshint csslint
+
+script:
+  - htmlhint **/*.html
+  - jshint **/*.{js,json}
+  - csslint **/*.css
