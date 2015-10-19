@@ -1,0 +1,9 @@
+{
+    "name": "saiadecasa",
+    "dependencies": {},
+    "devDependencies": {
+        "csslint": "~0.10.0",
+        "htmlhint": "~0.9.12",
+        "jshint": "~2.8.0"
+    }
+}
