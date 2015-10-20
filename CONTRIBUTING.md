@@ -40,7 +40,8 @@ Isso facilita a análise e posterior aceitação de seus Pull Requests, ok?
 
 Quando o seu Pull Request for enviado, alguns testes serão feitos automaticamente no projeto (Travis-CI), afim de garantir que todas as mudanças estão corretas.
 
-Caso você queira realizar os testes no seu ambiente antes de enviar o Pull Request, é bem simples:
+Caso você queira realizar os testes no seu ambiente antes de enviar o Pull Request, é bem simples.
+Basta executar estes comandos no seu terminal (você precisará ter o `node` instalado para isso):
 
 ```bash
 # Com este passo todas as dependencias (htmlhint, jshint, csslint e mocha) serão instaladas
