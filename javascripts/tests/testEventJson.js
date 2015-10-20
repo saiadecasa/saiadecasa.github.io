@@ -40,7 +40,9 @@ function validateRequiredParameters(event, i, arr) {
     });
 
     it('each event should have location coordinates - dataset #' + i, function () {
-        event.should.have.property('localizacao').which.is.a.Object();
+        event.should.
+            have.property('localizacao').which.is.a.Object().
+            with.properties(['latitude', 'longitude']);
     });
 
     it('each event should have a more information link - dataset #' + i, function () {
