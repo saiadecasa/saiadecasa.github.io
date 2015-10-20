@@ -53,7 +53,7 @@ node_modules/.bin/htmlhint index.html
 node_modules/.bin/jshint javascripts/**/*.{js,json}
 
 # Valida a estrutura dos arquivos CSS
-node_modules/.bin/csslint stylesheets/**/*.css
+node_modules/.bin/csslint **/*.css --exclude-list=node_modules/
 
 # Executa testes Javacript
 node_modules/.bin/mocha javascripts/tests/*.js

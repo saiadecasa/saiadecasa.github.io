@@ -12,5 +12,5 @@ before_script:
 script:
   - htmlhint index.html
   - jshint javascripts/**/*.{js,json}
-  - csslint stylesheets/**/*.css
+  - csslint **/*.css
   - mocha javascripts/tests/*.js
