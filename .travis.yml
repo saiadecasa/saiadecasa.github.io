@@ -13,3 +13,4 @@ script:
   - htmlhint **/*.html
   - jshint **/*.{js,json}
   - csslint **/*.css
+  - mocha javascripts/tests/*.js
