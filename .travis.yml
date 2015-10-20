@@ -10,7 +10,7 @@ before_script:
   - npm install
 
 script:
-  - htmlhint **/*.html
-  - jshint **/*.{js,json}
-  - csslint **/*.css
+  - htmlhint index.html
+  - jshint javascripts/**/*.{js,json}
+  - csslint stylesheets/**/*.css
   - mocha javascripts/tests/*.js
