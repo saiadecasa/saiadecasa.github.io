@@ -46,7 +46,9 @@ function validateRequiredParameters(event, i, arr) {
     });
 
     it('each event should have a more information link - dataset #' + i, function () {
-        event.should.have.property('link').which.is.a.String().and.startWith('http');
+        event.should.
+            have.property('link').which.is.a.String().and.
+            startWith('http');
     });
 
 
