@@ -3,8 +3,22 @@
     //onde pagina sera gerada
     var $inner = $('#main_content');
 
+    var eventsData = [];
+
+    $.ajax({
+        url: '/javascripts/data/events.json',
+        type: 'GET',
+        dataType: 'json',
+        async: false,
+        success: function(data) {
+            eventsData = data.events;
+        }
+    });
+
+    var eventHandler = new Events(eventsData);
+
     //o objeto de eventos
-    var events = Events.getAll(); 
+    var events = eventHandler.getAll();
 
     //usando underscore (_) para gerar HTML
     var template = _.template( $('#saia-de-casa-template').html() );

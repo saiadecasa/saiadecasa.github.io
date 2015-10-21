@@ -7,9 +7,10 @@ branches:
     - master
 
 before_script:
-  - npm install htmlhint jshint csslint
+  - npm install
 
 script:
-  - htmlhint **/*.html
-  - jshint **/*.{js,json}
+  - htmlhint index.html
+  - jshint javascripts/**/*.{js,json}
   - csslint **/*.css
+  - mocha javascripts/tests/*.js
