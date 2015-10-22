@@ -1,6 +1,19 @@
 {
     "events": [
         {
+            "titulo": "Hackaflag Sao Paulo - RoadSec",
+            "dataInicio": "2015-11-07",
+            "dataFim": "2015-11-07",
+            "local": "Mackenzie",
+            "endereco": "Rua da Consolação, 930 - Consolação, São Paulo - SP, 01302-907",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d768.9093081376787!2d-46.65071009437122!3d-23.547974910095256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x2619a4227c175a85!2sUniversidade+Presbiteriana+Mackenzie!5e0!3m2!1spt-BR!2sbr!4v1445543458341",
+            "localizacao": {
+                "latitude": -23.5482538,
+                "longitude": -46.6508462
+            },
+            "link": "http://roadsec.com.br/hackaflag"
+        },
+        {
             "titulo": "DevFest Sudeste 2015 em BH",
             "dataInicio": "2015-10-24",
             "dataFim": "2015-10-24",
