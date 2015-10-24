@@ -40,6 +40,19 @@
             "link": "https://doity.com.br/phprio-talks-outubro2015"
         },
         {
+            "titulo": "12º WordPress Meetup RJ",
+            "dataInicio": "2015-10-29",
+            "dataFim": "2015-10-29",
+            "local": "SENAC - Auditório da FATEC ",
+            "endereco": "Rua Santa Luzia, 735, 7º Andar - Centro, Rio de Janeiro",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.069100275493!2d-43.17554158918467!3d-22.910821994674166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9981df6648b451%3A0xc15c003796d41d1e!2sR.+Santa+Luzia%2C+735+-+Centro%2C+Rio+de+Janeiro+-+RJ%2C+20030-041%2C+Brazil!5e0!3m2!1sen!2sus!4v1445644447060",
+            "localizacao": {
+                "latitude": -22.910822,
+                "longitude":  -43.174237
+            },
+            "link": "http://www.meetup.com/pt/wp-rio/events/226165303/?eventId=226165303"
+        },
+        {
             "titulo": "WordCamp Porto Alegre",
             "dataInicio": "2015-10-31",
             "dataFim": "2015-10-31",
