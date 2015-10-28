@@ -2,6 +2,19 @@
 
         var events = [
             {
+                titulo : "1º Meetup Devparaná",
+                dataInicio : "2015-11-07",
+                dataFim : "2015-11-07",
+                local : "FCV - Faculdade Cidade Verde",
+                endereco : "Avenida Horácio Raccanello Filho, 5950 - Novo Centro, Maringá",
+                embed_link : "https://www.google.com/maps/place/FCV+-+Faculdade+Cidade+Verde/@-23.4179506,-51.9414228,17z/data=!3m1!4b1!4m2!3m1!1s0x94ecd72a8a9beca5:0x5e4ee1a14f97e47a?hl=en",
+                localizacao : {
+                    latitude: -23.4179506,
+                    longitude: -51.9414228
+                },
+                link : "http://www.meetup.com/developerparana/events/226163759/"
+            },
+            {
                 titulo : "3º Nodeschool Campinas",
                 dataInicio : "2015-10-17",
                 dataFim : "2015-10-17",
