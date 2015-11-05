@@ -53,6 +53,19 @@
             "link": "http://www.frontinpoa.com.br/"
         },
         {
+            "titulo": "Developer Week POA",
+            "dataInicio": "2015-11-17",
+            "dataFim": "2015-11-19",
+            "local": "Faculdade Senac Porto Alegre",
+            "endereco": "Rua Coronel Genuino, 130 – Centro Histórico",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.059243263595!2d-51.228723384885114!3d-30.035158181885677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95197906aa06c9c3%3A0xc23530a0fea94372!2sR.+Cel.+Genuino%2C+130+-+Centro+Hist%C3%B3rico%2C+Porto+Alegre+-+RS!5e0!3m2!1spt-BR!2sbr!4v1446695562531",
+            "localizacao": {
+                "latitude": -30.035158181885677,
+                "longitude": -51.228723384885114
+            },
+            "link": "http://developerweek.imasters.com.br/porto-alegre/"
+        },
+        {
             "titulo": "Frontinsampa 2015",
             "dataInicio": "2015-11-21",
             "dataFim": "2015-11-21",
