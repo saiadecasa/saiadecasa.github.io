@@ -30,6 +30,9 @@ Fora as erratas (que encorajamos que você nos encaminhe logo que perceber um pr
 
 - inclusão de novos eventos
 - exclusão de eventos passados
+- 
+
+### Regra de ouro para sua contribuição
 
 E aqui a regra de ouro para a sua contribuição:
 
@@ -37,6 +40,8 @@ E aqui a regra de ouro para a sua contribuição:
 - todas as exclusões **PODEM** ser colocadas juntas em um único Pull Request
 
 Isso facilita a análise e posterior aceitação de seus Pull Requests, ok?
+
+## Como testamos sua contribuição
 
 Quando o seu Pull Request for enviado, alguns testes serão feitos automaticamente no projeto (Travis-CI), afim de garantir que todas as mudanças estão corretas.
 
