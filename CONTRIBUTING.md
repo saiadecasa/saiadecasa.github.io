@@ -30,7 +30,6 @@ Fora as erratas (que encorajamos que você nos encaminhe logo que perceber um pr
 
 - inclusão de novos eventos
 - exclusão de eventos passados
-- 
 
 ### Regra de ouro para sua contribuição
 
