@@ -40,6 +40,19 @@
             "link": "http://www.apiexperience.com.br/"
         },
         {
+            "titulo": "Javaneiros 2015",
+            "dataInicio": "2015-11-14",
+            "dataFim": "2015-11-14",
+            "local": "Universidade Católica Dom Bosco",
+            "endereco": "Av. Tamandaré, 6000 - Jardim Seminario, Campo Grande - MS",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3739.381597621433!2d-54.6216496850776!3d-20.408372086337717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9486e7f9c10e163d%3A0xefa0b1726d7a6384!2sAv.+Tamandar%C3%A9%2C+6000+-+Jardim+Seminario%2C+Campo+Grande+-+MS!5e0!3m2!1spt-BR!2sbr!4v1447002025105",
+            "localizacao": {
+                "latitude": -20.408372086337717,
+                "longitude": -54.6216496850776
+            },
+            "link": "http://www.javaneiros.com.br/2015/"
+        },        
+        {
             "titulo": "Developer Week POA",
             "dataInicio": "2015-11-17",
             "dataFim": "2015-11-19",
@@ -65,6 +78,19 @@
             },
             "link": "http://www.frontinsampa.com.br/"
         },
+        {
+            "titulo": "GDG DevFest São Paulo 2015",
+            "dataInicio": "2015-11-21",
+            "dataFim": "2015-11-21",
+            "local": "Fecomércio São Paulo",
+            "endereco": "R. Dr. Plínio Barreto, 285 - Bela Vista - São Paulo",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.291567237386!2d-46.654504885022405!3d-23.55796958468467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59ca152fdc01%3A0x170899998aa5cf0d!2sR.+Dr.+Pl%C3%ADnio+Barreto%2C+285+-+Bela+Vista%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1447002301955",
+            "localizacao": {
+                "latitude": -23.55796958468467,
+                "longitude": -46.654504885022405
+            },
+            "link": "http://sp.devfest.com.br/"
+        },        
         {
             "titulo": "Rock and Code - Front in Aracaju",
             "dataInicio": "2015-11-28",
