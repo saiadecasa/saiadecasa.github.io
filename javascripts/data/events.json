@@ -40,6 +40,19 @@
             "link": "http://www.apiexperience.com.br/"
         },
         {
+            "titulo": "PHParty 7 - RJ",
+            "dataInicio": "2015-11-14",
+            "dataFim": "2015-11-14",
+            "local": "Nasajon Educacional",
+            "endereco": "Rua Teófilo Otoni, nº 102, Centro, Rio de Janeiro, RJ",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.3470926590667!2d-43.18248168503444!3d-22.900565185014933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5bf99aea93%3A0xd2045b25a05c772b!2sR.+Te%C3%B3filo+Oton%C3%AD%2C+102+-+Centro%2C+Rio+de+Janeiro+-+RJ%2C+20090-080!5e0!3m2!1spt-BR!2sbr!4v1447211310058",
+            "localizacao": {
+                "latitude": -22.900565185014933,
+                "longitude": -43.18248168503444
+            },
+            "link": "https://doity.com.br/phparty7-rj"
+        },          
+        {
             "titulo": "Javaneiros 2015",
             "dataInicio": "2015-11-14",
             "dataFim": "2015-11-14",
