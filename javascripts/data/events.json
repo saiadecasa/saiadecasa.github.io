@@ -1,6 +1,19 @@
 {
     "events": [
         {
+            "titulo": "PHPSP+Party: PHParty7 em SP",
+            "dataInicio": "2015-11-14",
+            "dataFim": "2015-11-14",
+            "local": "Centro de Treinamentos Novatec",
+            "endereco": "Avenida Cruzeiro do Sul, 2463, Conj 617, São Paulo, SP",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.6432457280753!2d-46.62739428502325!3d-23.50935608470869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5883ad1292c5%3A0x1b9173153bc5582!2sAv.+Cruzeiro+do+Sul%2C+2463+-+Santana%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1447414340378",
+            "localizacao": {
+                "latitude": -23.50935608470869,
+                "longitude": -46.62739428502325
+            },
+            "link": "http://www.meetup.com/pt/php-sp/events/226623832/?eventId=226623832"
+        },
+        {
             "titulo": "PHParty 7 - RJ",
             "dataInicio": "2015-11-14",
             "dataFim": "2015-11-14",
@@ -12,7 +25,7 @@
                 "longitude": -43.18248168503444
             },
             "link": "https://doity.com.br/phparty7-rj"
-        },          
+        },
         {
             "titulo": "Javaneiros 2015",
             "dataInicio": "2015-11-14",
@@ -25,7 +38,7 @@
                 "longitude": -54.6216496850776
             },
             "link": "http://www.javaneiros.com.br/2015/"
-        },        
+        },
         {
             "titulo": "Developer Week POA",
             "dataInicio": "2015-11-17",
@@ -64,7 +77,7 @@
                 "longitude": -46.654504885022405
             },
             "link": "http://sp.devfest.com.br/"
-        },        
+        },
         {
             "titulo": "Rock and Code - Front in Aracaju",
             "dataInicio": "2015-11-28",
@@ -116,7 +129,7 @@
                 "longitude": -51.2193774
             },
             "link": "http://www.frontinpoa.com.br/"
-        },        
+        },
         {
             "titulo": "Front in Rio 2015",
             "dataInicio": "2015-12-19",
