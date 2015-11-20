@@ -1,45 +1,6 @@
 {
     "events": [
         {
-            "titulo": "PHPSP+Party: PHParty7 em SP",
-            "dataInicio": "2015-11-14",
-            "dataFim": "2015-11-14",
-            "local": "Centro de Treinamentos Novatec",
-            "endereco": "Avenida Cruzeiro do Sul, 2463, Conj 617, São Paulo, SP",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.6432457280753!2d-46.62739428502325!3d-23.50935608470869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5883ad1292c5%3A0x1b9173153bc5582!2sAv.+Cruzeiro+do+Sul%2C+2463+-+Santana%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1447414340378",
-            "localizacao": {
-                "latitude": -23.50935608470869,
-                "longitude": -46.62739428502325
-            },
-            "link": "http://www.meetup.com/pt/php-sp/events/226623832/?eventId=226623832"
-        },
-        {
-            "titulo": "PHParty 7 - RJ",
-            "dataInicio": "2015-11-14",
-            "dataFim": "2015-11-14",
-            "local": "Nasajon Educacional",
-            "endereco": "Rua Teófilo Otoni, nº 102, Centro, Rio de Janeiro, RJ",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.3470926590667!2d-43.18248168503444!3d-22.900565185014933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5bf99aea93%3A0xd2045b25a05c772b!2sR.+Te%C3%B3filo+Oton%C3%AD%2C+102+-+Centro%2C+Rio+de+Janeiro+-+RJ%2C+20090-080!5e0!3m2!1spt-BR!2sbr!4v1447211310058",
-            "localizacao": {
-                "latitude": -22.900565185014933,
-                "longitude": -43.18248168503444
-            },
-            "link": "https://doity.com.br/phparty7-rj"
-        },
-        {
-            "titulo": "Javaneiros 2015",
-            "dataInicio": "2015-11-14",
-            "dataFim": "2015-11-14",
-            "local": "Universidade Católica Dom Bosco",
-            "endereco": "Av. Tamandaré, 6000 - Jardim Seminario, Campo Grande - MS",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3739.381597621433!2d-54.6216496850776!3d-20.408372086337717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9486e7f9c10e163d%3A0xefa0b1726d7a6384!2sAv.+Tamandar%C3%A9%2C+6000+-+Jardim+Seminario%2C+Campo+Grande+-+MS!5e0!3m2!1spt-BR!2sbr!4v1447002025105",
-            "localizacao": {
-                "latitude": -20.408372086337717,
-                "longitude": -54.6216496850776
-            },
-            "link": "http://www.javaneiros.com.br/2015/"
-        },
-        {
             "titulo": "Developer Week POA",
             "dataInicio": "2015-11-17",
             "dataFim": "2015-11-19",
