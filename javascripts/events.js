@@ -11,6 +11,7 @@
             events.sort(function(a,b){return (a.dataInicio < b.dataInicio) ? false : true;});
             for (i = 0; i < events.length; i++) {
                 events[i].data = this.getTextData(events[i].dataInicio, events[i].dataFim);
+                events[i].id = i;
             }
             return events;
         };
