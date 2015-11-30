@@ -33,12 +33,6 @@ function validateRequiredParameters(event, i, arr) {
         event.should.have.property('endereco').which.is.a.String();
     });
 
-    it('each event should have a valid embed link to google maps - dataset #' + i, function () {
-        event.should.
-            have.property('embed_link').which.is.a.String().and.
-            startWith('https://www.google.com/maps/embed?pb=!');
-    });
-
     it('each event should have location coordinates - dataset #' + i, function () {
         event.should.
             have.property('localizacao').which.is.a.Object().
