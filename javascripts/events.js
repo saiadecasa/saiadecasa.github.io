@@ -7,6 +7,7 @@
         this.getAll = function () {
             for (i = 0; i < events.length; i++) {
                 events[i].data = this.getTextData(events[i].dataInicio, events[i].dataFim);
+                events[i].id = i;
             }
             return events;
         };
