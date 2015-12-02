@@ -14,6 +14,19 @@
             "link": "http://www.phpconference.com.br/"
         },
         {
+            "titulo": "PHPSP + Pub Especial - Final de Ano e PHP Conference Brasil 2015",
+            "dataInicio": "2015-12-04",
+            "dataFim": "2015-12-04",
+            "local": "Beer Bamboo",
+            "endereco": "Rua Joaquim Távora, 895, São Paulo - SP",
+            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.502677189731!2d-46.64334508483292!3d-23.58629856839933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x0bd176d3a0967f2a!2sBeer+Bamboo!5e0!3m2!1spt-BR!2sbr!4v1449071480650",
+            "localizacao": {
+                "latitude": -23.586303,
+                "longitude": -46.641156
+            },
+            "link": "http://www.meetup.com/php-sp/events/222454636/"
+        },
+        {
             "titulo": "XII Fórum Goiano de Software Livre",
             "dataInicio": "2015-12-04",
             "dataFim": "2015-12-05",
