@@ -29,15 +29,24 @@
     });
 
     $('.sdc_staticmaps').on('click', function () {
-        var $this = $(this);
-        var $canvas = $this.parent().find('.sdc_maps');
-        var evento = eventHandler.getByTitulo($this.data('titulo'));
+        var image = $(this);
+        var canvas = image.parent().find('.sdc_maps');
+        var evento = eventHandler.getByTitulo(image.data('titulo'));
+        var LatLng = new google.maps.LatLng(evento.localizacao.latitude,evento.localizacao.longitude);
+        var options = {
+            zoom: 15,
+            center: LatLng
+        };
 
-        if ($canvas.data('rendered') === 0) {
-            $canvas.html('<br><iframe src="' + evento.embed_link + '" width="100%" height="450" frameborder="0" style="border:0"></iframe>');
-            $this.fadeOut(500);
-            $canvas.show();
-        }
+        image.fadeOut(500);
+        canvas.css('height', '465px');
+
+        var map = new google.maps.Map(document.getElementById(canvas.attr('id')), options);
+        new google.maps.Marker({
+            position: LatLng,
+            title: evento.titulo,
+            map: map
+        });
     });
 
     //pegar todos os h4
