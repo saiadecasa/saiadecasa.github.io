@@ -1,32 +1,6 @@
 {
     "events": [
         {
-            "titulo": "Rock and Code - Front in Aracaju",
-            "dataInicio": "2015-11-28",
-            "dataFim": "2015-11-28",
-            "local": "AABB",
-            "endereco": "Rua João Mota dos Santos, s/n - Robalo, Aracaju - SE",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.2352281352996!2d-37.08528205001934!3d-11.02096999211736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTHCsDAxJzE1LjUiUyAzN8KwMDQnNTkuMSJX!5e0!3m2!1sen!2sbr!4v1445645718200",
-            "localizacao": {
-                "latitude": -11.020970,
-                "longitude":  -37.083088
-            },
-            "link": "http://www.frontinaracaju.com.br/"
-        },
-        {
-            "titulo": "WordCamp SP 2015",
-            "dataInicio": "2015-11-28",
-            "dataFim": "2015-11-28",
-            "local": "PUC Consolação",
-            "endereco": "Rua Marquês de Paranaguá, 111 - Consolação - São Paulo SP",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.531754829761!2d-46.6523400850224!3d-23.549338084688948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce584a184ddcb9%3A0x8e7ac9581974cfae!2zUi4gTWFycXXDqnMgZGUgUGFyYW5hZ3XDoSwgMTExIC0gQ29uc29sYcOnw6NvLCBTw6NvIFBhdWxvIC0gU1AsIDAxMzAzLTA1MA!5e0!3m2!1spt-BR!2sbr!4v1447707656356",
-            "localizacao": {
-                "latitude": -23.549338084688948,
-                "longitude":  -46.6523400850224
-            },
-            "link": "https://saopaulo.wordcamp.org/2015/"
-        },
-        {
             "titulo": "PhpConference Brasil 2015",
             "dataInicio": "2015-12-02",
             "dataFim": "2015-12-06",
