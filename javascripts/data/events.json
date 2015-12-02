@@ -6,7 +6,6 @@
             "dataFim": "2015-12-06",
             "local": "UNIFIEO",
             "endereco": "Av. Franz Voegeli, 300 - Osasco, São Paulo",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.7789372193115!2d-46.76145219999998!3d-23.540452100000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ceff447f41f72b%3A0xdfa4e0bd5729826e!2sUNIFIEO!5e0!3m2!1spt-BR!2sbr!4v1444267826591",
             "localizacao": {
                 "latitude": -23.540452,
                 "longitude": -46.761452
@@ -32,7 +31,6 @@
             "dataFim": "2015-12-05",
             "local": "Faculdade de Tecnologia Senac Goiás",
             "endereco": "Av. Independência, 1002 - St. Leste Vila Nova, Goiânia",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30576.090874764446!2d-49.22550599999998!3d-16.67631499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xc106e8f2ca4ae796!2sFaculdade+de+Tecnologia+Senac+Goi%C3%A1s!5e0!3m2!1sen!2sca!4v1445217805657",
             "localizacao": {
                 "latitude": -16.669819,
                 "longitude": -49.236063
@@ -45,7 +43,6 @@
             "dataFim": "2015-11-19",
             "local": "UniRitter",
             "endereco": "Rua Orfanotrófio, 515 - Alto Teresópolis",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13810.034301842712!2d-51.2193774!3d-30.0796178!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6de74d911b011b86!2sUniRitter!5e0!3m2!1spt-BR!2sbr!4v1445014065257",
             "localizacao": {
                 "latitude": -30.0796178,
                 "longitude": -51.2193774
@@ -58,7 +55,6 @@
             "dataFim": "2015-12-19",
             "local": "Clube de Engenharia",
             "endereco": "Av. Rio Branco, 124 , Centro - RJ ",
-            "embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.2512473606466!2d-43.180190049831786!3d-22.90410198493959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xff702cce0d4941da!2sClube+de+Engenharia!5e0!3m2!1sen!2sbr!4v1445646744191",
             "localizacao": {
                 "latitude": -22.904102,
                 "longitude": -43.177996
