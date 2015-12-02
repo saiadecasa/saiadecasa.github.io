@@ -5,10 +5,6 @@
 
     function Events(events) {
         this.getAll = function () {
-            now = new Date();
-            now = now.getUTCFullYear()+'-'+(now.getUTCMonth()+1)+'-'+now.getUTCDate();
-            events = events.filter(function(a){return (a.dataFim > now) ? true : false;});
-            events.sort(function(a,b){return (a.dataInicio < b.dataInicio) ? false : true;});
             for (i = 0; i < events.length; i++) {
                 events[i].data = this.getTextData(events[i].dataInicio, events[i].dataFim);
             }
