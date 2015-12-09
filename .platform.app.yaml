@@ -23,6 +23,7 @@ web:
       # CSS and Javascript.
       - \.css$
       - \.js$
+      - \.json$
       - \.hbs$
 
       # image/* types.
