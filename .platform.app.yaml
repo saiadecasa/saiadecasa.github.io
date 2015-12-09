@@ -27,6 +27,7 @@ web:
 
       # image/* types.
       - \.gif$
+      - \.jpg$
       - \.png$
       - \.ico$
       - \.svgz?$
