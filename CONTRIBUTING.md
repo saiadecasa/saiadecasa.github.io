@@ -40,9 +40,22 @@ E aqui a regra de ouro para a sua contribuição:
 
 Isso facilita a análise e posterior aceitação de seus Pull Requests, ok?
 
+## Revise suas alterações
+
+Cada Pull Request no GitHub é automaticamente compilado e publicado pelo
+[Platform.sh](https://platform.sh/) num ambiente único que você pode acessar pelo seu navegador para revisar suas alterações.
+
+![Platform.sh Pull Request Deployment](images/docs-pull-request-platformsh.png)
+
+Para acessar a URL do ambiente [Platform.sh](https://platform.sh/), simplesmente acesse a página do Pull Request no GitHub e clique em `Details`.
+
+Os arquivos específicos de configuração na raiz do repositório Git:
+
+- `.platform.app.yaml`, `.platform/services.yaml` e     `.platform/routes.yaml` permitem que a`Platform.sh`_ compile Pull Requests.
+
 ## Como testamos sua contribuição
 
-Quando o seu Pull Request for enviado, alguns testes serão feitos automaticamente no projeto (Travis-CI), afim de garantir que todas as mudanças estão corretas.
+Quando o seu Pull Request for enviado, alguns testes serão feitos automaticamente no projeto (Travis-CI), a fim de garantir que todas as mudanças estão corretas.
 
 Caso você queira realizar os testes no seu ambiente antes de enviar o Pull Request, é bem simples.
 Basta executar estes comandos no seu terminal (você precisará ter o `node` instalado para isso):
