@@ -6,7 +6,7 @@
 	var eventsData = [];
 
 	$.ajax({
-		url: '/saiadecasa/javascripts/data/events.json',
+		url: '/javascripts/data/events.json',
 		type: 'GET',
 		dataType: 'json',
 		async: false,
@@ -49,68 +49,53 @@
 		}
 	});
 
-	$('.sdc_staticmaps').on('click', function () {
-		var image = $(this);
-		var canvas = image.parent().find('.sdc_maps');
-		var evento = eventHandler.getByTitulo(image.data('titulo'));
-		var LatLngEvent = new google.maps.LatLng(evento.localizacao.latitude,evento.localizacao.longitude);
-		var options = {
-			zoom: 15,
-			center: LatLngEvent
-		};
-
-		image.fadeOut(500);
-		canvas.css('height', '465px');
-
-		var map = new google.maps.Map(document.getElementById(canvas.attr('id')), options);
-		if (navigator.geolocation) {
+	setTimeout(function () {
+		$('.sdc_staticmaps').on('click', function () {
+			var image = $(this);
+			var canvas = image.parent().find('.sdc_maps');
+			var evento = eventHandler.getByTitulo(image.data('titulo'));
+			var LatLngEvent = new google.maps.LatLng(evento.localizacao.latitude,evento.localizacao.longitude);
 			var options = {
-				map: map
+				zoom: 15,
+				center: LatLngEvent
 			};
 
-			var directionsService = new google.maps.DirectionsService();
-			var directionsDisplay = new google.maps.DirectionsRenderer(options);
-			//var infowindow1 = new google.maps.InfoWindow();
-			//var infowindow2 = new google.maps.InfoWindow();
+			image.fadeOut(500);
+			canvas.css('height', '465px');
 
-			navigator.geolocation.getCurrentPosition(function (position) {
-				LatLangUsu = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
-				var request = {
-					origin: LatLangUsu,
-					destination: LatLngEvent,
-					travelMode: google.maps.TravelMode.DRIVING,
+			var map = new google.maps.Map(document.getElementById(canvas.attr('id')), options);
+			if (navigator.geolocation) {
+				var options = {
+					map: map
 				};
-				
-				directionsService.route(request, function(result, status) {
-					if (status == google.maps.DirectionsStatus.OK) {
-						directionsDisplay.setDirections(result);
-						/*
-						var marker = new google.maps.Marker({
-							position: LatLangUsu,
-							map: map
-						});
-						infowindow1.setContent("<strong>Você está aqui?</strong>");
-						infowindow1.open(map, marker);
-						
-						var marker = new google.maps.Marker({
-							position: LatLngEvent,
-							map: map
-						});
-						infowindow2.setContent('<strong>'+evento.titulo+'</strong>');
-						infowindow2.open(map, marker);
-						*/
-					}
+
+				var directionsService = new google.maps.DirectionsService();
+				var directionsDisplay = new google.maps.DirectionsRenderer(options);
+
+				navigator.geolocation.getCurrentPosition(function (position) {
+					LatLangUsu = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+					var request = {
+						origin: LatLangUsu,
+						destination: LatLngEvent,
+						travelMode: google.maps.TravelMode.DRIVING,
+					};
+					
+					directionsService.route(request, function(result, status) {
+						if (status == google.maps.DirectionsStatus.OK) {
+							directionsDisplay.setDirections(result);
+						}
+					});
+					
 				});
-				
-			});
-		} else {
-			new google.maps.Marker({
-				position: LatLngEvent,
-				title: evento.titulo,
-				map: map
-			});
-		}
-	});
+			} else {
+				new google.maps.Marker({
+					position: LatLngEvent,
+					title: evento.titulo,
+					map: map
+				});
+			}
+		});
+	}, 2000);
 
 	//pegar todos os h4
 	var headings = $( "h4" );
