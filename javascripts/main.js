@@ -6,7 +6,7 @@
 	var eventsData = [];
 
 	$.ajax({
-		url: '/javascripts/data/events.json',
+		url: '/saiadecasa/javascripts/data/events.json',
 		type: 'GET',
 		dataType: 'json',
 		async: false,
@@ -23,9 +23,30 @@
 	//usando underscore (_) para gerar HTML
 	var template = _.template( $('#saia-de-casa-template').html() );
 
-
 	events.forEach(function( event ){
-		$inner.append( template( event ) );
+		if (navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(function (position) {
+				var directionsService = new google.maps.DirectionsService();
+				var request = {
+					origin: new google.maps.LatLng(position.coords.latitude,position.coords.longitude),
+					destination: new google.maps.LatLng(event.localizacao.latitude,event.localizacao.longitude),
+					travelMode: google.maps.TravelMode.DRIVING,
+				};
+
+				var distancia = 0;
+				directionsService.route(request, function(result, status) {
+					if (status == google.maps.DirectionsStatus.OK) {
+						for (var j = 0; j < result.routes[0].legs.length; j++) {
+							distancia += result.routes[0].legs[j].distance.value;
+						}
+						event.distancia = Math.round(distancia/100)/10;
+					}
+					$inner.append( template( event ) );
+				});
+			});
+		} else {
+			$inner.append( template( event ) );
+		}
 	});
 
 	$('.sdc_staticmaps').on('click', function () {
@@ -44,14 +65,13 @@
 		var map = new google.maps.Map(document.getElementById(canvas.attr('id')), options);
 		if (navigator.geolocation) {
 			var options = {
-				map: map,
-				suppressMarkers : true
+				map: map
 			};
 
 			var directionsService = new google.maps.DirectionsService();
 			var directionsDisplay = new google.maps.DirectionsRenderer(options);
-			var infowindow1 = new google.maps.InfoWindow();
-			var infowindow2 = new google.maps.InfoWindow();
+			//var infowindow1 = new google.maps.InfoWindow();
+			//var infowindow2 = new google.maps.InfoWindow();
 
 			navigator.geolocation.getCurrentPosition(function (position) {
 				LatLangUsu = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
@@ -64,16 +84,7 @@
 				directionsService.route(request, function(result, status) {
 					if (status == google.maps.DirectionsStatus.OK) {
 						directionsDisplay.setDirections(result);
-
-						var distancia = 0;
-						var etapa, i;
-
-						for (i = 0; i < result.routes[0].legs.length; i++) {
-							/* Obtem cada etapa */
-							distancia += result.routes[0].legs[i].distance.value;
-						}
-						distancia = Math.round(distancia/100)/10;
-
+						/*
 						var marker = new google.maps.Marker({
 							position: LatLangUsu,
 							map: map
@@ -85,8 +96,9 @@
 							position: LatLngEvent,
 							map: map
 						});
-						infowindow2.setContent('<strong>'+evento.titulo+'</br>'+distancia.toString().replace('.',',') + 'Km.</strong>');
+						infowindow2.setContent('<strong>'+evento.titulo+'</strong>');
 						infowindow2.open(map, marker);
+						*/
 					}
 				});
 				
