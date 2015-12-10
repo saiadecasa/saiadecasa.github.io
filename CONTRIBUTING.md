@@ -20,7 +20,6 @@ A estrutura de um evento é a seguinte:
     dataFim     : "no formato -> 2015-09-22",
     local       : "nome do local onde o evento acontece",
     endereco    : "endereço de onde o evento acontece, tente ser o mais completo possível",
-    embed_link  : "link do mapa do Google Maps, ajuda aqui: http://goo.gl/PxxQHo",
     localizacao : { latitude: -25.2218113 , longitude: -54.3462431 },
     link        : "link da página do evento"
 },
