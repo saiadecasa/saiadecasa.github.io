@@ -6,6 +6,10 @@
 	function Events(events) {
 		this.getAll = function () {
 			var i = 0;
+			now = new Date();
+			now = now.getUTCFullYear()+'-'+(now.getUTCMonth()+1)+'-'+now.getUTCDate();
+			events = events.filter(function(a){return (a.dataFim > now) ? true : false;});
+			events.sort(function(a,b){return (a.dataInicio < b.dataInicio) ? false : true;});
 			events.forEach(function(event){
 				event.data = getTextData(event.dataInicio, event.dataFim);
 				event.id = i++;
