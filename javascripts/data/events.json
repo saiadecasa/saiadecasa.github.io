@@ -14,8 +14,8 @@
         },
         {
             "titulo": "Front in Rio 2015",
-            "dataInicio": "2015-12-19",
-            "dataFim": "2015-12-19",
+            "dataInicio": "2016-01-26",
+            "dataFim": "2016-01-31",
             "local": "Clube de Engenharia",
             "endereco": "Av. Rio Branco, 124 , Centro - RJ ",
             "localizacao": {
@@ -23,6 +23,19 @@
                 "longitude": -43.177996
             },
             "link": "http://frontinrio.com.br/"
-        }
+        },
+
+        {
+            "titulo": "Campus Party 2016",
+            "dataInicio": "2015-12-19",
+            "dataFim": "2015-12-19",
+            "local": "Parque Anhembi",
+            "endereco": "Av. Olavo Fontoura, 1209 - Parque Anhembi São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.516275,
+                "longitude": -46.636355
+            },
+            "link": "http://brasil.campus-party.org/"
+        }        
     ]
 }
