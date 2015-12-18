@@ -36,6 +36,18 @@
                 "longitude": -46.636355
             },
             "link": "http://brasil.campus-party.org/"
-        }         
+        },
+        {
+            "titulo": "5º Seminário Locaweb PHPSP",
+            "dataInicio": "2016-01-30",
+            "dataFim": "2016-01-30",
+            "local": "Fundação Bienal de São Paulo",
+            "endereco": "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.58957798466898,
+                "longitude": -46.6542349850217
+            },
+            "link": "http://eventos.locaweb.com.br/5o-seminario-locaweb-phpsp-sao-paulo/"
+        }
     ]
 }
