@@ -1,17 +1,5 @@
 {
     "events": [
-        {
-            "titulo": "Front in Rio 2015",
-            "dataInicio": "2015-12-19",
-            "dataFim": "2015-12-19",
-            "local": "Clube de Engenharia",
-            "endereco": "Av. Rio Branco, 124 , Centro - RJ ",
-            "localizacao": {
-                "latitude": -22.904102,
-                "longitude": -43.177996
-            },
-            "link": "http://frontinrio.com.br/"
-        },
 
         {
             "titulo": "Campus Party 2016",
