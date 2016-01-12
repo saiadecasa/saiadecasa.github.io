@@ -24,6 +24,18 @@
                 "longitude": -46.6542349850217
             },
             "link": "http://eventos.locaweb.com.br/5o-seminario-locaweb-phpsp-sao-paulo/"
+        },
+        {
+            "titulo": "Front in Rio 2016 - HTML edition",
+            "dataInicio": "2016-03-12",
+            "dataFim": "2016-03-12",
+            "local": "Clube de Engenharia",
+            "endereco": "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ",
+            "localizacao": {
+                "latitude": -22.904892,
+                "longitude": -43.1801744
+            },
+            "link": "http://www.eventick.com.br/fir-2016-html"
         }
     ]
 }
