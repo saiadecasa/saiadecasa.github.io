@@ -14,6 +14,18 @@
             "link": "http://brasil.campus-party.org/"
         },
         {
+            "titulo": "15º WordPress Meetup",
+            "dataInicio": "2016-01-28",
+            "dataFim": "2016-01-28",
+            "local": "SENAC - Auditório da FATEC",
+            "endereco": "Rua Santa Luzia, 735, 7º Andar - Centro, Rio de Janeiro",
+            "localizacao": {
+                "latitude": -22.910931285009774,
+                "longitude": -43.176440485034306
+            },
+            "link": "http://www.meetup.com/pt-BR/wp-rio/events/228088937/?eventId=228088937&rv=ea1&rv=ea1"
+        },        
+        {
             "titulo": "5º Seminário Locaweb PHPSP",
             "dataInicio": "2016-01-30",
             "dataFim": "2016-01-30",
