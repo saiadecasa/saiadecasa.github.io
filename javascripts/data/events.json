@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": "FEMUG-ABC #6 - Testes de Software com Darlan Mendonça",
-            "dataInicio": "2016-01-23",
-            "dataFim": "2016-01-23",
-            "local": "Midia Performa",
-            "endereco": "R. Frei Gáspar, 941 - Vila Santa Rita de Cassia, São Bernardo do Campo - SP, Brasil",
-            "localizacao": {
-                "latitude"  : -23.7172073,
-                "longitude" : -46.5571752
-            },
-            "link": "http://abc.femug.com/t/femug-abc-6-testes-de-software/"
-        },
-        {
             "titulo": "Campus Party 2016",
             "dataInicio": "2016-01-26",
             "dataFim": "2016-01-31",
@@ -35,7 +23,7 @@
                 "longitude": -43.176440485034306
             },
             "link": "http://www.meetup.com/pt-BR/wp-rio/events/228088937/?eventId=228088937&rv=ea1&rv=ea1"
-        },        
+        },
         {
             "titulo": "5º Seminário Locaweb PHPSP",
             "dataInicio": "2016-01-30",
