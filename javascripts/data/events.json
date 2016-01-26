@@ -47,6 +47,18 @@
                 "longitude": -43.1801744
             },
             "link": "http://www.eventick.com.br/fir-2016-html"
+        },
+        {
+            "titulo": "RuPy Campinas",
+            "dataInicio": "2016-06-18",
+            "dataFim": "2016-06-18",
+            "local": "Faculdade de Engenharia Elétrica e de Computação (FEEC) - UNICAMP",
+            "endereco": "Avenida Albert Einstein, 400. Campinas, São Paulo",
+            "localizacao": {
+                "latitude": -22.820709,
+                "longitude": -47.066492
+            },
+            "link": ""
         }
     ]
 }
