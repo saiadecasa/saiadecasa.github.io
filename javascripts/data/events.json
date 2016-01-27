@@ -37,6 +37,18 @@
             "link": "http://eventos.locaweb.com.br/5o-seminario-locaweb-phpsp-sao-paulo/"
         },
         {
+            "titulo": "FEMUG-ABC #7 Clojure + Javascript + React",
+            "dataInicio": "2016-02-20",
+            "dataFim": "2016-02-20",
+            "local": "Mídia Performa",
+            "endereco": "R. Frei Gáspar, 941 - Vila Santa Rita de Cassia, São Bernardo do Campo - SP, Brasil",
+            "localizacao": {
+                "latitude": -23.7172073,
+                "longitude": -46.5593639
+            },
+            "link": "http://abc.femug.com/t/femug-abc-7-clojure-javascript-react/"
+        },
+        {
             "titulo": "Front in Rio 2016 - HTML edition",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
