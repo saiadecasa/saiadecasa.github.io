@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "FEMUG-ABC #7 Clojure + Javascript + React",
+            "dataInicio": "2016-02-20",
+            "dataFim": "2016-02-20",
+            "local": "Mídia Performa",
+            "endereco": "R. Frei Gáspar, 941 - Vila Santa Rita de Cassia, São Bernardo do Campo - SP, Brasil",
+            "localizacao": {
+                "latitude": -23.7172073,
+                "longitude": -46.5593639
+            },
+            "link": "http://abc.femug.com/t/femug-abc-7-clojure-javascript-react/"
+        },
+        {
             "titulo": "Campus Party 2016",
             "dataInicio": "2016-01-26",
             "dataFim": "2016-01-31",
