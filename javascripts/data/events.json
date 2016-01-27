@@ -49,6 +49,18 @@
             "link": "http://abc.femug.com/t/femug-abc-7-clojure-javascript-react/"
         },
         {
+            "titulo": "FEMUG-SP #29",
+            "dataInicio": "2016-02-20",
+            "dataFim": "2016-02-20",
+            "local": "Locaweb",
+            "endereco": "R. Itapaiúna, 2434 - Jardim Morumbi, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.641635,
+                "longitude": -46.7310775
+            },
+            "link": "https://sp.femug.com/t/femug-sp-29-locaweb/605"
+        },
+        {
             "titulo": "Front in Rio 2016 - HTML edition",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
