@@ -25,6 +25,18 @@
             "link": "https://sp.femug.com/t/femug-sp-29-locaweb/605"
         },
         {
+            "titulo": "Hackathon Campinas",
+            "dataInicio": "2016-03-05",
+            "dataFim": "2016-03-06",
+            "local": "Teatro da Associação IMA Cultura",
+            "endereco": "Rua Padre João Garcia, 101, Ponte Preta, Campinas/SP",
+            "localizacao": {
+                "latitude": -22.9191978,
+                "longitude": -47.056221
+            },
+            "link": "http://hackathon.ima.sp.gov.br/api-portal/"
+        },     
+        {
             "titulo": "Front in Rio 2016 - HTML edition",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
