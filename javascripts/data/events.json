@@ -49,6 +49,18 @@
             "link": "http://www.eventick.com.br/fir-2016-html"
         },
         {
+            "titulo": "PHP Experience 2016",
+            "dataInicio": "2016-03-21",
+            "dataFim": "2016-03-22",
+            "local": "Hotel Tivoli Mofarrej",
+            "endereco": "Alameda Santos, 1438 - São Paulo – SP",
+            "localizacao": {
+                "latitude": -23.5635729,
+                "longitude": -46.6581653
+            },
+            "link": "http://phpexperience2016.imasters.com.br/"
+        },  
+        {
             "titulo": "RuPy Campinas",
             "dataInicio": "2016-06-18",
             "dataFim": "2016-06-18",
