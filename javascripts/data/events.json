@@ -37,6 +37,18 @@
             "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/228639046/"
         },
         {
+            "titulo": "Workshop Django Girls Campinas",
+            "dataInicio": "2016-03-12",
+            "dataFim": "2016-03-12",
+            "local": "IC - Instituto de Computação da UNICAMP",
+            "endereco": "Rua Saturnino de Brito, 20 - Campinas - SP",
+            "localizacao": {
+                "latitude": -22.8133626,
+                "longitude": -47.0636018
+            },
+            "link": "https://djangogirls.org/campinas/"
+        },
+        {
             "titulo": "Front in Rio 2016 - HTML edition",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
