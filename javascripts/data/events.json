@@ -61,6 +61,18 @@
             "link": "http://www.eventick.com.br/fir-2016-html"
         },
         {
+            "titulo": "LinguÁgil",
+            "dataInicio": "2016-03-16",
+            "dataFim": "2016-03-19",
+            "local": "Campus Rio Vermelho",
+            "endereco": "Rua Theodomiro Batista, n. 422, Rio Vermelho - Salvador - BA",
+            "localizacao": {
+                "latitude": -13.0098638,
+                "longitude": -38.4837851
+            },
+            "link": "http://linguagil.com.br"
+        },   
+        {
             "titulo": "PHP Experience 2016",
             "dataInicio": "2016-03-21",
             "dataFim": "2016-03-22",
