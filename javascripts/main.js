@@ -1,11 +1,9 @@
 (function() {
   //onde pagina sera gerada
   var $eventsContainer = $('#events');
+  var eventHandler = null;
 
   fetchEvents();
-
-
-  $(document).on('click', '.sdc_staticmaps', onEventImageClick);
 
   function fetchEvents() {
     $.ajax({
@@ -20,12 +18,13 @@
   }
 
   function onEventsLoaded(events) {
-    var eventHandler = new Events(events);
+    eventHandler = new Events(events);
     //o objeto de eventos
     events = eventHandler.getAll();
 
     appendEvents(events);
     addDistanceToEvents(events);
+    $(document).on('click', '.sdc_staticmaps', onEventImageClick);
   }
 
   function onEventImageClick(e) {
