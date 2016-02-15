@@ -42,7 +42,9 @@
                 <section id="main_content">
                   <h3>O que vai rolar</h3>
                   <hr>
-                  <!-- Eventos serao gerados aqui -->
+                  <div id="events">
+                    <!-- Eventos serao gerados aqui -->
+                  </div>
               </section>
 
                 <footer>
@@ -53,18 +55,23 @@
             </div>
         </div>
          <script type="text/template" id="saia-de-casa-template">
-            <h4><%= titulo %></h4>
-            <ul>
-              <li><b>Data:</b> <%= data %></li>
-              <li><b>Local:</b> <%= local %> </li>
-              <li><b>Endereço:</b> <%= endereco %></li>
-              <% if('localizacao') { %>
-                <div class="sdc_maps clearfix" id="map<%= id %>"></div>
-                <br><img class="sdc_staticmaps clearfix" data-titulo="<%= titulo %>" src="//maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=17&format=jpeg&center=<%= localizacao.latitude %>,<%= localizacao.longitude %>&markers=color:red%7Ccolor:red%7Clabel:<%= local %>%7C<%=localizacao.latitude %>,<%=localizacao.longitude %>&sensor=false" alt="Localização do <%= titulo %>">
-              <% } %>
-            </ul>
-            <p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>
-          <hr>
+            <div>
+              <h4><%= titulo %></h4>
+              <ul>
+                <li><b>Data:</b> <%= data %></li>
+                <li><b>Local:</b> <%= local %> </li>
+                <li><b>Endereço:</b> <%= endereco %></li>
+                <% if(distancia > 0) { %>
+                  <li><b>Distância:</b> <%= distancia %>Km</li>
+                <% } %>
+                <% if('localizacao') { %>
+                  <div class="sdc_maps clearfix" id="map<%= id %>"></div>
+                  <br><img class="sdc_staticmaps clearfix" data-id="<%= id %>" data-titulo="<%= titulo %>" src="//maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=17&format=jpeg&center=<%= localizacao.latitude %>,<%= localizacao.longitude %>&markers=color:red%7Ccolor:red%7Clabel:<%= local %>%7C<%=localizacao.latitude %>,<%=localizacao.longitude %>&sensor=false" alt="Localização do <%= titulo %>">
+                <% } %>
+              </ul>
+              <p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>
+              <hr>
+            </div>
         </script>
         <script>
             /*jshint -W030 */

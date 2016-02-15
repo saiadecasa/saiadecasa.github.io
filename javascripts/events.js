@@ -1,52 +1,87 @@
-(function (w) {
-    var monthNames = [
-        "janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"
-    ];
+(function(w) {
+  var monthNames = [
+    "janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"
+  ];
 
-    function Events(events) {
-        this.getAll = function () {
-            for (i = 0; i < events.length; i++) {
-                events[i].data = this.getTextData(events[i].dataInicio, events[i].dataFim);
-                events[i].id = i;
-            }
-            return events;
-        };
+  function Events(events) {
+    var context = this;
+    events = events || [];
 
-        this.getByTitulo = function (titulo) {
-            /*jshint esnext: true */
-            for (var evento of events) {
-                if (evento.titulo !== titulo) continue;
-                evento.data = this.getTextData(evento.dataInicio, evento.dataFim);
-                return evento;
-            }
-        };
+    // arrumando os objetos de eventos,
+    // adicionando propriedades necessárias
+    events.forEach(function(event, index) {
+      event.id = index;
+      event.data = getTextData(event.dataInicio, event.dataFim);
+      event.distancia = 0;
+    });
 
-        this.getTextData = function (dataInicio, dataFim) {
-            dataInicio = new Date(dataInicio);
-            day1 = dataInicio.getUTCDate();
-            month1 = dataInicio.getUTCMonth();
-            year1 = dataInicio.getUTCFullYear();
+    this.getAll = function() {
+      var now = convertDateToUTCISOString(new Date());
 
-            dataFim = new Date(dataFim);
-            day2 = dataFim.getUTCDate();
-            month2 = dataFim.getUTCMonth();
-            year2 = dataFim.getUTCFullYear();
+      events = events
+        // remover eventos passados
+        .filter(function(event) {
+          return event.dataFim > now;
+        })
+        // ordenar pela data do evento (mais próximos primeiro)
+        .sort(function(a, b) {
+          return a.dataInicio > b.dataInicio;
+        });
+      return events;
+    };
 
-            if (year1 != year2) {
-                return day1 + ' de ' + monthNames[month1] + ' de ' + year1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
-            }
+    this.getById = function(id) {
+      return events.filter(function(event) {
+        return event.id == id;
+      })[0];
+    };
 
-            if (month1 != month2) {
-                return day1 + ' de ' + monthNames[month1] + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
-            }
+    this.getByTitulo = function(titulo) {
+      /*jshint esnext: true */
+      for (var evento of events) {
+        if (evento.titulo !== titulo) continue;
+        evento.data = getTextData(evento.dataInicio, evento.dataFim);
+        return evento;
+      }
+    };
 
-            if (day1 != day2) {
-                return day1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
-            }
+    function getTextData(dataInicio, dataFim) {
+      dataInicio = new Date(dataInicio);
+      var day1 = dataInicio.getUTCDate();
+      var month1 = dataInicio.getUTCMonth();
+      var year1 = dataInicio.getUTCFullYear();
 
-            return day1 + ' de ' + monthNames[month2] + ' de ' + year2;
-        };
-    }
+      dataFim = new Date(dataFim);
+      var day2 = dataFim.getUTCDate();
+      var month2 = dataFim.getUTCMonth();
+      var year2 = dataFim.getUTCFullYear();
 
-    w.Events = Events;
+      if (year1 != year2) {
+        return day1 + ' de ' + monthNames[month1] + ' de ' + year1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
+      }
+
+      if (month1 != month2) {
+        return day1 + ' de ' + monthNames[month1] + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
+      }
+
+      if (day1 != day2) {
+        return day1 + ' a ' + day2 + ' de ' + monthNames[month2] + ' de ' + year2;
+      }
+
+      return day1 + ' de ' + monthNames[month2] + ' de ' + year2;
+    };
+  }
+
+  function pad(n, width, z) {
+    z = z || '0';
+    n = n + '';
+    return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+  }
+
+  function convertDateToUTCISOString(date) {
+    if (!date) return '';
+    return date.getUTCFullYear() + '-' + pad(date.getUTCMonth() + 1, 2, '0') + '-' + pad(date.getUTCDate(), 2, '0');
+  }
+
+  w.Events = Events;
 })(window);
