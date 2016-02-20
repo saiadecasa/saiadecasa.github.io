@@ -95,7 +95,19 @@
                 "longitude": -38.4837851
             },
             "link": "http://linguagil.com.br"
-        },   
+        }, 
+        {
+            "titulo": "Meetup #2 - Maringá",
+            "dataInicio": "2016-03-19",
+            "dataFim": "2016-03-19",
+            "local": "Unicesumar",
+            "endereco": "Avenida Guedner, 1610 - Jardim Aclimação, Maringá - PR",
+            "localizacao": {
+                "latitude": -23.4427365,
+                "longitude": -51.919871
+            },
+            "link": "http://www.meetup.com/pt-BR/developerparana/events/228785576/"
+        },
         {
             "titulo": "PHP Experience 2016",
             "dataInicio": "2016-03-21",
