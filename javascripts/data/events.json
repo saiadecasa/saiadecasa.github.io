@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "RoadSec Campo Grande",
+            "dataInicio": "2016-02-20",
+            "dataFim": "2016-02-20",
+            "local": "Anhanguera-Uniderp",
+            "endereco": "R. Ceará, 333 - Vila Antônio Vendas Campo Grande, MS, Brasil",
+            "localizacao": {
+                "latitude": -20.4647792,
+                "longitude": -54.5922338
+            },
+            "link": "http://roadsec.com.br/campogrande2016/"
+        },
+        {
             "titulo": "FEMUG-ABC #7 Clojure + Javascript + React",
             "dataInicio": "2016-02-20",
             "dataFim": "2016-02-20",
@@ -37,6 +49,18 @@
             "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/228639046/"
         },
         {
+            "titulo": "Meetup #1 - Cianorte",
+            "dataInicio": "2016-03-01",
+            "dataFim": "2016-03-01",
+            "local": "Unipar",
+            "endereco": "Av. Brasil, 1123 - Zona 1, Cianorte, PR, Brasil",
+            "localizacao": {
+                "latitude": -23.6531682,
+                "longitude": -52.6151324
+            },
+            "link": "http://www.meetup.com/pt-BR/developerparana/events/228785524/"
+        },
+        {
             "titulo": "Workshop Django Girls Campinas",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
@@ -71,7 +95,19 @@
                 "longitude": -38.4837851
             },
             "link": "http://linguagil.com.br"
-        },   
+        }, 
+        {
+            "titulo": "Meetup #2 - Maringá",
+            "dataInicio": "2016-03-19",
+            "dataFim": "2016-03-19",
+            "local": "Unicesumar",
+            "endereco": "Avenida Guedner, 1610 - Jardim Aclimação, Maringá - PR",
+            "localizacao": {
+                "latitude": -23.4427365,
+                "longitude": -51.919871
+            },
+            "link": "http://www.meetup.com/pt-BR/developerparana/events/228785576/"
+        },
         {
             "titulo": "PHP Experience 2016",
             "dataInicio": "2016-03-21",
