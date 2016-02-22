@@ -1,6 +1,8 @@
 (function() {
   //onde pagina sera gerada
   var $eventsContainer = $('#events');
+  //usando underscore (_) para gerar HTML
+  var eventTemplate = _.template($('#saia-de-casa-template').html());
   var eventHandler = null;
 
   fetchEvents();
@@ -10,7 +12,7 @@
       url: '/javascripts/data/events.json',
       type: 'GET',
       dataType: 'json',
-      async: false,
+      async: true,
       success: function onSuccess(data) {
         onEventsLoaded(data.events);
       }
@@ -102,21 +104,27 @@
     });
   }
 
+  function createEventEl(event) {
+    var eventEl = $(eventTemplate(event));
+    eventEl.attr('id', 'event-' + event.id);
+    eventEl.data('id', event.id);
+    if (eventHandler.alreadyHappened(event))
+      eventEl.addClass('past');
+
+    return eventEl;
+  }
+
   /**
    * Adiciona os eventos ao documento,
    * na ordem que estiverem, removendo
    * o que estiver listado.
    */
   function appendEvents(events) {
-    //usando underscore (_) para gerar HTML
-    var template = _.template($('#saia-de-casa-template').html());
     $eventsContainer.empty();
 
     events.forEach(function(event) {
-      var eventEl = $(template(event));
+      var eventEl = createEventEl(event);
       $eventsContainer.append(eventEl);
-      eventEl.attr('id', 'event-' + event.id);
-      eventEl.data('id', event.id)
     });
 
     addAnchorsToHeadings();
@@ -127,14 +135,9 @@
    * no documento.
    */
   function updateEvent(event) {
-    //usando underscore (_) para gerar HTML
-    var template = _.template($('#saia-de-casa-template').html());
     var currentEl = $eventsContainer.children('#event-' + event.id);
 
-    var eventEl = $(template(event));
-    eventEl.attr('id', 'event-' + event.id)
-    eventEl.data('id', event.id)
-
+    var eventEl = createEventEl(event);
     currentEl.replaceWith(eventEl);
 
     addAnchorsToHeadings();

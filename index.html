@@ -7,6 +7,9 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
         <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
         <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css">
+
+        <link rel="stylesheet" type="text/css" href="stylesheets/custom_styles.css" media="screen" />
+
         <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
@@ -55,21 +58,27 @@
             </div>
         </div>
          <script type="text/template" id="saia-de-casa-template">
-            <div>
-              <h4><%= titulo %></h4>
-              <ul>
-                <li><b>Data:</b> <%= data %></li>
-                <li><b>Local:</b> <%= local %> </li>
-                <li><b>Endereço:</b> <%= endereco %></li>
-                <% if(distancia > 0) { %>
-                  <li><b>Distância:</b> <%= distancia %>Km</li>
-                <% } %>
-                <% if('localizacao') { %>
-                  <div class="sdc_maps clearfix" id="map<%= id %>"></div>
-                  <br><img class="sdc_staticmaps clearfix" data-id="<%= id %>" data-titulo="<%= titulo %>" src="//maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=17&format=jpeg&center=<%= localizacao.latitude %>,<%= localizacao.longitude %>&markers=color:red%7Ccolor:red%7Clabel:<%= local %>%7C<%=localizacao.latitude %>,<%=localizacao.longitude %>&sensor=false" alt="Localização do <%= titulo %>">
-                <% } %>
-              </ul>
-              <p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>
+            <div class="event">
+              <p class="past-event-notice">
+                <span class="fa fa-warning"></span>
+                Esse evento já ocorreu. <a href="https://github.com/saiadecasa/saiadecasa.github.io/issues/new">Que tal abrir um Pull Request para removê-lo da lista?</a>
+              </p>
+              <div class="event-content">
+                <h4><%= titulo %></h4>
+                <ul>
+                  <li><b>Data:</b> <%= data %></li>
+                  <li><b>Local:</b> <%= local %> </li>
+                  <li><b>Endereço:</b> <%= endereco %></li>
+                  <% if(distancia > 0) { %>
+                    <li><b>Distância:</b> <%= distancia %>Km</li>
+                  <% } %>
+                  <% if('localizacao') { %>
+                    <div class="sdc_maps clearfix" id="map<%= id %>"></div>
+                    <br><img class="sdc_staticmaps clearfix" data-id="<%= id %>" data-titulo="<%= titulo %>" src="//maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=17&format=jpeg&center=<%= localizacao.latitude %>,<%= localizacao.longitude %>&markers=color:red%7Ccolor:red%7Clabel:<%= local %>%7C<%=localizacao.latitude %>,<%=localizacao.longitude %>&sensor=false" alt="Localização do <%= titulo %>">
+                  <% } %>
+                </ul>
+                <p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>
+              </div>
               <hr>
             </div>
         </script>

@@ -16,18 +16,11 @@
     });
 
     this.getAll = function() {
-      var now = convertDateToUTCISOString(new Date());
-
-      events = events
-        // remover eventos passados
-        .filter(function(event) {
-          return event.dataFim > now;
-        })
+      return events
         // ordenar pela data do evento (mais próximos primeiro)
         .sort(function(a, b) {
           return a.dataInicio > b.dataInicio;
         });
-      return events;
     };
 
     this.getById = function(id) {
@@ -43,6 +36,15 @@
         evento.data = getTextData(evento.dataInicio, evento.dataFim);
         return evento;
       }
+    };
+
+    /**
+     * Retorna true se o evento já aconteceu (`dataFim` está no passado),
+     * ou false caso esteja no futuro.
+     */
+    this.alreadyHappened = function(event) {
+      var now = convertDateToUTCISOString(new Date());
+      return event.dataFim < now;
     };
 
     function getTextData(dataInicio, dataFim) {
