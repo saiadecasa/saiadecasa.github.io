@@ -19,7 +19,7 @@
       return events
         // ordenar pela data do evento (mais próximos primeiro)
         .sort(function(a, b) {
-          return a.dataInicio > b.dataInicio;
+          return a.dataInicio > b.dataInicio ? 1 : -1;
         });
     };
 
