@@ -49,4 +49,5 @@
     }
 
     w.Events = Events;
+    console.log(Events);
 })(window);
