@@ -25,6 +25,18 @@
             "link": "http://www.meetup.com/pt-BR/developerparana/events/228785524/"
         },
         {
+            "titulo": "Temporada Agile",
+            "dataInicio": "2016-03-03",
+            "dataFim": "2016-03-03",
+            "local": "Globalcode",
+            "endereco": " Av. Bernardino de Campos, 327, Paráiso, São Paulo-SP",
+            "localizacao": {
+                "latitude": -23.5737445,
+                "longitude": -46.6418658
+            },
+            "link": "http://beta.globalcode.com.br/treinamentos/temporada-agile"
+        },
+        {
             "titulo": "Workshop Django Girls Campinas",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
