@@ -37,6 +37,18 @@
             "link": "http://beta.globalcode.com.br/treinamentos/temporada-agile"
         },
         {
+            "titulo": "Roadsec Brasilia",
+            "dataInicio": "2016-03-05",
+            "dataFim": "2016-03-05",
+            "local": "UNICEUB",
+            "endereco": "SEPN 707/907 Asa Norte Brasília, DF 70790075 - BR",
+            "localizacao": {
+                "latitude": -15.739223,
+                "longitude": -47.902451
+            },
+            "link": "https://www.eventbrite.com.br/e/roadsec-2016-brasilia-registration-21779918322"
+        },
+        {
             "titulo": "Workshop Django Girls Campinas",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
