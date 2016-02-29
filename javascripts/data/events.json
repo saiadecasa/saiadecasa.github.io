@@ -119,6 +119,18 @@
                 "longitude": -47.066492
             },
             "link": "http://campinas.rupy.com.br"
+        },
+        {
+            "titulo": "BrazilJS Conf 2016 - Edição Olimpíadas",
+            "dataInicio": "2016-08-26",
+            "dataFim": "2016-08-27",
+            "local": "Shopping Center BarraShoppingSul",
+            "endereco": "Av. Diário de Notícias, 300, bairro Cristal, Porto Alegre/RS",
+            "localizacao": {
+                "latitude": -30.084316,
+                "longitude": -51.245264
+            },
+            "link": "https://braziljs.org/conf"
         }
     ]
 }
