@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": " 5º Campinas Front-End Meetup",
-            "dataInicio": "2016-02-27",
-            "dataFim": "2016-02-27",
-            "local": "CDI Campinas (Minha Campinas)",
-            "endereco": "Av. Nestor Castanheira, 201, Campinas - SP",
-            "localizacao": {
-                "latitude": -22.914119,
-                "longitude": -47.067398
-            },
-            "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/228639046/"
-        },
-        {
             "titulo": "Meetup #1 - Cianorte",
             "dataInicio": "2016-03-01",
             "dataFim": "2016-03-01",
