@@ -85,6 +85,18 @@
             "link": "http://www.meetup.com/pt-BR/developerparana/events/228785576/"
         },
         {
+            "titulo": "Roadsec Cuiaba",
+            "dataInicio": "2016-03-19",
+            "dataFim": "2016-03-19",
+            "local": "Instituto de Computação-Campus UFMT",
+            "endereco": "Av. Fernando Correa da Costa, 2367 - Boa Esperança - Cuiabá - MT",
+            "localizacao": {
+                "latitude": -15.6120014,
+                "longitude": -56.07041
+            },
+            "link": "http://roadsec.com.br/cuiaba2016/"
+        },
+        {
             "titulo": "PHP Experience 2016",
             "dataInicio": "2016-03-21",
             "dataFim": "2016-03-22",
