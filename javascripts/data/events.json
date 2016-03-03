@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": "Meetup #1 - Cianorte",
-            "dataInicio": "2016-03-01",
-            "dataFim": "2016-03-01",
-            "local": "Unipar",
-            "endereco": "Av. Brasil, 1123 - Zona 1, Cianorte, PR, Brasil",
-            "localizacao": {
-                "latitude": -23.6531682,
-                "longitude": -52.6151324
-            },
-            "link": "http://www.meetup.com/pt-BR/developerparana/events/228785524/"
-        },
-        {
             "titulo": "Temporada Agile",
             "dataInicio": "2016-03-03",
             "dataFim": "2016-03-03",
