@@ -37,6 +37,18 @@
             "link": "http://linguagil.com.br"
         },
         {
+            "titulo": "Encontro de Março - Tudo junto e misturado :)",
+            "dataInicio": "2016-03-19",
+            "dataFim": "2016-03-19",
+            "local": "Aceleratech",
+            "endereco": "Avenida Paulista, 542, conj. 101, 10º andar, Bela Vista São Paulo/SP, São Paulo",
+            "localizacao": {
+                "latitude": -23.567597,
+                "longitude": -46.648464
+            },
+            "link": "http://www.meetup.com/Grupy-SP/events/228437917/"
+        },
+        {
             "titulo": "Meetup #2 - Maringá",
             "dataInicio": "2016-03-19",
             "dataFim": "2016-03-19",
