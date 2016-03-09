@@ -91,7 +91,7 @@
             "local": "TOTVS",
             "endereco": "Avenida Braz Leme, 1717 - Santana, São Paulo",
             "localizacao": {
-                "latitude": -23.505903, 
+                "latitude": -23.505903,
                 "longitude": -46.643309
             },
             "link": "http://www.meetup.com/Tech-Trends/events/229233424/"
@@ -119,6 +119,18 @@
                 "longitude": -51.245264
             },
             "link": "https://braziljs.org/conf"
+        },
+        {
+            "titulo": "Miniconf Elixir 2016",
+            "dataInicio": "2016-10-15",
+            "dataFim": "2016-10-15",
+            "local": "PUC Consolação",
+            "endereco": "R. Monte Alegre, 984 - Perdizes, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.537203,
+                "longitude": -46.670856
+            },
+            "link": "http://www.eventick.com.br/miniconf-elixir-2016#"
         }
     ]
 }
