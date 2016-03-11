@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "PHPSP + PUB",
+            "dataInicio": "2016-03-10",
+            "dataFim": "2016-03-10",
+            "local": "Beer Bamboo",
+            "endereco": "Rua Joaquim Távora, 895, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.5859401,
+                "longitude": -46.64338
+            },
+            "link": "http://www.meetup.com/php-sp/events/224444490/"
+        },
+        {
             "titulo": "Workshop Django Girls Campinas",
             "dataInicio": "2016-03-12",
             "dataFim": "2016-03-12",
