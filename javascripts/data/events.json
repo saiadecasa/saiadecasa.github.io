@@ -73,6 +73,18 @@
             "link": "http://www.meetup.com/Tech-Trends/events/229233424/"
         },
         {
+            "titulo": "Google Cloud + Big Data",
+            "dataInicio": "2016-06-08",
+            "dataFim": "2016-06-08",
+            "local": "TOTVS",
+            "endereco": "Avenida Braz Leme, 1717 - Santana, São Paulo",
+            "localizacao": {
+                "latitude": -23.505903,
+                "longitude": -46.643309
+            },
+            "link": "http://www.meetup.com/Tech-Trends/events/229234048/"
+        },        
+        {
             "titulo": "RuPy Campinas",
             "dataInicio": "2016-06-18",
             "dataFim": "2016-06-18",
