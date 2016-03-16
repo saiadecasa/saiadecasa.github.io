@@ -61,6 +61,18 @@
             "link": "http://phpexperience2016.imasters.com.br/"
         },
         {
+            "titulo": "Roadsec Manaus",
+            "dataInicio": "2016-04-02",
+            "dataFim": "2016-04-02",
+            "local": "Uninorte",
+            "endereco": "Rua Major Gabriel com Ramos Ferreira (ACESSO PELA MAJOR GABRIEL) Centro - Manaus/AM",
+            "localizacao": {
+                "latitude": -3.12478,
+                "longitude": -60.016707
+            },
+            "link": "http://roadsec.com.br/manaus2016/"
+        },
+        {
             "titulo": "A união dos opostos: NoSQL e SQL",
             "dataInicio": "2016-04-06",
             "dataFim": "2016-04-06",
