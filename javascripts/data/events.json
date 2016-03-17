@@ -95,7 +95,7 @@
                 "longitude": -46.643309
             },
             "link": "http://www.meetup.com/Tech-Trends/events/229234048/"
-        },        
+        },
         {
             "titulo": "RuPy Campinas",
             "dataInicio": "2016-06-18",
@@ -107,6 +107,18 @@
                 "longitude": -47.066492
             },
             "link": "http://campinas.rupy.com.br"
+        },
+        {
+            "titulo": "Frontinsampa 2016",
+            "dataInicio": "2016-07-02",
+            "dataFim": "2016-07-02",
+            "local": "Teatro do Colégio Maria Imaculada",
+            "endereco": "Av. Bernardino de Campos, 79 - Paraíso, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.571753,
+                "longitude": -46.643180
+            },
+            "link": "http://frontinsampa.com.br/"
         },
         {
             "titulo": "BrazilJS Conf 2016 - Edição Olimpíadas",
