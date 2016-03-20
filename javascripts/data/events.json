@@ -85,6 +85,18 @@
             "link": "http://www.meetup.com/Tech-Trends/events/229233424/"
         },
         {
+            "titulo": "Roadsec Teresina",
+            "dataInicio": "2016-04-16",
+            "dataFim": "2016-04-16",
+            "local": "FACULDADE MAURICIO DE NASSAU",
+            "endereco": "Avenida Jóquei Clube, 710 - Teresina - PI - CEP: 64049-240",
+            "localizacao": {
+                "latitude": -5.074422,
+                "longitude": -42.784274
+            },
+            "link": "http://roadsec.com.br/teresina2016/"
+        },
+        {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
             "dataFim": "2016-06-08",
