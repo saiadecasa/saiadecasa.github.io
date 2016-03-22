@@ -37,6 +37,18 @@
             "link": "http://www.meetup.com/Tech-Trends/events/229233424/"
         },
         {
+            "titulo": "18º Encontro Locaweb BH",
+            "dataInicio": "2016-04-07",
+            "dataFim": "2016-04-07",
+            "local": "Ouro Minas Hotel",
+            "endereco": "Avenida Cristiano Machado, 4001 - Ipiranga, Belo Horizonte - MG",
+            "localizacao": {
+                "latitude": -19.876416586633756,
+                "longitude": -43.93125228508623
+            },
+            "link": "http://eventos.locaweb.com.br/18o-encontro-locaweb-belo-horizonte/"
+        },
+        {
             "titulo": "Roadsec Teresina",
             "dataInicio": "2016-04-16",
             "dataFim": "2016-04-16",
