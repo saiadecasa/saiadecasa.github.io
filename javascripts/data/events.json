@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": "PHP Experience 2016",
-            "dataInicio": "2016-03-21",
-            "dataFim": "2016-03-22",
-            "local": "Hotel Tivoli Mofarrej",
-            "endereco": "Alameda Santos, 1438 - São Paulo – SP",
-            "localizacao": {
-                "latitude": -23.5635729,
-                "longitude": -46.6581653
-            },
-            "link": "http://phpexperience2016.imasters.com.br/"
-        },
-        {
             "titulo": "Roadsec Manaus",
             "dataInicio": "2016-04-02",
             "dataFim": "2016-04-02",
