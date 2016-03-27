@@ -47,7 +47,19 @@
                 "longitude": -42.784274
             },
             "link": "http://roadsec.com.br/teresina2016/"
-        },
+        },        
+        {
+            "titulo": "TechParty - 2016",
+            "dataInicio": "2016-04-25",
+            "dataFim": "2016-04-29",
+            "local": "Faculdades Integradas de Taquara",
+            "endereco": "Avenida Oscar Martins Rangel, 4500 - Fogão Gaúcho - Taquara, Rio Grande do Sul",
+            "localizacao": {
+                "latitude": -29.638984,
+                "longitude": -50.787066
+            },
+            "link": "http://techparty.faccat.br/"
+        },        
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
