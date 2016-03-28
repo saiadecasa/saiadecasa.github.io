@@ -59,7 +59,19 @@
                 "longitude": -50.787066
             },
             "link": "http://techparty.faccat.br/"
-        },        
+        },
+        {
+            "titulo": "Roadsec Fortaleza",
+            "dataInicio": "2016-04-30",
+            "dataFim": "2016-04-30",
+            "local": "FACULDADE FARIAS BRITO",
+            "endereco": "Rua Castro Monte, 1364 - Varjota - Fortaleza - CE - CEP 60175-230",
+            "localizacao": {
+                "latitude": -3.736475,
+                "longitude": -38.486097
+            },
+            "link": "http://roadsec.com.br/fortaleza2016/"
+        },           
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
