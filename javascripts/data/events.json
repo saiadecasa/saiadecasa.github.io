@@ -35,7 +35,7 @@
                 "longitude": -43.929339
             },
             "link": "http://eventos.locaweb.com.br/18o-encontro-locaweb-belo-horizonte/"
-        },       
+        },
         {
             "titulo": "Roadsec Teresina",
             "dataInicio": "2016-04-16",
@@ -47,7 +47,19 @@
                 "longitude": -42.784274
             },
             "link": "http://roadsec.com.br/teresina2016/"
-        },        
+        },
+        {
+            "titulo": "RSJS 2016",
+            "dataInicio": "2016-04-23",
+            "dataFim": "2016-04-23",
+            "local": "Senac - Auditório Master, prédio A",
+            "endereco": "Rua Cel. Genuíno, 130 - Porto Alegre, Rio Grande do Sul",
+            "localizacao": {
+                "latitude": -30.035229,
+                "longitude": -51.226507
+            },
+            "link": "http://rsjs.org/2016/"
+        },
         {
             "titulo": "TechParty - 2016",
             "dataInicio": "2016-04-25",
@@ -71,7 +83,7 @@
                 "longitude": -38.486097
             },
             "link": "http://roadsec.com.br/fortaleza2016/"
-        },           
+        },
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
