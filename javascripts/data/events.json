@@ -61,6 +61,18 @@
             "link": "http://rsjs.org/2016/"
         },
         {
+            "titulo": "JSday Campina Grande",
+            "dataInicio": "2016-04-23",
+            "dataFim": "2016-04-23",
+            "local": "UNIFACISA",
+            "endereco": "Av. Senador Argemiro de Figueiredo, 1901 - Itararé, Campina Grande",
+            "localizacao": {
+                "latitude": -7.2727621,
+                "longitude": -35.8881897
+            },
+            "link": "http://jsday.com.br/"
+        },        
+        {
             "titulo": "TechParty - 2016",
             "dataInicio": "2016-04-25",
             "dataFim": "2016-04-29",
