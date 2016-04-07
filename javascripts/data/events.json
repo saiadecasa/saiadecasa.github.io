@@ -97,6 +97,18 @@
             "link": "http://roadsec.com.br/fortaleza2016/"
         },
         {
+            "titulo": "CSSday Maceió 2016",
+            "dataInicio": "2016-05-07",
+            "dataFim": "2016-05-07",
+            "local": "Auditório João Sampaio",
+            "endereco": "R. Cônego Machado, 918 - Farol, Maceió",
+            "localizacao": {
+                "latitude": -9.656136,
+                "longitude": -35.737803
+            },
+            "link": "http://cssday.com.br/"
+        },        
+        {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
             "dataFim": "2016-06-08",
