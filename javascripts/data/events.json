@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": "A união dos opostos: NoSQL e SQL",
-            "dataInicio": "2016-04-06",
-            "dataFim": "2016-04-06",
-            "local": "TOTVS",
-            "endereco": "Avenida Braz Leme, 1717 - Santana, São Paulo",
-            "localizacao": {
-                "latitude": -23.505903,
-                "longitude": -46.643309
-            },
-            "link": "http://www.meetup.com/Tech-Trends/events/229233424/"
-        },
-        {
             "titulo": "18º Encontro Locaweb BH",
             "dataInicio": "2016-04-07",
             "dataFim": "2016-04-07",
