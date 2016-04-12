@@ -13,6 +13,18 @@
             "link": "http://roadsec.com.br/teresina2016/"
         },
         {
+            "titulo": "FLISOL Maringá",
+            "dataInicio": "2016-04-16",
+            "dataFim": "2016-04-16",
+            "local": "Faculdade Cidade Verde",
+            "endereco": "Av. Advogado Horácio Raccanello Filho, 5950 - Novo Centro, Maringá - PR, 87020-320",
+            "localizacao": {
+                "latitude": -23.41806507,
+                "longitude": -51.93939641
+            },
+            "link": "http://flisolm.ga/"
+        },
+        {
             "titulo": "6º Campinas Front-End Meetup",
             "dataInicio": "2016-04-20",
             "dataFim": "2016-04-20",
