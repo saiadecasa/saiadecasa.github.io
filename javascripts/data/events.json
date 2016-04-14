@@ -107,7 +107,7 @@
                 "longitude": -35.737803
             },
             "link": "http://cssday.com.br/"
-        },
+        },     
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
@@ -144,6 +144,18 @@
             },
             "link": "http://frontinsampa.com.br/"
         },
+        {
+            "titulo": "FrontInBH 2016",
+            "dataInicio": "2016-08-06",
+            "dataFim": "2016-08-06",
+            "local": "Teatro Ney Soares",
+            "endereco": "R. Diamantina, 463 - Lagoinha - Belo Horizonte - MG - 31110-320",
+            "localizacao": {
+                "latitude": -19.9079062,
+                "longitude": -43.9415585
+            },
+            "link": "http://frontinbh.com.br/"
+        },  
         {
             "titulo": "BrazilJS Conf 2016 - Edição Olimpíadas",
             "dataInicio": "2016-08-26",
