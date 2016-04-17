@@ -1,42 +1,6 @@
 {
     "events": [
         {
-            "titulo": "Roadsec Teresina",
-            "dataInicio": "2016-04-16",
-            "dataFim": "2016-04-16",
-            "local": "FACULDADE MAURICIO DE NASSAU",
-            "endereco": "Avenida Jóquei Clube, 710 - Teresina - PI - CEP: 64049-240",
-            "localizacao": {
-                "latitude": -5.074422,
-                "longitude": -42.784274
-            },
-            "link": "http://roadsec.com.br/teresina2016/"
-        },
-        {
-            "titulo": "FLISOL Maringá",
-            "dataInicio": "2016-04-16",
-            "dataFim": "2016-04-16",
-            "local": "Faculdade Cidade Verde",
-            "endereco": "Av. Advogado Horácio Raccanello Filho, 5950 - Novo Centro, Maringá - PR, 87020-320",
-            "localizacao": {
-                "latitude": -23.41806507,
-                "longitude": -51.93939641
-            },
-            "link": "http://flisolm.ga/"
-        },
-        {
-            "titulo": "FrontInCuiabá",
-            "dataInicio": "2016-04-16",
-            "dataFim": "2016-04-16",
-            "local": "Arena Pantanal, Cuiabá",
-            "endereco": "Av. Agrícola Paes de Barros. Cuiabá, MT",
-            "localizacao": {
-                "latitude": -15.605381,
-                "longitude": -56.121949
-            },
-            "link": "http://frontincuiaba.com.br/"
-        },
-        {
             "titulo": "6º Campinas Front-End Meetup",
             "dataInicio": "2016-04-20",
             "dataFim": "2016-04-20",
