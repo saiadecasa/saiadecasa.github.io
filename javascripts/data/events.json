@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": "6º Campinas Front-End Meetup",
-            "dataInicio": "2016-04-20",
-            "dataFim": "2016-04-20",
-            "local": "Matera",
-            "endereco": "R. Dr. Ricardo Benetton Martins, s/n, Prédio 16 - Parque II do Polo de Alta Tecnologia , Campinas - SP",
-            "localizacao": {
-                "latitude": -22.814091,
-                "longitude": -47.045831
-            },
-            "link": "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/events/230039570/"
-        },
-        {
             "titulo": "RSJS 2016",
             "dataInicio": "2016-04-23",
             "dataFim": "2016-04-23",
@@ -83,6 +71,18 @@
                 "longitude": -35.737803
             },
             "link": "http://cssday.com.br/"
+        },
+	{
+            "titulo": "6º Encontro Regional de Computação - Compweek",
+            "dataInicio": "2016-05-11",
+            "dataFim": "2016-05-14",
+            "local": "Fatec Jales",
+            "endereco": "Rua Vicente Leporace, 2630, Jardim Trianon, Jales",
+            "localizacao": {
+                "latitude": -20.27599,
+                "longitude": -50.54156
+            },
+            "link": "https://www.facebook.com/events/1573602922962749/"
         },
         {
             "titulo": "Google Cloud + Big Data",
