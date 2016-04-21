@@ -72,6 +72,18 @@
             },
             "link": "http://cssday.com.br/"
         },
+	{
+            "titulo": "6º Encontro Regional de Computação - Compweek",
+            "dataInicio": "2016-05-11",
+            "dataFim": "2016-05-14",
+            "local": "Fatec Jales",
+            "endereco": "Rua Vicente Leporace, 2630, Jardim Trianon, Jales",
+            "localizacao": {
+                "latitude": -20.27599,
+                "longitude": -50.54156
+            },
+            "link": "https://www.facebook.com/events/1573602922962749/"
+        },
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
