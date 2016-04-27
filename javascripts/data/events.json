@@ -12,6 +12,18 @@
             },
             "link": "http://techparty.faccat.br/"
         },
+        {
+	    "titulo": "PHPSP+UOL HOST: 2016 Abril",
+	    "dataInicio": "2016-04-28",
+	    "dataFim": "2016-04-28",
+	    "local": "Auditório do Hotel Ibis Styles SP Faria Lima",
+	    "endereco": "Rua Tavares Cabral, 61, São Paulo, br",
+	    "localizacao": { 
+	        "latitude": -23.5689596,
+	        "longitude": -46.6945386 
+	    },
+	    "link" : "http://www.meetup.com/pt-BR/php-sp/events/230353617/"
+	},
 	{
 	    "titulo": "PHPSP+PUB Campinas - Abril 2016",
 	    "dataInicio": "2016-04-28",
