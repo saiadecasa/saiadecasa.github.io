@@ -48,18 +48,30 @@
             },
             "link": "http://cssday.com.br/"
         },
-	{
-	    "titulo": "6º Encontro Regional de Computação - Compweek",
-	    "dataInicio": "2016-05-11",
-	    "dataFim": "2016-05-14",
-	    "local": "Fatec Jales",
-	    "endereco": "Rua Vicente Leporace, 2630, Jardim Trianon, Jales",
-	    "localizacao": {
-		"latitude": -20.27599,
-		"longitude": -50.54156
-	    },
-	    "link": "https://www.facebook.com/events/1573602922962749/"
-	},
+	   {
+	       "titulo": "6º Encontro Regional de Computação - Compweek",
+	       "dataInicio": "2016-05-11",
+	       "dataFim": "2016-05-14",
+	       "local": "Fatec Jales",
+	       "endereco": "Rua Vicente Leporace, 2630, Jardim Trianon, Jales",
+	       "localizacao": {
+		      "latitude": -20.27599,
+		      "longitude": -50.54156
+	       },
+	       "link": "https://www.facebook.com/events/1573602922962749/"
+	   },
+        {
+           "titulo": "Roadsec Natal",
+           "dataInicio": "2016-05-14",
+           "dataFim": "2016-05-14",
+           "local": "INSTITUTO METRÓPOLE DIGITAL (IMD) DA UFRN",
+           "endereco": "Av. Senador Salgado Filho, 3000 - Lagoa Nova – Natal/RN",
+           "localizacao": {
+              "latitude": -5.849831,
+              "longitude": -35.209748
+           },
+           "link": "http://roadsec.com.br/natal2016/"
+       },
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
