@@ -85,6 +85,18 @@
             "link": "http://campinas.rupy.com.br"
         },
         {
+            "titulo": "Code In The Dark - Edição Brasil",
+            "dataInicio": "2016-07-01",
+            "dataFim": "2016-07-01",
+            "local": "Google Brasil (Escritório São Paulo)",
+            "endereco": "Av. Brg. Faria Lima, 3477 - Itaim Bibi, São Paulo - SP",
+            "localizacao": {
+                "latitude": -23.586439,
+                "longitude": -46.681878
+            },
+            "link": "http://codeinthedark.com.br/"
+        },
+        {
             "titulo": "Frontinsampa 2016",
             "dataInicio": "2016-07-02",
             "dataFim": "2016-07-02",
