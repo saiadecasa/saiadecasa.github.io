@@ -12,18 +12,6 @@
             },
             "link": "http://techparty.faccat.br/"
         },
-	{
-	    "titulo": "PHPSP+PUB Campinas - Abril 2016",
-	    "dataInicio": "2016-04-28",
-	    "dataFim": "2016-04-28",
-	    "local": "Aulus Bar - Barão Geraldo",
-	    "endereco": "Av. Professor Atílio Martini, 939 - Cidade Universitária, Campinas",
-	    "localizacao": {
-	        "latitude": -22.818714,
-		"longitude": -47.073509
-	    },
-	    "link": "http://www.meetup.com/pt-BR/PHPSP-Campinas/events/229693769/"
-        },
         {
             "titulo": "Roadsec Fortaleza",
             "dataInicio": "2016-04-30",
