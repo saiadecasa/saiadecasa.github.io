@@ -48,6 +48,18 @@
            },
            "link": "http://roadsec.com.br/recife2016/"
        },
+       {
+           "titulo": "Roadsec Aracaju",
+           "dataInicio": "2016-06-04",
+           "dataFim": "2016-06-04",
+           "local": "UNIT",
+           "endereco": "Av. Murilo Dantas, 300 - Farolândia - Aracaju/SE - CEP: 49032-490",
+           "localizacao": {
+              "latitude": -10.947247,
+              "longitude": -37.073082
+           },
+           "link": "http://roadsec.com.br/aracaju2016/"
+       },
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
