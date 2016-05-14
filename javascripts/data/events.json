@@ -48,6 +48,18 @@
            },
            "link": "http://roadsec.com.br/recife2016/"
        },
+       {
+           "titulo": "BeerJS - São José dos Campos",
+           "dataInicio": "2016-05-27",
+           "dataFim": "2016-05-27",
+           "local": "Boteco 80",
+           "endereco": "Rua Gen. Osório, 76 - Vila Ema, São José dos Campos",
+           "localizacao": {
+              "latitude": -23.2061009,
+              "longitude": -45.8990147
+           },
+           "link": "http://beerjs.github.io/sjc/"
+       },
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
