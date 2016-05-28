@@ -1,29 +1,5 @@
 {
     "events": [
-       {
-           "titulo": "Roadsec Recife",
-           "dataInicio": "2016-05-21",
-           "dataFim": "2016-05-21",
-           "local": "FACULDADE DOS GUARARAPES",
-           "endereco": "Rua Comendador José Didier, 27 - Piedade - CEP 54400-160 - Jaboatão dos Guararapes/PE",
-           "localizacao": {
-              "latitude": -8.162778,
-              "longitude": -34.916179
-           },
-           "link": "http://roadsec.com.br/recife2016/"
-       },
-       {
-           "titulo": "BeerJS - São José dos Campos",
-           "dataInicio": "2016-05-27",
-           "dataFim": "2016-05-27",
-           "local": "Boteco 80",
-           "endereco": "Rua Gen. Osório, 76 - Vila Ema, São José dos Campos",
-           "localizacao": {
-              "latitude": -23.2061009,
-              "longitude": -45.8990147
-           },
-           "link": "http://beerjs.github.io/sjc/"
-       },
         {
             "titulo": "Google Cloud + Big Data",
             "dataInicio": "2016-06-08",
