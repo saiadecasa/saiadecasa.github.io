@@ -13,6 +13,18 @@
             "link": "http://www.meetup.com/Tech-Trends/events/229234048/"
         },
         {
+            "titulo": "18º Encontro Locaweb POA",
+            "dataInicio": "2016-06-09",
+            "dataFim": "2016-06-09",
+            "local": "Teatro CIEE",
+            "endereco": "Rua Dom Pedro II, 861 - Higienópolis, Porto Alegre - RS",
+            "localizacao": {
+                "latitude": -30.0144972,
+                "longitude": -51.1896157
+            },
+            "link": "http://eventos.locaweb.com.br/18o-encontro-locaweb-porto-alegre/"
+        },        
+        {
             "titulo": "RuPy Campinas",
             "dataInicio": "2016-06-18",
             "dataFim": "2016-06-18",
