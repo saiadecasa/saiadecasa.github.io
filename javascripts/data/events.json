@@ -37,6 +37,18 @@
             "link": "http://campinas.rupy.com.br"
         },
         {
+            "titulo": "SampaJS",
+            "dataInicio": "2016-06-25",
+            "dataFim": "2016-06-25",
+            "local": "PUC Consolação",
+            "endereco": "Rua da Consolação, 881 - Consolação, São Paulo - SP",
+            "localizacao": {
+                "latitude":  -23.548537,
+                "longitude": -46.649756
+            },
+            "link": "http://sampajs.site/"
+        },        
+        {
             "titulo": "Code In The Dark - Edição Brasil",
             "dataInicio": "2016-07-01",
             "dataFim": "2016-07-01",
