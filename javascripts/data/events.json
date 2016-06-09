@@ -35,6 +35,18 @@
                 "longitude": -46.649756
             },
             "link": "http://sampajs.site/"
+        },
+	{
+            "titulo": "PHP Light Day",
+            "dataInicio": "2016-06-30",
+            "dataFim": "2016-06-30",
+            "local": "IFSP - Votuporanga",
+            "endereco": "Av. Jerônimo Figueira da Costa, 3014 - Pozzobon, Votuporanga - SP",
+            "localizacao": {
+                "latitude":  -20.403870,
+                "longitude": -49.967668
+            },
+            "link": "http://phplightday.github.io/"
         },        
         {
             "titulo": "Code In The Dark - Edição Brasil",
