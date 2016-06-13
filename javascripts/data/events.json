@@ -1,6 +1,18 @@
 {
     "events": [       
         {
+            "titulo": "Roadsec Salvador",
+            "dataInicio": "2016-06-11",
+            "dataFim": "2016-06-11",
+            "local": "Faculdade Ruy Barbosa",
+            "endereco": "Campus Rio Vermelho - Rua Theodomiro Batista, 422 - Rio Vermelho - Salvador/BA",
+            "localizacao": {
+                "latitude": -13.008493,
+                "longitude": -38.477504
+            },
+            "link": "http://roadsec.com.br/salvador2016/"
+        },
+        {
             "titulo": "RuPy Campinas",
             "dataInicio": "2016-06-18",
             "dataFim": "2016-06-18",
