@@ -1,28 +1,28 @@
 {
     "events": [       
         {
-            "titulo": "RuPy Campinas",
-            "dataInicio": "2016-06-18",
-            "dataFim": "2016-06-18",
-            "local": "Faculdade de Engenharia Elétrica e de Computação (FEEC) - UNICAMP",
-            "endereco": "Avenida Albert Einstein, 400. Campinas, São Paulo",
+            "titulo": "WordCamp BH 2016",
+            "dataInicio": "2016-07-23",
+            "dataFim": "2016-07-23",
+            "local": "UniBH - Campus Estoril",
+            "endereco": "Avenida Professor Mário Werneck, 1685, Buritis. Belo Horizonte, Minas Gerais",
             "localizacao": {
-                "latitude": -22.820709,
-                "longitude": -47.066492
+                "latitude": -19.9762877,
+                "longitude": -43.971886
             },
-            "link": "http://campinas.rupy.com.br"
+            "link": "https://2016.belohorizonte.wordcamp.org/"
         },
         {
-            "titulo": "SampaJS",
-            "dataInicio": "2016-06-25",
-            "dataFim": "2016-06-25",
-            "local": "PUC Consolação",
-            "endereco": "Rua da Consolação, 881 - Consolação, São Paulo - SP",
+            "titulo": "WordCamp Fortaleza 2016",
+            "dataInicio": "2016-08-13",
+            "dataFim": "2016-08-14",
+            "local": "FB Ideias - Centro de Inovação e Empreendedorismo da Faculdade Farias Brito",
+            "endereco": "Rua Castro Monte, 1325, Varjota. Fortaleza, Ceará",
             "localizacao": {
-                "latitude":  -23.548537,
-                "longitude": -46.649756
+                "latitude": -3.7369246,
+                "longitude": -38.4860348
             },
-            "link": "http://sampajs.site/"
+            "link": "https://fortaleza.wordcamp.org/2016/"
         },
 	{
             "titulo": "PHP Light Day",
