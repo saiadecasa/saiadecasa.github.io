@@ -1,18 +1,18 @@
 {
-    "events": [       
+    "events": [
         {
-            "titulo": "RuPy Campinas",
-            "dataInicio": "2016-06-18",
-            "dataFim": "2016-06-18",
-            "local": "Faculdade de Engenharia Elétrica e de Computação (FEEC) - UNICAMP",
-            "endereco": "Avenida Albert Einstein, 400. Campinas, São Paulo",
+            "titulo": "SampaJS",
+            "dataInicio": "2016-06-25",
+            "dataFim": "2016-06-25",
+            "local": "PUC Consolação",
+            "endereco": "Rua da Consolação, 881 - Consolação, São Paulo - SP",
             "localizacao": {
-                "latitude": -22.820709,
-                "longitude": -47.066492
+                "latitude":  -23.548537,
+                "longitude": -46.649756
             },
-            "link": "http://campinas.rupy.com.br"
+            "link": "http://sampajs.site/"
         },
-	{
+	    {
             "titulo": "PHP Light Day",
             "dataInicio": "2016-06-30",
             "dataFim": "2016-06-30",
