@@ -1,30 +1,6 @@
 {
     "events": [       
         {
-            "titulo": "RuPy Campinas",
-            "dataInicio": "2016-06-18",
-            "dataFim": "2016-06-18",
-            "local": "Faculdade de Engenharia Elétrica e de Computação (FEEC) - UNICAMP",
-            "endereco": "Avenida Albert Einstein, 400. Campinas, São Paulo",
-            "localizacao": {
-                "latitude": -22.820709,
-                "longitude": -47.066492
-            },
-            "link": "http://campinas.rupy.com.br"
-        },
-        {
-            "titulo": "SampaJS",
-            "dataInicio": "2016-06-25",
-            "dataFim": "2016-06-25",
-            "local": "PUC Consolação",
-            "endereco": "Rua da Consolação, 881 - Consolação, São Paulo - SP",
-            "localizacao": {
-                "latitude":  -23.548537,
-                "longitude": -46.649756
-            },
-            "link": "http://sampajs.site/"
-        },
-        {
             "titulo": "WordCamp BH 2016",
             "dataInicio": "2016-07-23",
             "dataFim": "2016-07-23",
