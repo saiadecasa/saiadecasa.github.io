@@ -12,7 +12,7 @@
             },
             "link": "http://sampajs.site/"
         },
-	    {
+        {
             "titulo": "PHP Light Day",
             "dataInicio": "2016-06-30",
             "dataFim": "2016-06-30",
@@ -23,7 +23,7 @@
                 "longitude": -49.967668
             },
             "link": "http://phplightday.github.io/"
-        },        
+        },
         {
             "titulo": "Code In The Dark - Edição Brasil",
             "dataInicio": "2016-07-01",
