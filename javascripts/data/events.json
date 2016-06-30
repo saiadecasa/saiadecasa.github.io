@@ -12,7 +12,7 @@
             },
             "link": "http://sampajs.site/"
         },
-        {
+	    {
             "titulo": "PHP Light Day",
             "dataInicio": "2016-06-30",
             "dataFim": "2016-06-30",
@@ -48,6 +48,18 @@
             },
             "link": "http://frontinsampa.com.br/"
         },
+		{
+            "titulo": "WordCamp BH 2016",
+            "dataInicio": "2016-07-23",
+            "dataFim": "2016-07-23",
+            "local": "UniBH - Campus Estoril",
+            "endereco": "Avenida Professor Mário Werneck, 1685, Buritis. Belo Horizonte, Minas Gerais",
+            "localizacao": {
+                "latitude": -19.9762877,
+                "longitude": -43.971886
+            },
+            "link": "https://2016.belohorizonte.wordcamp.org/"
+        },
         {
             "titulo": "FrontInBH 2016",
             "dataInicio": "2016-08-06",
@@ -59,6 +71,18 @@
                 "longitude": -43.9415585
             },
             "link": "http://frontinbh.com.br/"
+        },
+        {
+            "titulo": "WordCamp Fortaleza 2016",
+            "dataInicio": "2016-08-13",
+            "dataFim": "2016-08-14",
+            "local": "FB Ideias - Centro de Inovação e Empreendedorismo da Faculdade Farias Brito",
+            "endereco": "Rua Castro Monte, 1325, Varjota. Fortaleza, Ceará",
+            "localizacao": {
+                "latitude": -3.7369246,
+                "longitude": -38.4860348
+            },
+            "link": "https://fortaleza.wordcamp.org/2016/"
         },
         {
             "titulo": "BrazilJS Conf 2016 - Edição Olimpíadas",
