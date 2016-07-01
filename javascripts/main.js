@@ -5,7 +5,12 @@
   var eventTemplate = _.template($('#saia-de-casa-template').html());
   var eventHandler = null;
 
+  // a ordem atual dos eventos na página.
+  // DATE ou DISTANCE
+  var ordering = 'DATE';
+
   fetchEvents();
+  configureOrdering();
 
   function fetchEvents() {
     $.ajax({
@@ -101,6 +106,10 @@
           updateEvent(event);
         });
       });
+
+      // depois de atualizar a distância de todos,
+      // habilita a ordenação por distância
+      enableOrderingByDistance();
     });
   }
 
@@ -183,5 +192,33 @@
       // trocar content
       this.innerHTML = content;
     });
+  }
+
+  function configureOrdering() {
+    $(document).on('click', '#ordering a', function() {
+      var $el = $(this);
+      ordering = $el.data('order');
+
+      $('#ordering a').removeClass('active');
+      $el.addClass('active');
+
+      appendEvents(eventHandler.getAll(ordering));
+
+      return false;
+    });
+  }
+
+  function enableOrderingByDistance() {
+    if ($('#ordering [data-order=DISTANCE]').length)
+      // já está habilitado...
+      return;
+
+    var menuItemTemplate = _.template($('#order-menu-item-template').html())
+    var menuItem = menuItemTemplate({
+      key: 'DISTANCE',
+      label: 'distância'
+    });
+
+    $('#ordering ul').append(menuItem)
   }
 })();

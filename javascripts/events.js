@@ -3,6 +3,15 @@
     "janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"
   ];
 
+  var sortingFunctions = {
+    date: function orderEventByDate(a, b) {
+      return a.dataInicio > b.dataInicio ? 1 : -1;
+    },
+    distance: function orderEventByDistance(a, b) {
+      return a.distancia > b.distancia ? 1 : -1;
+    }
+  }
+
   function Events(events) {
     var context = this;
     events = events || [];
@@ -15,12 +24,12 @@
       event.distancia = 0;
     });
 
-    this.getAll = function() {
-      return events
-        // ordenar pela data do evento (mais próximos primeiro)
-        .sort(function(a, b) {
-          return a.dataInicio > b.dataInicio ? 1 : -1;
-        });
+    this.getAll = function(orderBy) {
+      // ordem padrão é pela data do evento (mais próximos primeiro)
+      orderBy = (orderBy || 'date').toLowerCase();
+
+      // ordenar eventos antes de retornar
+      return events.sort(sortingFunctions[orderBy]);
     };
 
     this.getById = function(id) {
