@@ -1,6 +1,18 @@
 {
     "events": [
-		{
+    	{
+            "titulo": "JSDay Feira de Santana 2016",
+            "dataInicio": "2016-07-23",
+            "dataFim": "2016-07-23",
+            "local": "UNIFACS - Campus Feira",
+            "endereco": "Rua Rio Tinto, 152 - Santa Mônica, Feira de Santana, Bahia",
+            "localizacao": {
+                "latitude": -12.258562,
+                "longitude": -38.933632
+            },
+            "link": "https://jsday.com.br/"
+        },
+	{
             "titulo": "WordCamp BH 2016",
             "dataInicio": "2016-07-23",
             "dataFim": "2016-07-23",
