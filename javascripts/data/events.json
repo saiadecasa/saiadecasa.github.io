@@ -25,6 +25,18 @@
             "link": "https://braziljs.org/conf"
         },
         {
+            "titulo": "Roadsec Belo Horizonte",
+            "dataInicio": "2016-08-27",
+            "dataFim": "2016-08-27",
+            "local": "PUC - Coração Eucarístico",
+            "endereco": "R. Dom José Gaspar, 500 - Coração Eucarístico, Belo Horizonte - MG, 30535-610",
+            "localizacao": {
+                "latitude": -19.923505,
+                "longitude": -43.990357
+            },
+            "link": "http://roadsec.com.br/belohorizonte2016/"
+        },
+        {
             "titulo": "Miniconf Elixir 2016",
             "dataInicio": "2016-10-15",
             "dataFim": "2016-10-15",
