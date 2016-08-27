@@ -47,6 +47,18 @@
                 "longitude": -46.670856
             },
             "link": "http://www.eventick.com.br/miniconf-elixir-2016#"
+        },
+        {
+            "titulo": "UCSal Docker Tour",
+            "dataInicio": "2016-09-17",
+            "dataFim": "2016-09-17",
+            "local": "UCSal",
+            "endereco": "Avenida Professor Pinto de Aguiar - Pituacu, Salvador - BA",
+            "localizacao": {
+                "latitude": -12.951843,
+                "longitude": -38.408381
+            },
+            "link": "https://www.meetup.com/pt-BR/Docker-Salvador/events/233586565/"
         }
     ]
 }
