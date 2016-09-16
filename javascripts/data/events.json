@@ -1,18 +1,6 @@
 {
     "events": [
         {
-            "titulo": "Front in Vale",
-            "dataInicio": "2016-09-10",
-            "dataFim": "2016-09-10",
-            "local": "Faro Hotel - São José dos Campos",
-            "endereco": "R. Síria, 25 - Jardim Oswaldo Cruz, São José dos Campos - SP, 12216-540, Brasil",
-            "localizacao": {
-                "latitude": -23.199028,
-                "longitude": -45.883785
-            },
-            "link": "http://frontinvale.com.br/"
-        },
-        {
             "titulo": "Miniconf Elixir 2016",
             "dataInicio": "2016-10-15",
             "dataFim": "2016-10-15",
