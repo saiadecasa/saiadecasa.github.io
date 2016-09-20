@@ -1,16 +1,16 @@
 {
     "events": [
         {
-            "titulo": "UCSal Docker Tour",
-            "dataInicio": "2016-09-17",
-            "dataFim": "2016-09-17",
-            "local": "UCSal",
-            "endereco": "Avenida Professor Pinto de Aguiar - Pituacu, Salvador - BA",
+            "titulo": "Miniconf Elixir 2016",
+            "dataInicio": "2016-10-15",
+            "dataFim": "2016-10-15",
+            "local": "PUC Consolação",
+            "endereco": "R. Monte Alegre, 984 - Perdizes, São Paulo - SP",
             "localizacao": {
-                "latitude": -12.951843,
-                "longitude": -38.408381
+                "latitude": -23.537203,
+                "longitude": -46.670856
             },
-            "link": "https://www.meetup.com/pt-BR/Docker-Salvador/events/233586565/"
+            "link": "http://www.eventick.com.br/miniconf-elixir-2016#"
         }
     ]
 }
