@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "Campinas Front-End Meetup #8",
+            "dataInicio": "2016-10-13",
+            "dataFim": "2016-10-13",
+            "local": "Ifood",
+            "endereco": "Av. José Rocha Bonfim, 214 - Jardim Santa Genebra, Campinas - SP",
+            "localizacao": {
+                "latitude": -22.847181,
+                "longitude": -47.084610
+            },
+            "link": "http://www.meetup.com/Campinas-Front-End-Meetup/events/234451102/"
+        },
+        {
             "titulo": "Miniconf Elixir 2016",
             "dataInicio": "2016-10-15",
             "dataFim": "2016-10-15",
