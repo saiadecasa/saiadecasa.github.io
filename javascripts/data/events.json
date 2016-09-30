@@ -19,8 +19,8 @@
             "local": "Auditório Shunji Nishimura, UNIVEM",
             "endereco": "Av. Hygino Muzi Filho, 529 - Mirante, Marília - SP",
             "localizacao": {
-                "latitude": -22.2329285,
-                "longitude": -49.9656419
+                "latitude": -22.233626,
+                "longitude": -49.9652328
             },
             "link": "http://meetupshare.herokuapp.com/inscricao"
         },
