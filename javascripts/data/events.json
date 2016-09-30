@@ -21,7 +21,8 @@
             "localizacao": {
                 "latitude": -22.2329285,
                 "longitude": -49.9656419
-            }
+            },
+            "link": "http://meetupshare.herokuapp.com/inscricao"
         },
         {
             "titulo": "Miniconf Elixir 2016",
