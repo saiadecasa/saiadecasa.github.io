@@ -23,6 +23,18 @@
                 "longitude": -46.670856
             },
             "link": "http://www.eventick.com.br/miniconf-elixir-2016#"
+        },
+        {
+            "titulo": "Roadsec Curitiba",
+            "dataInicio": "2016-10-15",
+            "dataFim": "2016-10-15",
+            "local": "SENAI",
+            "endereco": "Rua General Potiguara, 201 - Novo Mundo - Curitiba/PR - CEP: 81.050-508",
+            "localizacao": {
+                "latitude": -25.428954,
+                "longitude": ,-49.267137
+            },
+            "link": "http://roadsec.com.br/curitiba2016/"
         }
     ]
 }
