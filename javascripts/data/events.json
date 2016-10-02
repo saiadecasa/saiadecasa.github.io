@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "GDG Talks",
+            "dataInicio": "2016-10-05",
+            "dataFim": "2016-10-05",
+            "local": "Intel (Techno Park)",
+            "endereco": "Av. John Dalton, 301, Edificio 2, Conjunto 11, Campinas",
+            "localizacao": {
+                "latitude": -22.853704,
+                "longitude": -47.152185
+            },
+            "link": "https://www.meetup.com/pt-BR/GDG-Campinas/events/234117035/"
+        },
+        {
             "titulo": "Miniconf Elixir 2016",
             "dataInicio": "2016-10-15",
             "dataFim": "2016-10-15",
