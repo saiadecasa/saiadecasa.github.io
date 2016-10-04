@@ -13,6 +13,18 @@
             "link": "http://www.meetup.com/Campinas-Front-End-Meetup/events/234451102/"
         },
         {
+            "titulo": "Meetup Share #1 - Abertura",
+            "dataInicio": "2016-10-13",
+            "dataFim": "2016-10-13",
+            "local": "Auditório Shunji Nishimura, UNIVEM",
+            "endereco": "Av. Hygino Muzi Filho, 529 - Mirante, Marília - SP",
+            "localizacao": {
+                "latitude": -22.233626,
+                "longitude": -49.9652328
+            },
+            "link": "http://meetupshare.herokuapp.com/inscricao"
+        },
+        {
             "titulo": "Miniconf Elixir 2016",
             "dataInicio": "2016-10-15",
             "dataFim": "2016-10-15",
