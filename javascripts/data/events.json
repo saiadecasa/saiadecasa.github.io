@@ -16,11 +16,11 @@
             "titulo": "Meetup Share #1 - Abertura",
             "dataInicio": "2016-10-13",
             "dataFim": "2016-10-13",
-            "local": "Auditório Shunji Nishimura, UNIVEM",
+            "local": "Espaço Cultural, UNIVEM",
             "endereco": "Av. Hygino Muzi Filho, 529 - Mirante, Marília - SP",
             "localizacao": {
-                "latitude": -22.233626,
-                "longitude": -49.9652328
+                "latitude": -22.233192,
+                "longitude": -49.9662548
             },
             "link": "http://meetupshare.herokuapp.com/inscricao"
         },
