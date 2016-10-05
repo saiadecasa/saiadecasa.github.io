@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "Front in Salvador",
+            "dataInicio": "2016-10-08",
+            "dataFim": "2016-10-08",
+            "local": "Faculdade Ruy Barbosa",
+            "endereco": "Rua Theodomiro Baptista, 422 - Rio Vermelho, Salvador - BA",
+            "localizacao": {
+                "latitude": -13.009928,
+                "longitude": -38.4816949
+            },
+            "link": "http://frontinsalvador.com.br/"
+        },
+        {
             "titulo": "Campinas Front-End Meetup #8",
             "dataInicio": "2016-10-13",
             "dataFim": "2016-10-13",
