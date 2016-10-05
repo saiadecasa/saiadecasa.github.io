@@ -47,6 +47,18 @@
                 "longitude": -49.267137
             },
             "link": "http://roadsec.com.br/curitiba2016/"
+        },
+        {
+            "titulo": "Roadsec Porto Alegre",
+            "dataInicio": "2016-10-29",
+            "dataFim": "2016-10-29",
+            "local": "Faculdade QI",
+            "endereco": "Rua Julio de Castilhos,435 - Centro - Porto Alegre/RS, CEP 90030-131",
+            "localizacao": {
+                "latitude": -30.041129,
+                "longitude": -51.2271
+            },
+            "link": "http://roadsec.com.br/portoalegre2016/"
         }
     ]
 }
