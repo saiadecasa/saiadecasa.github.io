@@ -60,8 +60,19 @@
                 <hr>
 
                 <section id="main_content">
-                  <h3>O que vai rolar</h3>
+                  <h3 id="o-que-vai-rolar">O que vai rolar</h3>
+
+                  <div id="ordering">
+                    Ordenar por:
+                    <ul>
+                      <li>
+                        <a data-order="DATE" href="#" class="active">data</a>
+                      </li>
+                    </ul>
+                  </div>
+
                   <hr>
+
                   <div id="events">
                     <!-- Eventos serao gerados aqui -->
                   </div>
@@ -98,6 +109,11 @@
               </div>
               <hr>
             </div>
+        </script>
+         <script type="text/template" id="order-menu-item-template">
+           <li>
+             <a data-order="<%= key %>" href="#"><%= label.toLowerCase() %></a>
+           </li>
         </script>
         <script>
             /*jshint -W030 */
