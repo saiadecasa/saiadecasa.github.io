@@ -1,7 +1,19 @@
 {
     "events": [
         {
-            "titulo": "Front in Salvador",
+            "titulo": "Front in Aracaju 2016",
+            "dataInicio": "2016-12-03",
+            "dataFim": "2016-12-03",
+            "local": "Hotel Radisson",
+            "endereco": "Rua Doutor Bezerra De Menezes, 40 - Coroa do Meio, Aracaju - SE",
+            "localizacao": {
+                "latitude": -10.976601,
+                "longitude": -37.040799
+            },
+            "link": "http://frontinaracaju.com.br/"
+        },
+        {
+            "titulo": "Front in Salvador 2016",
             "dataInicio": "2016-10-08",
             "dataFim": "2016-10-08",
             "local": "Faculdade Ruy Barbosa",
