@@ -71,6 +71,18 @@
                 "longitude": -51.2271
             },
             "link": "http://roadsec.com.br/portoalegre2016/"
+        },
+        {
+            "titulo": "Roadsec São Paulo",
+            "dataInicio": "2016-11-18",
+            "dataFim": "2016-11-18",
+            "local": "AUDIO CLUB",
+            "endereco": "Av. Francisco Matarazzo, 694, Barra Funda - São Paulo",
+            "localizacao": {
+                "latitude": -23.528328,
+                "longitude": -46.669678
+            },
+            "link": "http://roadsec.com.br/saopaulo2016"
         }
     ]
 }
