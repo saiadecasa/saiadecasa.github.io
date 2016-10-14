@@ -13,30 +13,6 @@
             "link": "http://frontinaracaju.com.br/"
         },
         {
-            "titulo": "Campinas Front-End Meetup #8",
-            "dataInicio": "2016-10-13",
-            "dataFim": "2016-10-13",
-            "local": "Ifood",
-            "endereco": "Av. José Rocha Bonfim, 214 - Jardim Santa Genebra, Campinas - SP",
-            "localizacao": {
-                "latitude": -22.847181,
-                "longitude": -47.084610
-            },
-            "link": "http://www.meetup.com/Campinas-Front-End-Meetup/events/234451102/"
-        },
-        {
-            "titulo": "Meetup Share #1 - Abertura",
-            "dataInicio": "2016-10-13",
-            "dataFim": "2016-10-13",
-            "local": "Espaço Cultural, UNIVEM",
-            "endereco": "Av. Hygino Muzi Filho, 529 - Mirante, Marília - SP",
-            "localizacao": {
-                "latitude": -22.233192,
-                "longitude": -49.9662548
-            },
-            "link": "http://meetupshare.herokuapp.com/inscricao"
-        },
-        {
             "titulo": "Miniconf Elixir 2016",
             "dataInicio": "2016-10-15",
             "dataFim": "2016-10-15",
