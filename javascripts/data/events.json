@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "GDG DevFest Campinas 2016",
+            "dataInicio": "2016-11-26",
+            "dataFim": "2016-11-26",
+            "local": "FCM 01 - Unicamp",
+            "endereco": "R. Albert Sabin, s/ nº. Cidade Universitária 'Zeferino Vaz', Campinas–SP",
+            "localizacao": {
+                "latitude": -22.829618,
+                "longitude": -47.063016
+            },
+            "link": "https://devfest.gdg-campinas.org/"
+        },
+        {
             "titulo": "Front in Aracaju 2016",
             "dataInicio": "2016-12-03",
             "dataFim": "2016-12-03",
