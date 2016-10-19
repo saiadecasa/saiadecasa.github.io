@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "BSides São Paulo",
+            "dataInicio": "2016-11-19",
+            "dataFim": "2016-11-20",
+            "local": "PUC-SP - Campus Consolação",
+            "endereco": "Rua Marquês de Paranaguá, 111 – Consolação – São Paulo – SP",
+            "localizacao": {
+                "latitude": -23.549373,
+                "longitude": -46.649883
+            },
+            "link": "http://sp13.securitybsides.com.br/"
+        },
+        {
             "titulo": "GDG DevFest Campinas 2016",
             "dataInicio": "2016-11-26",
             "dataFim": "2016-11-26",
