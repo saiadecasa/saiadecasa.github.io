@@ -1,5 +1,17 @@
 {
     "events": [
+    	{
+            "titulo": "Mobile Summit 360",
+            "dataInicio": "2016-10-29",
+            "dataFim": "2016-10-29",
+            "local": "Oxigênio Aceleradora",
+            "endereco": "Alameda Eduardo Prado, 415 - Campos Elíseos, São Paulo-SP",
+            "localizacao": {
+                "latitude": -23.530644,
+                "longitude": -46.649103
+            },
+            "link": "http://msummit.com.br/360/"
+        },
         {
             "titulo": "BSides São Paulo",
             "dataInicio": "2016-11-19",
