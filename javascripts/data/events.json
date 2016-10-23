@@ -49,6 +49,18 @@
             "link": "https://devfest.gdg-campinas.org/"
         },
         {
+            "titulo": "Dev Paraná Conference 2016",
+            "dataInicio": "2016-11-26",
+            "dataFim": "2016-11-26",
+            "local": "Sebrae Maringá",
+            "endereco": "Avenida Bento Munhoz da Rocha Neto, 1116 - Maringá - PR",
+            "localizacao": {
+                "latitude": -23.418546,
+                "longitude": -51.924269
+            },
+            "link": "https://www.eventick.com.br/devparana-conference-2016"
+        },
+        {
             "titulo": "Front in Aracaju 2016",
             "dataInicio": "2016-12-03",
             "dataFim": "2016-12-03",
