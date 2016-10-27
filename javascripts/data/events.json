@@ -95,6 +95,18 @@
                 "longitude": -46.669678
             },
             "link": "http://roadsec.com.br/saopaulo2016"
+        },
+        {
+            "titulo": "PhpConference Brasil 2016",
+            "dataInicio": "2016-12-07",
+            "dataFim": "2016-12-11",
+            "local": "UNIFIEO",
+            "endereco": "Av. Franz Voegeli, 300, Osasco, São Paulo, CEP 06020-190",
+            "localizacao": {
+                "latitude": -23.540821,
+                "longitude": -46.761988
+            },
+            "link": "http://www.phpconference.com.br"
         }
     ]
 }
