@@ -1,17 +1,5 @@
 {
     "events": [
-    	{
-            "titulo": "Mobile Summit 360",
-            "dataInicio": "2016-10-29",
-            "dataFim": "2016-10-29",
-            "local": "Oxigênio Aceleradora",
-            "endereco": "Alameda Eduardo Prado, 415 - Campos Elíseos, São Paulo-SP",
-            "localizacao": {
-                "latitude": -23.530644,
-                "longitude": -46.649103
-            },
-            "link": "http://msummit.com.br/360/"
-        },
         {
             "titulo": "GDG DevFest São Paulo 2016",
             "dataInicio": "2016-11-12",
@@ -71,18 +59,6 @@
                 "longitude": -37.040799
             },
             "link": "http://frontinaracaju.com.br/"
-        },
-        {
-            "titulo": "Roadsec Porto Alegre",
-            "dataInicio": "2016-10-29",
-            "dataFim": "2016-10-29",
-            "local": "Faculdade QI",
-            "endereco": "Rua Julio de Castilhos,435 - Centro - Porto Alegre/RS, CEP 90030-131",
-            "localizacao": {
-                "latitude": -30.041129,
-                "longitude": -51.2271
-            },
-            "link": "http://roadsec.com.br/portoalegre2016/"
         },
         {
             "titulo": "Roadsec São Paulo",
