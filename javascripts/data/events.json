@@ -1,6 +1,18 @@
 {
     "events": [
         {
+            "titulo": "Encontro PHPRS em Canela",
+            "dataInicio": "2016-11-26",
+            "dataFim": "2016-11-26",
+            "local": "Hotel Klein Ville",
+            "endereco": "Rua Melvin Jones 443 Centro - Canela  - RS",
+            "localizacao": {
+                "latitude": -29.366650,
+                "longitude": -50.816059
+            },
+            "link": "https://www.facebook.com/events/363441330713799/"
+        },
+        {
             "titulo": "GDG DevFest São Paulo 2016",
             "dataInicio": "2016-11-12",
             "dataFim": "2016-11-12",
