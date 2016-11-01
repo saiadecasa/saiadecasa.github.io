@@ -1,5 +1,17 @@
 {
     "events": [
+          {
+            "titulo": "Tchelinux Porto Alegre",
+            "dataInicio": "2016-11-19",
+            "dataFim": "2016-11-19",
+            "local": "Auditório da Faculdade SENAC Porto Alegre",
+            "endereco": "Rua Cel. Genuíno, 130, Centro Histórico - Porto Alegre - RS",
+            "localizacao": {
+                "latitude": -30.0352337,
+                "longitude": -51.2271086
+            },
+            "link": "http://poa.tchelinux.org/"
+        },
         {
             "titulo": "Encontro PHPRS em Canela",
             "dataInicio": "2016-11-26",
