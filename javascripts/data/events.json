@@ -95,7 +95,7 @@
                 "longitude": -46.669678
             },
             "link": "http://roadsec.com.br/saopaulo2016"
-        },
+        },        
         {
             "titulo": "PhpConference Brasil 2016",
             "dataInicio": "2016-12-07",
@@ -107,6 +107,18 @@
                 "longitude": -46.761988
             },
             "link": "http://www.phpconference.com.br"
+        },
+        {
+            "titulo": "WordCamp São Paulo 2016",
+            "dataInicio": "2016-12-10",
+            "dataFim": "2016-12-10",
+            "local": "UNICID Carrão",
+            "endereco": "R. Melo Peixoto, 1407 - Tatuapé, São Paulo - SP, 03070-000",
+            "localizacao": {
+                "latitude": -23.536356,
+                "longitude": -46.561154
+            },
+            "link": "https://2016.saopaulo.wordcamp.org"
         }
     ]
 }
