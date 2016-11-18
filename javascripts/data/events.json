@@ -1,5 +1,17 @@
 {
     "events": [
+		{
+            "titulo": "PHPSP + Talks #1 - Mercado Livre",
+            "dataInicio": "2016-11-24",
+            "dataFim": "2016-11-24",
+            "local": "Mercado Livre",
+            "endereco": " Av. das Nações Unidas, 3000 - Bonfim - Osasco, SP",
+            "localizacao": {
+                "latitude": -23.524852,
+                "longitude": -46.761121
+            },
+            "link": "https://www.meetup.com/php-sp/events/235641294/?eventId=235641294"
+        },
           {
             "titulo": "Tchelinux Porto Alegre",
             "dataInicio": "2016-11-19",
