@@ -25,18 +25,6 @@
             "link": "http://www.meetup.com/pt-BR/PHP-RS/events/234978772/"
         },
         {
-            "titulo": "GDG DevFest São Paulo 2016",
-            "dataInicio": "2016-11-12",
-            "dataFim": "2016-11-12",
-            "local": "Faculdade Impacta",
-            "endereco": "Av. Rudge, 315 - Bom Retiro, São Paulo",
-            "localizacao": {
-                "latitude": -23.5258552,
-                "longitude": -46.6493219
-            },
-            "link": "https://sp.devfest.com.br/"
-        },
-        {
             "titulo": "BSides São Paulo",
             "dataInicio": "2016-11-19",
             "dataFim": "2016-11-20",
