@@ -1,29 +1,5 @@
 {
     "events": [
-		{
-            "titulo": "PHPSP + Talks #1 - Mercado Livre",
-            "dataInicio": "2016-11-24",
-            "dataFim": "2016-11-24",
-            "local": "Mercado Livre",
-            "endereco": " Av. das Nações Unidas, 3000 - Bonfim - Osasco, SP",
-            "localizacao": {
-                "latitude": -23.524852,
-                "longitude": -46.761121
-            },
-            "link": "https://www.meetup.com/php-sp/events/235641294/?eventId=235641294"
-        },
-          {
-            "titulo": "Tchelinux Porto Alegre",
-            "dataInicio": "2016-11-19",
-            "dataFim": "2016-11-19",
-            "local": "Auditório da Faculdade SENAC Porto Alegre",
-            "endereco": "Rua Cel. Genuíno, 130, Centro Histórico - Porto Alegre - RS",
-            "localizacao": {
-                "latitude": -30.0352337,
-                "longitude": -51.2271086
-            },
-            "link": "http://poa.tchelinux.org/"
-        },
         {
             "titulo": "Encontro PHPRS em Canela",
             "dataInicio": "2016-11-26",
@@ -35,18 +11,6 @@
                 "longitude": -50.816059
             },
             "link": "http://www.meetup.com/pt-BR/PHP-RS/events/234978772/"
-        },
-        {
-            "titulo": "BSides São Paulo",
-            "dataInicio": "2016-11-19",
-            "dataFim": "2016-11-20",
-            "local": "PUC-SP - Campus Consolação",
-            "endereco": "Rua Marquês de Paranaguá, 111 – Consolação – São Paulo – SP",
-            "localizacao": {
-                "latitude": -23.549373,
-                "longitude": -46.649883
-            },
-            "link": "http://sp13.securitybsides.com.br/"
         },
         {
             "titulo": "GDG DevFest Campinas 2016",
@@ -83,18 +47,6 @@
                 "longitude": -37.040799
             },
             "link": "http://frontinaracaju.com.br/"
-        },
-        {
-            "titulo": "Roadsec São Paulo",
-            "dataInicio": "2016-11-18",
-            "dataFim": "2016-11-18",
-            "local": "AUDIO CLUB",
-            "endereco": "Av. Francisco Matarazzo, 694, Barra Funda - São Paulo",
-            "localizacao": {
-                "latitude": -23.528328,
-                "longitude": -46.669678
-            },
-            "link": "http://roadsec.com.br/saopaulo2016"
         },        
         {
             "titulo": "PhpConference Brasil 2016",
