@@ -1,3 +1,16 @@
 {
-    "events": []
+    "events": [
+		{
+			"titulo": "Go Meetup - Novatec",
+			"dataInicio": "2016-12-15",
+			"dataFim": "2016-12-15",
+			"local": "Centro de Treinamento da Novatec",
+			"endereco": "Av. Cruzeiro do Sul, 2463 – sala 617, São Paulo ",
+			"localizacao": {
+				"latitude": -23.5093560,
+				"longitude": -46.6252060
+			},
+			"link": "https://www.meetup.com/golangbr/events/235982310/"
+		}
+    ]
 }
