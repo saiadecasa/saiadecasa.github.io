@@ -1,76 +1,16 @@
 {
     "events": [
-        {
-            "titulo": "Encontro PHPRS em Canela",
-            "dataInicio": "2016-11-26",
-            "dataFim": "2016-11-26",
-            "local": "Hotel Klein Ville",
-            "endereco": "Rua Melvin Jones 443 Centro - Canela  - RS",
-            "localizacao": {
-                "latitude": -29.366650,
-                "longitude": -50.816059
-            },
-            "link": "http://www.meetup.com/pt-BR/PHP-RS/events/234978772/"
-        },
-        {
-            "titulo": "GDG DevFest Campinas 2016",
-            "dataInicio": "2016-11-26",
-            "dataFim": "2016-11-26",
-            "local": "FCM 01 - Unicamp",
-            "endereco": "R. Albert Sabin, s/ nº. Cidade Universitária 'Zeferino Vaz', Campinas–SP",
-            "localizacao": {
-                "latitude": -22.829618,
-                "longitude": -47.063016
-            },
-            "link": "https://devfest.gdg-campinas.org/"
-        },
-        {
-            "titulo": "Dev Paraná Conference 2016",
-            "dataInicio": "2016-11-26",
-            "dataFim": "2016-11-26",
-            "local": "Sebrae Maringá",
-            "endereco": "Avenida Bento Munhoz da Rocha Neto, 1116 - Maringá - PR",
-            "localizacao": {
-                "latitude": -23.418546,
-                "longitude": -51.924269
-            },
-            "link": "https://www.eventick.com.br/devparana-conference-2016"
-        },
-        {
-            "titulo": "Front in Aracaju 2016",
-            "dataInicio": "2016-12-03",
-            "dataFim": "2016-12-03",
-            "local": "Hotel Radisson",
-            "endereco": "Rua Doutor Bezerra De Menezes, 40 - Coroa do Meio, Aracaju - SE",
-            "localizacao": {
-                "latitude": -10.976601,
-                "longitude": -37.040799
-            },
-            "link": "http://frontinaracaju.com.br/"
-        },        
-        {
-            "titulo": "PhpConference Brasil 2016",
-            "dataInicio": "2016-12-07",
-            "dataFim": "2016-12-11",
-            "local": "UNIFIEO",
-            "endereco": "Av. Franz Voegeli, 300, Osasco, São Paulo, CEP 06020-190",
-            "localizacao": {
-                "latitude": -23.540821,
-                "longitude": -46.761988
-            },
-            "link": "http://www.phpconference.com.br"
-        },
-        {
-            "titulo": "WordCamp São Paulo 2016",
-            "dataInicio": "2016-12-10",
-            "dataFim": "2016-12-10",
-            "local": "UNICID Carrão",
-            "endereco": "R. Melo Peixoto, 1407 - Tatuapé, São Paulo - SP, 03070-000",
-            "localizacao": {
-                "latitude": -23.536356,
-                "longitude": -46.561154
-            },
-            "link": "https://2016.saopaulo.wordcamp.org"
-        }
+		{
+			"titulo": "Go Meetup - Novatec",
+			"dataInicio": "2016-12-15",
+			"dataFim": "2016-12-15",
+			"local": "Centro de Treinamento da Novatec",
+			"endereco": "Av. Cruzeiro do Sul, 2463 – sala 617, São Paulo ",
+			"localizacao": {
+				"latitude": -23.5093560,
+				"longitude": -46.6252060
+			},
+			"link": "https://www.meetup.com/golangbr/events/235982310/"
+		}
     ]
 }
