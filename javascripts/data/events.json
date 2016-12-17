@@ -1,16 +1,16 @@
 {
-    "events": [
-		{
-			"titulo": "Go Meetup - Novatec",
-			"dataInicio": "2016-12-15",
-			"dataFim": "2016-12-15",
-			"local": "Centro de Treinamento da Novatec",
-			"endereco": "Av. Cruzeiro do Sul, 2463 – sala 617, São Paulo ",
-			"localizacao": {
-				"latitude": -23.5093560,
-				"longitude": -46.6252060
-			},
-			"link": "https://www.meetup.com/golangbr/events/235982310/"
-		}
-    ]
+  "events": [
+    {
+      "titulo": "FrontInVale 2017",
+      "dataInicio": "2017-09-16",
+      "dataFim": "2017-09-16",
+      "local": "FAROL HOTEL - SÃO JOSÉ DOS CAMPOS",
+      "endereco": "R. Síria, 25 - Jardim Oswaldo Cruz, São José dos Campos - SP",
+      "localizacao": {
+        "latitude": -23.199048,
+        "longitude": -45.883783
+      },
+      "link": "https://www.eventick.com.br/frontinvale2017"
+    }
+  ]
 }
