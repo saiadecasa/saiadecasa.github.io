@@ -11,6 +11,18 @@
         "longitude": -45.883783
       },
       "link": "https://www.eventick.com.br/frontinvale2017"
+    },
+    {
+      "titulo": "Roadsec Goânia",
+      "dataInicio": "2017-02-18",
+      "dataFim": "2017-02-18",
+      "local": "Senai",
+      "endereco": "Rua 227-A, n° 95 - Setor Leste Universitário ",
+      "localizacao": {
+        "latitude": -16.6716924,
+        "longitude": -49.2407903
+      },
+      "link": "http://roadsec.com.br/goiania2017/"
     }
   ]
 }
