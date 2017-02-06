@@ -35,6 +35,18 @@
         "longitude": -54.594963
       },
       "link": "http://roadsec.com.br/campogrande2017/"
+    },
+    {
+      "titulo": "JS Experience'2017",
+      "dataInicio": "2017-06-23",
+      "dataFim": "2017-06-23",
+      "local": "Hotel Pullman",
+      "endereco": "Rua Olimpíadas, 205, Vila Olímpia, São Paulo – SP",
+      "localizacao": {
+        "latitude": -23.5956615,
+        "longitude": -46.6870368
+      },
+      "link": "http://jsexperience2017.imasters.com.br/"
     }
   ]
 }
