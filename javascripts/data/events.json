@@ -37,6 +37,18 @@
       "link": "http://roadsec.com.br/campogrande2017/"
     },
     {
+      "titulo": "Roadsec Campo Brasília",
+      "dataInicio": "2017-03-11",
+      "dataFim": "2017-03-11",
+      "local": "UNICEUB",
+      "endereco": "SEPN Quadra 707/907 | Campus do UniCEUB - Bloco 03, Asa Norte - Brasília-DF",
+      "localizacao": {
+        "latitude": -15.7675646,
+        "longitude": -47.8962758
+      },
+      "link": "http://roadsec.com.br/brasilia2017/"
+    },
+    {
       "titulo": "JS Experience'2017",
       "dataInicio": "2017-06-23",
       "dataFim": "2017-06-23",
