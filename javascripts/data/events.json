@@ -25,18 +25,6 @@
       "link": "https://www.eventick.com.br/frontinvale2017"
     },
     {
-      "titulo": "Roadsec Campo Grande",
-      "dataInicio": "2017-03-04",
-      "dataFim": "2017-03-04",
-      "local": "ANHANGUERA_UNIDERP",
-      "endereco": "Rua Ceará, 333 - Vila Antônio Vendas, Campo Grande, MS",
-      "localizacao": {
-        "latitude": -20.4650445,
-        "longitude": -54.594963
-      },
-      "link": "http://roadsec.com.br/campogrande2017/"
-    },
-    {
       "titulo": "Roadsec Campo Brasília",
       "dataInicio": "2017-03-11",
       "dataFim": "2017-03-11",
