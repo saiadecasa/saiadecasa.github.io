@@ -35,6 +35,18 @@
         "longitude": -46.6870368
       },
       "link": "http://jsexperience2017.imasters.com.br/"
+    },
+     {
+      "titulo": "Roadsec Fortaleza",
+      "dataInicio": "2017-04-08",
+      "dataFim": "2017-04-08",
+      "local": "FACULDADE FARIAS BRITO",
+      "endereco": "R. Castro Monte, 1364 - Varjota, Fortaleza - CE, 60175-230",
+      "localizacao": {
+        "latitude": -3.7364755,
+        "longitude": -38.4882859
+      },
+      "link": "http://roadsec.com.br/fortaleza2017/"
     }
   ]
 }
