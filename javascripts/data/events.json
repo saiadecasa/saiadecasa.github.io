@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "PHP Experience '2017",
-      "dataInicio": "2017-03-27",
-      "dataFim": "2017-03-28",
-      "local": "Hotel Pullman Vila Olímpia",
-      "endereco": "Rua Olimpíadas, 205, Vila Olímpia, São Paulo – SP",
-      "localizacao": {
-        "latitude": -23.5956615,
-        "longitude": -46.6870368
-      },
-      "link": "https://phpexperience2017.imasters.com.br/"
-    },
-    {
       "titulo": "FrontInVale 2017",
       "dataInicio": "2017-09-16",
       "dataFim": "2017-09-16",
