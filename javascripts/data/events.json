@@ -47,6 +47,18 @@
         "longitude": -35.2085933
       },
       "link": "http://roadsec.com.br/natal2017/"
+    },
+     {
+      "titulo": "INOVAÇÃO EM PAUTA",
+      "dataInicio": "2017-04-07",
+      "dataFim": "2017-04-07",
+      "local": " Castelo Creative Space",
+      "endereco": "Av. João Erbolato, 376 - Vila Castelo Branco, Campinas - SP, 13070-070",
+      "localizacao": {
+        "latitude": -22.888915,
+        "longitude": -47.0810364
+      },
+      "link": "https://www.sympla.com.br/inovacao-em-pauta__120300"
     }
   ]
 }
