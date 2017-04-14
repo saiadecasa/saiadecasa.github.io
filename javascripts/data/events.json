@@ -25,18 +25,6 @@
       "link": "http://jsexperience2017.imasters.com.br/"
     },
      {
-      "titulo": "Roadsec Fortaleza",
-      "dataInicio": "2017-04-08",
-      "dataFim": "2017-04-08",
-      "local": "FACULDADE FARIAS BRITO",
-      "endereco": "R. Castro Monte, 1364 - Varjota, Fortaleza - CE, 60175-230",
-      "localizacao": {
-        "latitude": -3.7364755,
-        "longitude": -38.4882859
-      },
-      "link": "http://roadsec.com.br/fortaleza2017/"
-    },
-     {
       "titulo": "Roadsec Natal",
       "dataInicio": "2017-05-06",
       "dataFim": "2017-05-06",
@@ -47,18 +35,6 @@
         "longitude": -35.2085933
       },
       "link": "http://roadsec.com.br/natal2017/"
-    },
-     {
-      "titulo": "INOVAÇÃO EM PAUTA",
-      "dataInicio": "2017-04-07",
-      "dataFim": "2017-04-07",
-      "local": " Castelo Creative Space",
-      "endereco": "Av. João Erbolato, 376 - Vila Castelo Branco, Campinas - SP, 13070-070",
-      "localizacao": {
-        "latitude": -22.888915,
-        "longitude": -47.0810364
-      },
-      "link": "https://www.sympla.com.br/inovacao-em-pauta__120300"
     }
   ]
 }
