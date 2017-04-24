@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "Hackathon Mod the Future - Campinas",
+      "dataInicio": "2017-05-20",
+      "dataFim": "2017-05-21",
+      "local": "Instituto Eldorado",
+      "endereco": "Av. Alan Turing, 275 - Cidade Universitária, Campinas - SP",
+      "localizacao": {
+        "latitude": -22.812422,
+        "longitude": -47.061481
+      },
+      "link": "https://www.eventbrite.com/e/hackathon-mod-the-future-campinas-tickets-33297218878"
+    },
+    {
       "titulo": "FrontInVale 2017",
       "dataInicio": "2017-09-16",
       "dataFim": "2017-09-16",
