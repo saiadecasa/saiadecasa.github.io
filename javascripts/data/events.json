@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "Roadsec Recife",
+      "dataInicio": "2017-05-25",
+      "dataFim": "2017-05-25",
+      "local": "Faculdade dos Guarapes",
+      "endereco": "Rua Comendador José Didier, 27, Piedade, Jaboatão dos Guararapes/PE",
+      "localizacao": {
+        "latitude": -8.1621102,
+        "longitude": -34.9180676
+      },
+      "link": "http://roadsec.com.br/recife2017/"
+    },
+    {
       "titulo": "Hackathon Mod the Future - Campinas",
       "dataInicio": "2017-05-20",
       "dataFim": "2017-05-21",
