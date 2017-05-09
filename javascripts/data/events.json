@@ -83,18 +83,6 @@
         "longitude": -46.6870368
       },
       "link": "http://jsexperience2017.imasters.com.br/"
-    },
-     {
-      "titulo": "Roadsec Natal",
-      "dataInicio": "2017-05-06",
-      "dataFim": "2017-05-06",
-      "local": "INSTITUTO METRÓPOLE DIGITAL (IMD) DA UFRN",
-      "endereco": "Campus Universitário UFRN: Av. Senador Salgado Filho, 3000, Lagoa Nova, Natal/RN",
-      "localizacao": {
-        "latitude": -5.8362625,
-        "longitude": -35.2085933
-      },
-      "link": "http://roadsec.com.br/natal2017/"
     }
   ]
 }
