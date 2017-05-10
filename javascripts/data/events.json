@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "RoadSec Salvador",
+      "dataInicio": "2017-06-10",
+      "dataFim": "2017-06-10",
+      "local": "CENTRO UNIVERSITÁRIO ESTÁCIO DA BAHIA",
+      "endereco": "Rua Xingu, 179, Jardim Atalaiam, Salvador/BA",
+      "localizacao": {
+        "latitude": -12.9817213,
+        "longitude": -38.4482324
+      },
+      "link": "http://roadsec.com.br/salvador2017/"
+    },
+    {
       "titulo": "Superlógica  Xperience",
       "dataInicio": "2017-08-10",
       "dataFim": "2017-08-11",
