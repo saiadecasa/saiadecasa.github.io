@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "RoadSec Belo Horizonte",
+      "dataInicio": "2017-06-24",
+      "dataFim": "2017-06-24",
+      "local": "PUC - CORAÇÃO EUCARÍSTICO",
+      "endereco": "R. Dom José Gaspar, 500, Coração Eucarístico, Belo Horizonte/MG",
+      "localizacao": {
+        "latitude": -19.9231221,
+        "longitude": -43.9965266
+      },
+      "link": "http://roadsec.com.br/belohorizonte2017/"
+    },
+    {
       "titulo": "RoadSec Salvador",
       "dataInicio": "2017-06-10",
       "dataFim": "2017-06-10",
