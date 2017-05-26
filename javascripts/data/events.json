@@ -61,30 +61,6 @@
       "link": "http://www.frontinsampa.com.br/"
     },
     {
-      "titulo": "Roadsec Recife",
-      "dataInicio": "2017-05-25",
-      "dataFim": "2017-05-25",
-      "local": "Faculdade dos Guarapes",
-      "endereco": "Rua Comendador José Didier, 27, Piedade, Jaboatão dos Guararapes/PE",
-      "localizacao": {
-        "latitude": -8.1621102,
-        "longitude": -34.9180676
-      },
-      "link": "http://roadsec.com.br/recife2017/"
-    },
-    {
-      "titulo": "Hackathon Mod the Future - Campinas",
-      "dataInicio": "2017-05-20",
-      "dataFim": "2017-05-21",
-      "local": "Instituto Eldorado",
-      "endereco": "Av. Alan Turing, 275 - Cidade Universitária, Campinas - SP",
-      "localizacao": {
-        "latitude": -22.812422,
-        "longitude": -47.061481
-      },
-      "link": "https://www.eventbrite.com/e/hackathon-mod-the-future-campinas-tickets-33297218878"
-    },
-    {
       "titulo": "FrontInVale 2017",
       "dataInicio": "2017-09-16",
       "dataFim": "2017-09-16",
