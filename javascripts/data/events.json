@@ -1,6 +1,18 @@
 {
   "events": [
-     {
+    {
+      "titulo": "2° Hackathon Campinas",
+      "dataInicio": "2017-07-08",
+      "dataFim": "2017-07-09",
+      "local": "Teatro IMA Cultural",
+      "endereco": "Rua Padre João Garcia, 101, Ponte Preta, Campinas/SP",
+      "localizacao": {
+        "latitude": -22.919254,
+        "longitude": ,-47.055168
+      },
+      "link": "https://hackathon.ima.sp.gov.br/"
+    }, 
+    {
       "titulo": "Hack In Sampa",
       "dataInicio": "2017-06-03",
       "dataFim": "2017-06-04",
