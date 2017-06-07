@@ -1,17 +1,5 @@
 {
   "events": [
-     {
-      "titulo": "Hack In Sampa",
-      "dataInicio": "2017-06-03",
-      "dataFim": "2017-06-04",
-      "local": "Câmara Municipal de São Paulo",
-      "endereco": "Viaduto Jacareí, 100, Plenário, São Paulo - SP",
-      "localizacao": {
-        "latitude": -23.539994,
-        "longitude": -46.652801
-      },
-      "link": "https://www.eventbrite.com.br/e/hack-in-sampa-registration-34727938198"
-    },
     {
       "titulo": "RoadSec Belo Horizonte",
       "dataInicio": "2017-06-24",
@@ -47,18 +35,6 @@
         "longitude": -47.061739
       },
       "link": "http://xperience.superlogica.com/"
-    },
-    {
-      "titulo": "Roadsec Maceió",
-      "dataInicio": "2017-06-03",
-      "dataFim": "2017-06-03",
-      "local": "SENAI",
-      "endereco": "Rua Pedro Américo, 18 - Poço",
-      "localizacao": {
-        "latitude": -9.660426,
-        "longitude": -35.7260159
-      },
-      "link": "http://roadsec.com.br/maceio2017/"
     },
     {
       "titulo": "Front In Sampa 2017",
