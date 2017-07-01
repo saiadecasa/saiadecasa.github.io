@@ -13,18 +13,6 @@
       "link": "http://hackathon.ima.sp.gov.br"
     },
     {
-      "titulo": "RoadSec Belo Horizonte",
-      "dataInicio": "2017-06-24",
-      "dataFim": "2017-06-24",
-      "local": "PUC - CORAÇÃO EUCARÍSTICO",
-      "endereco": "R. Dom José Gaspar, 500, Coração Eucarístico, Belo Horizonte/MG",
-      "localizacao": {
-        "latitude": -19.9231221,
-        "longitude": -43.9965266
-      },
-      "link": "http://roadsec.com.br/belohorizonte2017/"
-    },
-    {
       "titulo": "Superlógica  Xperience",
       "dataInicio": "2017-08-10",
       "dataFim": "2017-08-11",
@@ -59,18 +47,6 @@
         "longitude": -45.883783
       },
       "link": "https://www.eventick.com.br/frontinvale2017"
-    },
-    {
-      "titulo": "JS Experience'2017",
-      "dataInicio": "2017-06-23",
-      "dataFim": "2017-06-23",
-      "local": "Hotel Pullman",
-      "endereco": "Rua Olimpíadas, 205, Vila Olímpia, São Paulo – SP",
-      "localizacao": {
-        "latitude": -23.5956615,
-        "longitude": -46.6870368
-      },
-      "link": "http://jsexperience2017.imasters.com.br/"
     }
   ]
 }
