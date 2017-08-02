@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "Blue Hack Hortôlandia",
+      "dataInicio": "2017-08-19",
+      "dataFim": "2017-08-20",
+      "local": "IBM Hortôlandia",
+      "endereco": "Rod. Jorn. Francisco Aguirre Proença - Chácaras Assay, Hortolândia - SP, 13186-900",
+      "localizacao": {
+        "latitude": -22.899421,
+        "longitude": -47.2030807
+      },
+      "link": "https://www.blueopen.org/bluehackhortolandia"
+    },
+    {
       "titulo": "Superlógica  Xperience",
       "dataInicio": "2017-08-10",
       "dataFim": "2017-08-11",
