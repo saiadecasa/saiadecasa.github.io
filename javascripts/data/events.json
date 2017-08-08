@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "HACKATHON AMBEV 2017",
-      "dataInicio": "2017-08-05",
-      "dataFim": "2017-08-06",
-      "local": "CUBO COWORKING",
-      "endereco": "R. Casa do Ator, 919 - Vila Olimpia, São Paulo - SP, 04546-003",
-      "localizacao": {
-        "latitude": -23.597732,
-        "longitude": -46.682186
-      },
-      "link": "https://hacktheworld.beer/Brazil_2017"
-    },
-    {
       "titulo": "Blue Hack Hortôlandia",
       "dataInicio": "2017-08-19",
       "dataFim": "2017-08-20",
