@@ -13,18 +13,6 @@
       "link": "https://www.blueopen.org/bluehackhortolandia"
     },
     {
-      "titulo": "Superlógica  Xperience",
-      "dataInicio": "2017-08-10",
-      "dataFim": "2017-08-11",
-      "local": "Expo D. Pedro",
-      "endereco": "Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas/SP",
-      "localizacao": {
-        "latitude": -22.85183,
-        "longitude": -47.061739
-      },
-      "link": "http://xperience.superlogica.com/"
-    },
-    {
       "titulo": "FrontInVale 2017",
       "dataInicio": "2017-09-16",
       "dataFim": "2017-09-16",
