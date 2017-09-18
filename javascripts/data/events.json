@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "FrontInVale 2017",
-      "dataInicio": "2017-09-16",
-      "dataFim": "2017-09-16",
-      "local": "FAROL HOTEL - SÃO JOSÉ DOS CAMPOS",
-      "endereco": "R. Síria, 25 - Jardim Oswaldo Cruz, São José dos Campos - SP",
-      "localizacao": {
-        "latitude": -23.199048,
-        "longitude": -45.883783
-      },
-      "link": "https://www.eventick.com.br/frontinvale2017"
-    },
-    {
       "titulo": "Front in BH 2k17",
       "dataInicio": "2017-09-23",
       "dataFim": "2017-09-23",
