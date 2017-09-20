@@ -23,6 +23,18 @@
         "longitude": -47.0537567
       },
       "link": "http://shawee.io/app/hackathon/hack-in-campinas"
+    },
+    {
+      "titulo": "Hackathon Superlogica",
+      "dataInicio": "2017-10-21",
+      "dataFim": "2017-10-22",
+      "local": "Superlógica Tecnologias",
+      "endereco": "R. Joaquim Vilac, 501 - Vila Teixeira, Campinas - SP",
+      "localizacao": {
+        "latitude": -22.906412,
+        "longitude": -47.084396
+      },
+      "link": "http://shawee.io/app/hackathon/mega-hack-superlogica"
     }
   ]
 }
