@@ -11,6 +11,18 @@
         "longitude": -43.9437472
       },
       "link": "https://frontinbh.com.br/"
+    },
+    {
+      "titulo": "Hack in Campinas",
+      "dataInicio": "2017-10-21",
+      "dataFim": "2017-10-22",
+      "local": "Câmara Municipal de Campinas",
+      "endereco": "Av. da Saudade, 1004 - Pte. Preta, Campinas - SP",
+      "localizacao": {
+        "latitude": -22.9216289,
+        "longitude": -47.0537567
+      },
+      "link": "http://shawee.io/app/hackathon/hack-in-campinas"
     }
   ]
 }
