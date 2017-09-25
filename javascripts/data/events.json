@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "Front in BH 2k17",
-      "dataInicio": "2017-09-23",
-      "dataFim": "2017-09-23",
-      "local": "Teatro Ney Soares",
-      "endereco": "R. Diamantina, 463 - Lagoinha, Belo Horizonte",
-      "localizacao": {
-        "latitude": -19.9079062,
-        "longitude": -43.9437472
-      },
-      "link": "https://frontinbh.com.br/"
-    },
-    {
       "titulo": "Hack in Campinas",
       "dataInicio": "2017-10-21",
       "dataFim": "2017-10-22",
