@@ -35,30 +35,6 @@
         "longitude": -51.9330558
       },
       "link": "https://goo.gl/iS8UzH"
-    },
-    {
-      "titulo": "Hackathon Superlogica",
-      "dataInicio": "2017-10-21",
-      "dataFim": "2017-10-22",
-      "local": "Superlógica Tecnologias",
-      "endereco": "R. Joaquim Vilac, 501 - Vila Teixeira, Campinas - SP",
-      "localizacao": {
-        "latitude": -22.906412,
-        "longitude": -47.084396
-      },
-      "link": "http://shawee.io/app/hackathon/mega-hack-superlogica"
-    },
-    {
-      "titulo": "IoT Week CPqD",
-      "dataInicio": "2017-10-21",
-      "dataFim": "2017-10-22",
-      "local": "CPqD",
-      "endereco": "Rua Doutor Ricardo Benetton Martins, 1000 - Parque II do Polo de Alta Tecnologia, Campinas - SP",
-      "localizacao": {
-        "latitude": -22.816227,
-        "longitude": -47.045121
-      },
-      "link": "http://shawee.io/app/hackathon/iotweek-cpqd"
     }
   ]
 }
