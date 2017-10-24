@@ -47,6 +47,18 @@
         "longitude": -46.702672
       },
       "link": "https://laraconfbrasil.com.br"
+    },
+    {
+      "titulo": "PHPConference",
+      "dataInicio": "2017-12-06",
+      "dataFim": "2017-12-10",
+      "local": "UNIFIEO",
+      "endereco": "Av. Franz Voegeli, 300, - Osasco - SP",
+      "localizacao": {
+        "latitude": -23.5388773,
+        "longitude": -46.7650595
+      },
+      "link": "http://phpconference.com.br"
     }
   ]
 }
