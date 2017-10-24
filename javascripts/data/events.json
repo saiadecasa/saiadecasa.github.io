@@ -59,6 +59,18 @@
         "longitude": -48.4533397
       },
       "link": "https://2017.gopherconbr.org"
+    },
+    {
+      "titulo": "DevOpsDays Brasília",
+      "dataInicio": "2017-11-07",
+      "dataFim": "2017-11-08",
+      "local": "Centro de Convenções GRAND MERCURE Brasilia",
+      "endereco": "Eixo Monumental, SHN quadra 5, bloco G, Asa Norte, Brasília - DF",
+      "localizacao": {
+        "latitude": -15.7881851,
+        "longitude": -47.89255
+      },
+      "link": "http://devopsdays.bsb.br"
     }
   ]
 }
