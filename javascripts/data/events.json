@@ -35,6 +35,18 @@
         "longitude": -51.9330558
       },
       "link": "https://goo.gl/iS8UzH"
+    },
+    {
+      "titulo": "#LARACONFBRASIL - O maior evento de Laravel do Brasil",
+      "dataInicio": "2017-11-17",
+      "dataFim": "2017-11-18",
+      "local": "America Hall Espaço de Eventos",
+      "endereco": "Av. Major Sylvio de Magalhães Padilha 5200 - Jardim Morumbi, São Paulo - SP",
+      "localizacao": {
+        "latitude": -23.619958,
+        "longitude": -46.702672
+      },
+      "link": "https://laraconfbrasil.com.br"
     }
   ]
 }
