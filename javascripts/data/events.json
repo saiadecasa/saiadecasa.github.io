@@ -47,6 +47,18 @@
         "longitude": -46.702672
       },
       "link": "https://laraconfbrasil.com.br"
+    },
+    {
+      "titulo": "GopherCon Brasil",
+      "dataInicio": "2017-11-17",
+      "dataFim": "2017-11-19",
+      "local": "Hotel Canasvieiras Internacional",
+      "endereco": "Rua Madre Maria Vilac, 2020 - Canasvieiras, Florianópolis - SC",
+      "localizacao": {
+        "latitude": -27.4281724,
+        "longitude": -48.4533397
+      },
+      "link": "https://2017.gopherconbr.org"
     }
   ]
 }
