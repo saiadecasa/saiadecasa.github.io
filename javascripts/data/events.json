@@ -55,20 +55,32 @@
       "local": "Centro de Convenções GRAND MERCURE Brasilia",
       "endereco": "Eixo Monumental, SHN quadra 5, bloco G, Asa Norte, Brasília - DF",
       "localizacao": {
-        "latitude": -15.7881851,
-        "longitude": -47.89255
+        "latitude": -15.788185,
+        "longitude": -47.890361
       },
       "link": "http://devopsdays.bsb.br"
     },
     {
+      "titulo": "PHPConference",
+      "dataInicio": "2017-12-06",
+      "dataFim": "2017-12-10",
+      "local": "UNIFIEO",
+      "endereco": "Av. Franz Voegeli, 300, - Osasco - SP",
+      "localizacao": {
+        "latitude": -23.540827,
+        "longitude": -46.761982
+      },
+      "link": "http://phpconference.com.br"
+     },
+     {
       "titulo": "GopherCon Brasil",
       "dataInicio": "2017-11-17",
       "dataFim": "2017-11-19",
       "local": "Hotel Canasvieiras Internacional",
       "endereco": "Rua Madre Maria Vilac, 2020 - Canasvieiras, Florianópolis - SC",
       "localizacao": {
-        "latitude": -27.4281724,
-        "longitude": -48.4533397
+        "latitude": -27.428172,
+        "longitude": -48.451151
       },
       "link": "https://2017.gopherconbr.org"
     }
