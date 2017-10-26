@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "W3C Web Conf",
-      "dataInicio": "2017-10-24",
-      "dataFim": "2017-10-25",
-      "local": "Maksoud Plaza",
-      "endereco": "Rua São Carlos do Pinhal, 424 - Bela Vista, São Paulo - SP, 01330-000",
-      "localizacao": {
-        "latitude": -23.563331,
-        "longitude": -46.651136
-      },
-      "link": "http://conferenciaweb.w3c.br/"
-    },
-    {
       "titulo": "Hackathon Bosch Agro - Campinas",
       "dataInicio": "2017-10-27",
       "dataFim": "2017-10-29",
