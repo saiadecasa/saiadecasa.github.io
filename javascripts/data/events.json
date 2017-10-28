@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "RubyConf",
+      "dataInicio": "2017-11-17",
+      "dataFim": "2017-11-18",
+      "local": "FecomercioSP",
+      "endereco": "R. Dr. Plínio Barreto, 285 - Bela Vista, São Paulo - SP, 01313-020",
+      "localizacao": {
+        "latitude": -23.55797,
+        "longitude": -46.652316
+      },
+      "link": "http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/"
+    },
+    {
       "titulo": "Hackathon Bosch Agro - Campinas",
       "dataInicio": "2017-10-27",
       "dataFim": "2017-10-29",
