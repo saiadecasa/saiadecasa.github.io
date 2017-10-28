@@ -13,18 +13,6 @@
       "link": "http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/"
     },
     {
-      "titulo": "Hackathon Bosch Agro - Campinas",
-      "dataInicio": "2017-10-27",
-      "dataFim": "2017-10-29",
-      "local": "WEME",
-      "endereco": "Avenida Dr. Jesuíno Marcondes Machado, 630, Campinas - SP",
-      "localizacao": {
-        "latitude": -22.900934,
-        "longitude": -47.042199
-      },
-      "link": "http://www.hackathonbosch.com.br/"
-    },
-    {
       "titulo": "FEMUG-MGA #8 - Tecnospeed",
       "dataInicio": "2017-10-28",
       "dataFim": "2017-10-28",
