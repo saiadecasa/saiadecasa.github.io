@@ -13,18 +13,6 @@
       "link": "http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/"
     },
     {
-      "titulo": "FEMUG-MGA #8 - Tecnospeed",
-      "dataInicio": "2017-10-28",
-      "dataFim": "2017-10-28",
-      "local": "Tecnospeed",
-      "endereco": "Av Duque de Caxias 882, Edifício New Tower, 17º andar · Maringá",
-      "localizacao": {
-        "latitude": -23.4209995,
-        "longitude": -51.9330558
-      },
-      "link": "https://goo.gl/iS8UzH"
-    },
-    {
       "titulo": "#LARACONFBRASIL - O maior evento de Laravel do Brasil",
       "dataInicio": "2017-11-17",
       "dataFim": "2017-11-18",
