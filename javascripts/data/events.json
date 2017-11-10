@@ -25,18 +25,6 @@
       "link": "https://laraconfbrasil.com.br"
     },
     {
-      "titulo": "DevOpsDays Brasília",
-      "dataInicio": "2017-11-07",
-      "dataFim": "2017-11-08",
-      "local": "Centro de Convenções GRAND MERCURE Brasilia",
-      "endereco": "Eixo Monumental, SHN quadra 5, bloco G, Asa Norte, Brasília - DF",
-      "localizacao": {
-        "latitude": -15.788185,
-        "longitude": -47.890361
-      },
-      "link": "http://devopsdays.bsb.br"
-    },
-    {
       "titulo": "PHPConference",
       "dataInicio": "2017-12-06",
       "dataFim": "2017-12-10",
