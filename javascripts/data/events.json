@@ -47,30 +47,6 @@
         "longitude": -48.451151
       },
       "link": "https://2017.gopherconbr.org"
-    },
-     {
-      "titulo": "Women Dev Summit",
-      "dataInicio": "2017-11-11",
-      "dataFim": "2017-11-11",
-      "local": "SENAI Santa Cecília",
-      "endereco": "Alameda Barão de Limeira, 539, São Paulo - SP",
-      "localizacao": {
-        "latitude": -23.536552,
-        "longitude": -46.646303
-      },
-      "link": "http://womendevsummit.com"
-    },
-     {
-      "titulo": "IoT Maceió",
-      "dataInicio": "2017-11-09",
-      "dataFim": "2017-11-11",
-      "local": "Faculdade Estácio",
-      "endereco": "Av. Pio XII 70, Jatiúca, Maceió - AL, 57035-560",
-      "localizacao": {
-        "latitude": -9.6525979,
-        "longitude": -35.7048077
-      },
-      "link": "https://goo.gl/PXCtDW"
     }
   ]
 }
