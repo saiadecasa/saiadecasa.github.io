@@ -1,30 +1,6 @@
 {
   "events": [
     {
-      "titulo": "RubyConf",
-      "dataInicio": "2017-11-17",
-      "dataFim": "2017-11-18",
-      "local": "FecomercioSP",
-      "endereco": "R. Dr. Plínio Barreto, 285 - Bela Vista, São Paulo - SP, 01313-020",
-      "localizacao": {
-        "latitude": -23.55797,
-        "longitude": -46.652316
-      },
-      "link": "http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/"
-    },
-    {
-      "titulo": "#LARACONFBRASIL - O maior evento de Laravel do Brasil",
-      "dataInicio": "2017-11-17",
-      "dataFim": "2017-11-18",
-      "local": "America Hall Espaço de Eventos",
-      "endereco": "Av. Major Sylvio de Magalhães Padilha 5200 - Jardim Morumbi, São Paulo - SP",
-      "localizacao": {
-        "latitude": -23.619958,
-        "longitude": -46.702672
-      },
-      "link": "https://laraconfbrasil.com.br"
-    },
-    {
       "titulo": "PHPConference",
       "dataInicio": "2017-12-06",
       "dataFim": "2017-12-10",
@@ -35,18 +11,6 @@
         "longitude": -46.761982
       },
       "link": "http://phpconference.com.br"
-     },
-     {
-      "titulo": "GopherCon Brasil",
-      "dataInicio": "2017-11-17",
-      "dataFim": "2017-11-19",
-      "local": "Hotel Canasvieiras Internacional",
-      "endereco": "Rua Madre Maria Vilac, 2020 - Canasvieiras, Florianópolis - SC",
-      "localizacao": {
-        "latitude": -27.428172,
-        "longitude": -48.451151
-      },
-      "link": "https://2017.gopherconbr.org"
-    }
+     }
   ]
 }
