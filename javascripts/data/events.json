@@ -11,6 +11,18 @@
         "longitude": -46.761982
       },
       "link": "http://phpconference.com.br"
+     },
+     {
+      "titulo": "DevFest XP 2017",
+      "dataInicio": "2017-12-09",
+      "dataFim": "2017-12-19",
+      "local": "Marco Zero",
+      "endereco": "Av. Alfredo Lisboa, s/n - Recife -PE, 50030-150",
+      "localizacao": {
+        "latitude": -8.063099,
+        "longitude": -34.871128
+      },
+      "link": "https://devfestxp.com/"
      }
   ]
 }
