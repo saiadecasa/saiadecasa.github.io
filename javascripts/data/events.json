@@ -1,28 +1,16 @@
 {
   "events": [
     {
-      "titulo": "PHPConference",
-      "dataInicio": "2017-12-06",
-      "dataFim": "2017-12-10",
-      "local": "UNIFIEO",
-      "endereco": "Av. Franz Voegeli, 300, - Osasco - SP",
+      "titulo": "QCon São Paulo 2018 - Conferência de Desenvolvimento de Software",
+      "dataInicio": "2018-05-09",
+      "dataFim": "2018-05-11",
+      "local": "Centro de Convenções Frei Caneca",
+      "endereco": "Rua Frei Caneca, 569, 5º Andar, Consolação - São Paulo - SP, 01307-001",
       "localizacao": {
-        "latitude": -23.540827,
-        "longitude": -46.761982
+        "latitude": -23.553934,
+        "longitude": -46.652630
       },
-      "link": "http://phpconference.com.br"
-     },
-     {
-      "titulo": "DevFest XP 2017",
-      "dataInicio": "2017-12-09",
-      "dataFim": "2017-12-09",
-      "local": "Marco Zero",
-      "endereco": "Av. Alfredo Lisboa, s/n - Recife -PE, 50030-150",
-      "localizacao": {
-        "latitude": -8.063099,
-        "longitude": -34.871128
-      },
-      "link": "https://devfestxp.com/"
+      "link": "https://qconsp.com/"
      }
   ]
 }
