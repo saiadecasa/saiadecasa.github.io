@@ -12,17 +12,5 @@
       },
       "link": "https://qconsp.com/"
      },
-    {
-      "titulo": "Cloud Study Jams",
-      "dataInicio": "2018-01-27",
-      "dataFim": "2018-01-27",
-      "local": "Rather Coworking",
-      "endereco": "R. José Maia Gomes, 211 - Jatiúca, 57036-240 - Maceió/AL",
-      "localizacao": {
-        "latitude": -9.650218,
-        "longitude": -35.703358
-      },
-      "link": "https://www.sympla.com.br/cloud-study-jams-1__233237"
-     }
   ]
 }
