@@ -35,6 +35,18 @@
         "longitude": -48.477688
       },
       "link": "http://roadsec.com.br/belem2018"
+     },
+    {
+      "titulo": "Front In Campinas",
+      "dataInicio": "2018-05-12",
+      "dataFim": "2018-05-12",
+      "local": "Hotel Vitória Concept",
+      "endereco": "R. Antônio Barreto, 1176 - Umarizal, Belém, PA",
+      "localizacao": {
+        "latitude": -22.902473,
+        "longitude": -47.0501841
+      },
+      "link": "http://frontincampinas.com.br/"
      }
   ]
 }
