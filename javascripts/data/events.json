@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "DevDay RS - Communities",
+      "dataInicio": "2018-03-17",
+      "dataFim": "2018-03-17",
+      "local": "Faculdade de Tecnologia Senac (Campus I)",
+      "endereco": "Rua Cel. Genuíno, 130, Centro Histórico - Porto Alegre - RS, 90010-350",
+      "localizacao": {
+        "latitude": -30.0352924,
+        "longitude": -51.2264149
+      },
+      "link": "http://devday.rs/"
+     },
+    {
       "titulo": "QCon São Paulo 2018 - Conferência de Desenvolvimento de Software",
       "dataInicio": "2018-05-09",
       "dataFim": "2018-05-11",
