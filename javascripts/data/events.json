@@ -24,18 +24,6 @@
       },
       "link": "https://qconsp.com/"
      },
-     {
-      "titulo": "Roadsec - João Pessoa 2018",
-      "dataInicio": "2018-02-24",
-      "dataFim": "2018-02-24",
-      "local": "Tribunal de Contas do Estado",
-      "endereco": "Rua Professor Geraldo Von Sohsten, 147 - Jaguaribe, João Pessoa",
-      "localizacao": {
-        "latitude": -7.1301999,
-        "longitude": -34.8727314
-      },
-      "link": "http://roadsec.com.br/joaopessoa2018"
-     },
     {
       "titulo": "Roadsec - Belém 2018",
       "dataInicio": "2018-03-03",
