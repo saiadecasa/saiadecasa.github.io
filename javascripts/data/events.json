@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "NerdZaoCampinas #5 - Comunidades e Carreiras em T.I",
+      "dataInicio": "2018-03-26",
+      "dataFim": "2018-03-26",
+      "local": "Castelo Creative Space",
+      "endereco": "Av. João Erbolato, 376 - Vila Castelo Branco, Campinas · Campinas",
+      "localizacao": {
+        "latitude": -22.8887515,
+        "longitude": -47.083166
+      },
+      "link": "https://www.meetup.com/pt-BR/Nerdzao/events/248250342/"
+     },
+    {
       "titulo": "DevDay RS - Communities",
       "dataInicio": "2018-03-17",
       "dataFim": "2018-03-17",
