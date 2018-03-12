@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "You Inside the web",
-      "dataInicio": "2018-03-10",
-      "dataFim": "2018-03-10",
-      "local": "Faculdade Senac Santa Genoveva",
-      "endereco": "Av. Caiapó, 201-495 - Santa Genoveva, Goiânia - GO, 74672-400",
-      "localizacao": {
-        "latitude": -16.637554,
-        "longitude": -49.237771
-      }, 
-      "link": "http://insiter.io/"
-    },
-    {
       "titulo": "DevDay RS - Communities",
       "dataInicio": "2018-03-17",
       "dataFim": "2018-03-17",
