@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "NerdZãoCampinas #6 - Mobile",
-      "dataInicio": "2018-03-21",
-      "dataFim": "2018-03-21",
-      "local": "Movile - Campinas",
-      "endereco": " Av. Cel. Silva Telles, 977, 9º andar, Campinas",
-      "localizacao": {
-        "latitude": -22.894186,
-        "longitude": -47.0478602
-      },
-      "link": "https://www.meetup.com/pt-BR/Nerdzao/events/248323703/"
-     },
-    {
       "titulo": "NerdZaoCampinas #5 - Comunidades e Carreiras em T.I",
       "dataInicio": "2018-03-26",
       "dataFim": "2018-03-26",
