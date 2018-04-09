@@ -1,14 +1,26 @@
 {
   "events": [
     {
+      "titulo": "Roadsec Salvador 2018",
+      "dataInicio": "2018-04-14",
+      "dataFim": "2018-04-14",
+      "local": "Fiesta Bahia Hotel",
+      "endereco": "Av. Antônio Carlos Magalhães, 711 - Pituba, Salvador - BA",
+      "localizacao": {
+        "latitude": -23.553934,
+        "longitude": -46.652630
+      },
+      "link": "http://roadsec.com.br/salvador2018"
+     },
+    {
       "titulo": "QCon São Paulo 2018 - Conferência de Desenvolvimento de Software",
       "dataInicio": "2018-05-09",
       "dataFim": "2018-05-11",
       "local": "Centro de Convenções Frei Caneca",
       "endereco": "Rua Frei Caneca, 569, 5º Andar, Consolação - São Paulo - SP, 01307-001",
       "localizacao": {
-        "latitude": -23.553934,
-        "longitude": -46.652630
+        "latitude": -12.9975888,
+        "longitude": -38.4670299
       },
       "link": "https://qconsp.com/"
      },
