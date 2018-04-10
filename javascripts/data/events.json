@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "Roadsec Rio de Janeiro 2018",
+      "dataInicio": "2018-05-12",
+      "dataFim": "2018-05-12",
+      "local": "Arena 3 - Parque Olímpico",
+      "endereco": "Parque Olímpico da Barra - Av. Embaixador Abelardo Bueno - Barra da Tijuca, Rio de Janeiro - RJ",
+      "localizacao": {
+        "latitude": -22.9766115,
+        "longitude": 43.3923367
+      },
+      "link": "http://roadsec.com.br/riodejaneiro2018"
+     },
+    {
       "titulo": "Roadsec Salvador 2018",
       "dataInicio": "2018-04-14",
       "dataFim": "2018-04-14",
