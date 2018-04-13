@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "Roadsec Cascavel 2018",
+      "dataInicio": "2018-05-19",
+      "dataFim": "2018-05-19",
+      "local": "Centro de Convenções e Eventos de Cascavel",
+      "endereco": "R. Fortunato Beber, 987 - Pacaembu, Cascavel - PR",
+      "localizacao": {
+        "latitude": -24.9547375,
+        "longitude": -53.4242928
+      },
+      "link": "http://roadsec.com.br/cascavel2018"
+     },
+    {
       "titulo": "Roadsec Rio de Janeiro 2018",
       "dataInicio": "2018-05-12",
       "dataFim": "2018-05-12",
