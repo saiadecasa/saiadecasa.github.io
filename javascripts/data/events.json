@@ -25,18 +25,6 @@
       "link": "http://roadsec.com.br/riodejaneiro2018"
      },
     {
-      "titulo": "Roadsec Salvador 2018",
-      "dataInicio": "2018-04-14",
-      "dataFim": "2018-04-14",
-      "local": "Fiesta Bahia Hotel",
-      "endereco": "Av. Antônio Carlos Magalhães, 711 - Pituba, Salvador - BA",
-      "localizacao": {
-        "latitude": -23.553934,
-        "longitude": -46.652630
-      },
-      "link": "http://roadsec.com.br/salvador2018"
-     },
-    {
       "titulo": "QCon São Paulo 2018 - Conferência de Desenvolvimento de Software",
       "dataInicio": "2018-05-09",
       "dataFim": "2018-05-11",
