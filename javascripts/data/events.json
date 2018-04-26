@@ -37,6 +37,18 @@
       "link": "https://qconsp.com/"
      },
     {
+      "titulo": "NET Community Summit 2018",
+      "dataInicio": "2018-05-05",
+      "dataFim": "2018-05-05",
+      "local": "Developer Hub",
+      "endereco": "Rua Oscar Freire, 2379 - Pinheiros, São Paulo - SP, 05409-012",
+      "localizacao": {
+        "latitude": -23.552101,
+        "longitude": -46.677931
+      },
+      "link": "https://eventos.imasters.com.br/dotnetsummit/"
+     },
+    {
       "titulo": "Front In Campinas",
       "dataInicio": "2018-05-12",
       "dataFim": "2018-05-12",
