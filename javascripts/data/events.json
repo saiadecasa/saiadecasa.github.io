@@ -1,5 +1,17 @@
 {
   "events": [
+     {
+      "titulo": "Hack Town 2018",
+      "dataInicio": "2018-09-06",
+      "dataFim": "2018-09-09",
+      "local": "Centro da cidade",
+      "endereco": "Santa Rita do Sapucaí – MG",
+      "localizacao": {
+        "latitude": -22.2406808,
+        "longitude": -45.8269034
+      },
+      "link": "https://hacktown.com.br/"
+     },
     {
       "titulo": "Roadsec Recife 2018",
       "dataInicio": "2018-06-09",
