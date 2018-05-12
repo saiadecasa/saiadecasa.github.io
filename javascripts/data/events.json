@@ -61,30 +61,6 @@
       "link": "http://roadsec.com.br/riodejaneiro2018"
      },
     {
-      "titulo": "QCon São Paulo 2018 - Conferência de Desenvolvimento de Software",
-      "dataInicio": "2018-05-09",
-      "dataFim": "2018-05-11",
-      "local": "Centro de Convenções Frei Caneca",
-      "endereco": "Rua Frei Caneca, 569, 5º Andar, Consolação - São Paulo - SP, 01307-001",
-      "localizacao": {
-        "latitude": -12.9975888,
-        "longitude": -38.4670299
-      },
-      "link": "https://qconsp.com/"
-     },
-    {
-      "titulo": "NET Community Summit 2018",
-      "dataInicio": "2018-05-05",
-      "dataFim": "2018-05-05",
-      "local": "Developer Hub",
-      "endereco": "Rua Oscar Freire, 2379 - Pinheiros, São Paulo - SP, 05409-012",
-      "localizacao": {
-        "latitude": -23.552101,
-        "longitude": -46.677931
-      },
-      "link": "https://eventos.imasters.com.br/dotnetsummit/"
-     },
-    {
       "titulo": "Front In Campinas",
       "dataInicio": "2018-05-12",
       "dataFim": "2018-05-12",
