@@ -47,30 +47,6 @@
         "longitude": -53.4242928
       },
       "link": "http://roadsec.com.br/cascavel2018"
-     },
-    {
-      "titulo": "Roadsec Rio de Janeiro 2018",
-      "dataInicio": "2018-05-12",
-      "dataFim": "2018-05-12",
-      "local": "Arena 3 - Parque Olímpico",
-      "endereco": "Parque Olímpico da Barra - Av. Embaixador Abelardo Bueno - Barra da Tijuca, Rio de Janeiro - RJ",
-      "localizacao": {
-        "latitude": -22.9766115,
-        "longitude": 43.3923367
-      },
-      "link": "http://roadsec.com.br/riodejaneiro2018"
-     },
-    {
-      "titulo": "Front In Campinas",
-      "dataInicio": "2018-05-12",
-      "dataFim": "2018-05-12",
-      "local": "Hotel Vitória Concept",
-      "endereco": "R. Antônio Barreto, 1176 - Umarizal, Belém, PA",
-      "localizacao": {
-        "latitude": -22.902473,
-        "longitude": -47.0501841
-      },
-      "link": "http://frontincampinas.com.br/"
      }
   ]
 }
