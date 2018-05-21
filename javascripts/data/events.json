@@ -35,30 +35,6 @@
         "longitude": -43.933441
       },
       "link": "http://roadsec.com.br/belohorizonte2018"
-     },
-    {
-      "titulo": "Roadsec Cascavel 2018",
-      "dataInicio": "2018-05-19",
-      "dataFim": "2018-05-19",
-      "local": "Centro de Convenções e Eventos de Cascavel",
-      "endereco": "R. Fortunato Beber, 987 - Pacaembu, Cascavel - PR",
-      "localizacao": {
-        "latitude": -24.9547375,
-        "longitude": -53.4242928
-      },
-      "link": "http://roadsec.com.br/cascavel2018"
-     },
-    {
-      "titulo": "Criciúma Dev Conference 2018",
-      "dataInicio": "2018-05-19",
-      "dataFim": "2018-05-19",
-      "local": "Associação Empresarial de Criciúma - ACIC",
-      "endereco": "R. Ernesto Bianchini Góes, 91 - Próspera, Criciúma - SC",
-      "localizacao": {
-        "latitude": -28.678631,
-        "longitude": -49.355713
-      },
-      "link": "https://criciumadev.com.br/conference"
      }
   ]
 }
