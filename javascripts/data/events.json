@@ -25,18 +25,6 @@
       "link": "http://roadsec.com.br/recife2018"
      },
     {
-      "titulo": "Roadsec Belo Horizonte 2018",
-      "dataInicio": "2018-05-26",
-      "dataFim": "2018-05-26",
-      "local": "Ouro Minas Hotel",
-      "endereco": "Av. Cristiano Machado, 4001 - Ipiranga, Belo Horizonte - MG",
-      "localizacao": {
-        "latitude": -19.8764166,
-        "longitude": -43.933441
-      },
-      "link": "http://roadsec.com.br/belohorizonte2018"
-     },
-    {
       "titulo": "Tech Interior 2018",
       "dataInicio": "2018-05-26",
       "dataFim": "2018-05-26",
