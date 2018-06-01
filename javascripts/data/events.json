@@ -1,5 +1,17 @@
 {
   "events": [
+    {
+      "titulo": "DevParaná Confence 2018",
+      "dataInicio": "2018-07-28",
+      "dataFim": "2018-07-28",
+      "local": "Parque Internacional de Exposições Francisco Feio Ribeiro",
+      "endereco": "Avenida Colombo, 2186, Vila Morangueira - Maringá PR",
+      "localizacao": {
+        "latitude": -23.420596,
+        "longitude": -51.90182
+      },
+      "link": "https://www.devparana.org/conf/"
+     },
      {
       "titulo": "Hack Town 2018",
       "dataInicio": "2018-09-06",
