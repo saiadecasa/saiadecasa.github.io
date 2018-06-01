@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "titulo": "DevParaná Confence 2018"
-      "dataInicio": "2018-07-28"
-      "dataFim": "2018-07-28"
+      "titulo": "DevParaná Confence 2018",
+      "dataInicio": "2018-07-28",
+      "dataFim": "2018-07-28",
       "local": "Parque Internacional de Exposições Francisco Feio Ribeiro",
       "endereco": "Avenida Colombo, 2186, Vila Morangueira - Maringá PR",
       "localizacao": {
