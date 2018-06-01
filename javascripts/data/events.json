@@ -23,30 +23,6 @@
         "longitude": -34.873116
       },
       "link": "http://roadsec.com.br/recife2018"
-     },
-    {
-      "titulo": "Roadsec Belo Horizonte 2018",
-      "dataInicio": "2018-05-26",
-      "dataFim": "2018-05-26",
-      "local": "Ouro Minas Hotel",
-      "endereco": "Av. Cristiano Machado, 4001 - Ipiranga, Belo Horizonte - MG",
-      "localizacao": {
-        "latitude": -19.8764166,
-        "longitude": -43.933441
-      },
-      "link": "http://roadsec.com.br/belohorizonte2018"
-     },
-    {
-      "titulo": "Tech Interior 2018",
-      "dataInicio": "2018-05-26",
-      "dataFim": "2018-05-26",
-      "local": "Hotel Recreio São Jorge",
-      "endereco": "Av. Carlos Berchieri, n°1, Jaboticabal - SP",
-      "localizacao": {
-        "latitude": -21.253930,
-        "longitude": -48.307411
-      },
-      "link": "http://techinterior.com.br/"
      }
   ]
 }
