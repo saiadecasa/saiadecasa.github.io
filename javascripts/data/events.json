@@ -23,18 +23,6 @@
         "longitude": -45.8269034
       },
       "link": "https://hacktown.com.br/"
-     },
-    {
-      "titulo": "Roadsec Recife 2018",
-      "dataInicio": "2018-06-09",
-      "dataFim": "2018-06-09",
-      "local": "Centro de Convenções Pernambuco",
-      "endereco": "Av. Prof. Andrade Bezerra, s/n - Salgadinho, Olinda - PE",
-      "localizacao": {
-        "latitude": -8.0320154,
-        "longitude": -34.873116
-      },
-      "link": "http://roadsec.com.br/recife2018"
      }
   ]
 }
