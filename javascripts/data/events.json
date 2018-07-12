@@ -23,6 +23,18 @@
         "longitude": -45.8269034
       },
       "link": "https://hacktown.com.br/"
+     },
+     {
+      "titulo": "IT Expo 2018",
+      "dataInicio": "2018-10-17",
+      "dataFim": "2018-10-18",
+      "local": "Transamerica Expo Center",
+      "endereco": "Av. Dr. Mário Villas Boas Rodrigues, 387 – Santo Amaro, São Paulo – SP",
+      "localizacao": {
+        "latitude": -23.648416,
+        "longitude": -46.719189
+      },
+      "link": "http://www.itforumexpo.com.br/"
      }
   ]
 }
