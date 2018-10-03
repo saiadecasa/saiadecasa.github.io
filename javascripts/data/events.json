@@ -47,18 +47,6 @@
          "longitude": -35.210006
        },
        "link": "https://2018.pythonbrasil.org.br/"
-     },
-     {
-       "titulo": "Silicon Valley Conference 2018",
-       "dataInicio": "2018-09-29",
-       "dataFim": "2018-09-29",
-       "local": "Pro Magno Centro de Eventos",
-       "endereco": "Av. Profa. Ida Kolb, 513 - Jardim das Laranjeiras, São Paulo - SP, 02518-000",
-       "localizacao": {
-         "latitude": -23.507504,
-         "longitude": -46.667248
-       },
-       "link": "https://lp.startse.com.br/evento/silicon-valley-conference/"
      }
   ]
 }
