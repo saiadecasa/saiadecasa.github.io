@@ -1,18 +1,6 @@
 {
   "events": [
      {
-      "titulo": "VIII EnSI - CERT.Bahia",
-      "dataInicio": "2018-10-03",
-      "dataFim": "2018-10-03",
-      "local": "Universidade Federal da Bahia",
-      "endereco": "Rua Professor Aristídes Novis, 2 - Federação",
-      "localizacao": {
-        "latitude": -12.999894,
-        "longitude": -38.510991
-      },
-      "link": "https://ensi.pop-ba.rnp.br"
-     },
-     {
       "titulo": "InterCon 2018",
       "dataInicio": "2018-10-05",
       "dataFim": "2018-10-06",
