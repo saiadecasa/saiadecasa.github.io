@@ -1,18 +1,6 @@
 {
   "events": [
      {
-      "titulo": "VIII EnSI - CERT.Bahia",
-      "dataInicio": "2018-10-03",
-      "dataFim": "2018-10-03",
-      "local": "Universidade Federal da Bahia",
-      "endereco": "Rua Professor Aristídes Novis, 2 - Federação",
-      "localizacao": {
-        "latitude": -12.999894,
-        "longitude": -38.510991
-      },
-      "link": "https://ensi.pop-ba.rnp.br"
-     },
-     {
       "titulo": "InterCon 2018",
       "dataInicio": "2018-10-05",
       "dataFim": "2018-10-06",
@@ -69,10 +57,10 @@
        "localizacao": {
          "latitude": -23.5577389,
          "longitude": -46.6692412
-         
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
+<<<<<<< HEAD
      {
 	"titulo": "WordCamp São Paulo 2018",
 	"dataInicio": "2018-10-13",
@@ -85,5 +73,19 @@
 	},
 	"link": "https://2018.saopaulo.wordcamp.org/"
      }
+=======
+	 {
+		"titulo": "Roadsec São Paulo 2018",
+		"dataInicio": "2018-11-10",
+		"dataFim": "2018-11-10",
+		"local": "Audio",
+		"endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
+		"localizacao": {
+		  "latitude": -23.528204,
+		  "longitude": -46.669452
+		},
+		"link": "http://roadsec.com.br/saopaulo-2018"
+	 }
+>>>>>>> upstream/master
   ]
 }
