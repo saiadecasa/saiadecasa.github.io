@@ -47,6 +47,18 @@
          "longitude": -35.210006
        },
        "link": "https://2018.pythonbrasil.org.br/"
+     },
+     {
+       "titulo": "DevOpsDay Belém 2018",
+       "dataInicio": "2018-11-24",
+       "dataFim": "2018-11-24",
+       "local": "Elephant Coworking",
+       "endereco": "Av. Governador José Malcher, 153, Reduto, Belém, Pará",
+       "localizacao": {
+         "latitude": -1.452013,
+         "longitude": -48.492646
+       },
+       "link": "https://www.devopsdays.org/events/2018-belem/welcome/"
      }
   ]
 }
