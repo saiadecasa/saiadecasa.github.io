@@ -59,6 +59,19 @@
          "longitude": -48.492646
        },
        "link": "https://www.devopsdays.org/events/2018-belem/welcome/"
+     },
+     {
+       "titulo": "São Paulo Big Data Week 2018",
+       "dataInicio": "2018-10-20",
+       "dataFim": "2018-10-20",
+       "local": "Centro de Convenções Rebouças - Entrada de pedestres",
+       "endereco": "Av. Dr. Enéas de Carvalho Aguiar, 23, Pinheiros, São Paulo, SP 05402-000",
+       "localizacao": {
+         "latitude": -23.5577389,
+         "longitude": -46.6692412
+         
+       },
+       "link": "http://sao-paulo.bigdataweek.com/"
      }
   ]
 }
