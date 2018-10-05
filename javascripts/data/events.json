@@ -60,6 +60,18 @@
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
+     {
+      "titulo": "WordCamp São Paulo 2018",
+      "dataInicio": "2018-10-13",
+      "dataFim": "2018-10-13",
+      "local": "Universidade Nove de Julho (Uninove)",
+      "endereco": "Rua Vagueiro, 235/249 - Liberdade, São Paulo - SP, Brasil",
+      "localizacao": {
+        "latitude": -23.564216,
+        "longitude": -46.638025
+      },
+      "link": "https://2018.saopaulo.wordcamp.org/"
+     },
 	 {
 		"titulo": "Roadsec São Paulo 2018",
 		"dataInicio": "2018-11-10",
