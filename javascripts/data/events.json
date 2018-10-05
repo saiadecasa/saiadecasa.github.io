@@ -72,17 +72,29 @@
       },
       "link": "https://2018.saopaulo.wordcamp.org/"
      },
-	 {
-		"titulo": "Roadsec São Paulo 2018",
-		"dataInicio": "2018-11-10",
-		"dataFim": "2018-11-10",
-		"local": "Audio",
-		"endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
-		"localizacao": {
-		  "latitude": -23.528204,
-		  "longitude": -46.669452
-		},
-		"link": "http://roadsec.com.br/saopaulo-2018"
-	 }
+     {
+        "titulo": "Roadsec São Paulo 2018",
+        "dataInicio": "2018-11-10",
+        "dataFim": "2018-11-10",
+        "local": "Audio",
+        "endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
+        "localizacao": {
+          "latitude": -23.528204,
+          "longitude": -46.669452
+        },
+        "link": "http://roadsec.com.br/saopaulo-2018"
+     },
+     {
+      "titulo": "GDG Campinas AndroidFest 2018",
+      "dataInicio": "2018-20-10",
+      "dataFim": "2018-20-10",
+      "local": "Vitória Hotel Concept Campinas",
+      "endereco": "Av. José de Souza Campos, 425, Campinas - São Paulo",
+      "localizacao": {
+        "latitude": -22.902451,
+        "longitude": -47.047998
+      },
+      "link": "https://gdg-campinas.github.io/androidfest/"
+     }
   ]
 }
