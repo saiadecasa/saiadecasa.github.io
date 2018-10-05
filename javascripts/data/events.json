@@ -95,6 +95,18 @@
         "longitude": -47.047998
       },
       "link": "https://gdg-campinas.github.io/androidfest/"
-     }
+    },
+    {
+     "titulo": "BrazilJS on the road Belo Horizonte",
+     "dataInicio": "2018-27-10",
+     "dataFim": "2018-27-10",
+     "local": "Samba Tech",
+     "endereco": "Rua Turim, 99 - Santa Lúcia - Belo Horizonte - MG",
+     "localizacao": {
+       "latitude": -19.9703342,
+       "longitude": -43.9538765
+     },
+     "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/"
+    }
   ]
 }
