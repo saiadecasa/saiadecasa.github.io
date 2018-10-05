@@ -14,5 +14,6 @@ before_script:
 script:
   - htmlhint index.html
   - jshint javascripts/**/*.{js,json}
+  - prettier --write javascripts/**/*.{js,json}
   - csslint **/*.css
   - mocha javascripts/tests/*.js

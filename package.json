@@ -3,9 +3,10 @@
     "dependencies": {},
     "devDependencies": {
         "csslint": "~0.10.0",
-        "htmlhint": "~0.9.13",
-        "jshint": "~2.8.0",
+        "htmlhint": "^0.10.1",
+        "jshint": "^2.9.6",
         "mocha": "~2.3.3",
+        "prettier": "~1.14.3",
         "should": "~7.1.0"
     }
 }
