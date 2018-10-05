@@ -60,17 +60,29 @@
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
-	 {
-		"titulo": "Roadsec São Paulo 2018",
-		"dataInicio": "2018-11-10",
-		"dataFim": "2018-11-10",
-		"local": "Audio",
-		"endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
-		"localizacao": {
-		  "latitude": -23.528204,
-		  "longitude": -46.669452
-		},
-		"link": "http://roadsec.com.br/saopaulo-2018"
-	 }
+    {
+      "titulo": "Roadsec São Paulo 2018",
+      "dataInicio": "2018-11-10",
+      "dataFim": "2018-11-10",
+      "local": "Audio",
+      "endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
+      "localizacao": {
+        "latitude": -23.528204,
+        "longitude": -46.669452
+      },
+      "link": "http://roadsec.com.br/saopaulo-2018"
+    },
+    {
+      "titulo": "PHP Conference Brasil 2018",
+      "dataInicio": "2018-12-06",
+      "dataFim": "2018-12-08",
+      "local": "Faculdade Senac Porto Alegre – Campus II",
+      "endereco": "Rua Coronel Genuíno, 130. Centro Histórico, Porto Alegre (RS).",
+      "localizacao": {
+        "latitude": -30.036687,
+        "longitude": -51.227335
+      },
+      "link": "https://phpconference.com.br/"
+    }
   ]
 }
