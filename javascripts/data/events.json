@@ -60,6 +60,18 @@
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
+      {
+        "titulo": "PHP Conference Brasil 2018",
+        "dataInicio": "2018-12-06",
+        "dataFim": "2018-12-08",
+        "local": "Faculdade Senac Porto Alegre – Campus II",
+        "endereco": "Rua Coronel Genuíno, 130. Centro Histórico, Porto Alegre (RS).",
+        "localizacao": {
+          "latitude": -30.036687,
+          "longitude": -51.227335
+        },
+        "link": "https://phpconference.com.br/"
+      },
      {
       "titulo": "WordCamp São Paulo 2018",
       "dataInicio": "2018-10-13",
