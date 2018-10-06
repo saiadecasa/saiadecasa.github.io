@@ -60,29 +60,65 @@
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
-    {
-      "titulo": "Roadsec São Paulo 2018",
-      "dataInicio": "2018-11-10",
-      "dataFim": "2018-11-10",
-      "local": "Audio",
-      "endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
-      "localizacao": {
-        "latitude": -23.528204,
-        "longitude": -46.669452
+      {
+        "titulo": "PHP Conference Brasil 2018",
+        "dataInicio": "2018-12-06",
+        "dataFim": "2018-12-08",
+        "local": "Faculdade Senac Porto Alegre – Campus II",
+        "endereco": "Rua Coronel Genuíno, 130. Centro Histórico, Porto Alegre (RS).",
+        "localizacao": {
+          "latitude": -30.036687,
+          "longitude": -51.227335
+        },
+        "link": "https://phpconference.com.br/"
       },
-      "link": "http://roadsec.com.br/saopaulo-2018"
+     {
+      "titulo": "WordCamp São Paulo 2018",
+      "dataInicio": "2018-10-13",
+      "dataFim": "2018-10-13",
+      "local": "Universidade Nove de Julho (Uninove)",
+      "endereco": "Rua Vagueiro, 235/249 - Liberdade, São Paulo - SP, Brasil",
+      "localizacao": {
+        "latitude": -23.564216,
+        "longitude": -46.638025
+      },
+      "link": "https://2018.saopaulo.wordcamp.org/"
+     },
+     {
+        "titulo": "Roadsec São Paulo 2018",
+        "dataInicio": "2018-11-10",
+        "dataFim": "2018-11-10",
+        "local": "Audio",
+        "endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
+        "localizacao": {
+          "latitude": -23.528204,
+          "longitude": -46.669452
+        },
+        "link": "http://roadsec.com.br/saopaulo-2018"
+     },
+     {
+      "titulo": "GDG Campinas AndroidFest 2018",
+      "dataInicio": "2018-20-10",
+      "dataFim": "2018-20-10",
+      "local": "Vitória Hotel Concept Campinas",
+      "endereco": "Av. José de Souza Campos, 425, Campinas - São Paulo",
+      "localizacao": {
+        "latitude": -22.902451,
+        "longitude": -47.047998
+      },
+      "link": "https://gdg-campinas.github.io/androidfest/"
     },
     {
-      "titulo": "PHP Conference Brasil 2018",
-      "dataInicio": "2018-12-06",
-      "dataFim": "2018-12-08",
-      "local": "Faculdade Senac Porto Alegre – Campus II",
-      "endereco": "Rua Coronel Genuíno, 130. Centro Histórico, Porto Alegre (RS).",
-      "localizacao": {
-        "latitude": -30.036687,
-        "longitude": -51.227335
-      },
-      "link": "https://phpconference.com.br/"
+     "titulo": "BrazilJS on the road Belo Horizonte",
+     "dataInicio": "2018-27-10",
+     "dataFim": "2018-27-10",
+     "local": "Samba Tech",
+     "endereco": "Rua Turim, 99 - Santa Lúcia - Belo Horizonte - MG",
+     "localizacao": {
+       "latitude": -19.9703342,
+       "longitude": -43.9538765
+     },
+     "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/"
     }
   ]
 }
