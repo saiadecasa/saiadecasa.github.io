@@ -1,18 +1,6 @@
 {
   "events": [
      {
-      "titulo": "InterCon 2018",
-      "dataInicio": "2018-10-05",
-      "dataFim": "2018-10-06",
-      "local": "Hotel Unique",
-      "endereco": "Avenida Brigadeiro Luis Antônio, 4700 - Jardim Paulista, São Paulo – SP",
-      "localizacao": {
-        "latitude": -23.581657,
-        "longitude": -46.666839
-      },
-      "link": "https://eventos.imasters.com.br/intercon/"
-     },
-     {
       "titulo": "IT Expo 2018",
       "dataInicio": "2018-10-17",
       "dataFim": "2018-10-18",
