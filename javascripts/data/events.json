@@ -108,5 +108,17 @@
      },
      "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/"
     }
+    {
+     "titulo": "Hacktoberfest Curitiba 2018",
+     "dataInicio": "2018-10-20",
+     "dataFim": "2018-10-20",
+     "local": "DINF - Departamennto de Informática UFPR",
+     "endereco": "Rua Evaristo F. Ferreira da Costa - Jardim das Américas, Curitiba - Paraná",
+     "localizacao": {
+       "latitude": -25.450791,
+       "longitude": -49.231884
+     },
+     "link": "https://hacktoberfestcwb.github.io/2018/"
+    }
   ]
 }
