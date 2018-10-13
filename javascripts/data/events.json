@@ -119,6 +119,18 @@
        "longitude": -49.231884
      },
      "link": "https://hacktoberfestcwb.github.io/2018/"
+   },
+   {
+      "titulo": "React Conf Brasil 2018",
+      "dataInicio": "2018-10-20",
+      "dataFim": "2018-10-20",
+      "local": "Teatro Brigadeiro",
+      "endereco": "Avenida Brigadeiro Luís Antônio, 884 - Bela Vista, São Paulo - São Paulo",
+      "localizacao": {
+        "latitude": -23.557406,
+        "longitude": -46.641039
+      },
+      "link": "http://reactconfbr.com.br/"
     }
   ]
 }
