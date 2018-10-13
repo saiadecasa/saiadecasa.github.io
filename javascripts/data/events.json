@@ -131,6 +131,18 @@
        "longitude": -46.6120773
      },
      "link": "http://brasil.campus-party.org/cpbr12/"
+   },
+   {
+      "titulo": "React Conf Brasil 2018",
+      "dataInicio": "2018-10-20",
+      "dataFim": "2018-10-20",
+      "local": "Teatro Brigadeiro",
+      "endereco": "Avenida Brigadeiro Luís Antônio, 884 - Bela Vista, São Paulo - São Paulo",
+      "localizacao": {
+        "latitude": -23.557406,
+        "longitude": -46.641039
+      },
+      "link": "http://reactconfbr.com.br/"
     }
     
   ]
