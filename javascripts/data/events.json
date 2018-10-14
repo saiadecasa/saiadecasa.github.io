@@ -191,6 +191,18 @@
         "longitude": -46.760459
     }, 
      "link": "https://www.sympla.com.br/women-dev-summit-2018__338718" 
+    },
+    { 
+      "titulo": "LATINOWARE2018", 
+      "dataInicio": "2018-10-17", 
+      "dataFim": "2018-10-19", 
+      "local": "Centro de Convenções de Foz do Iguaçu - CECONFI", 
+      "endereco": "Rodovia das Cataratas, km 19,5 (acesso ao Aeroporto), Foz do Iguaçu – Paraná",
+      "localizacao": { 
+        "latitude": -25.603225,
+        "longitude": -54.495223
+    }, 
+     "link": "https://latinoware.org/" 
     }
   ]
 }
