@@ -143,6 +143,26 @@
         "longitude": -46.641039
       },
       "link": "http://reactconfbr.com.br/"
+    },
+    { 
+      "titulo": "UX Team Summit 2018", 
+      "dataInicio": "2018-10-27", 
+      "dataFim": "2018-10-27", 
+      "local": "Escola SENAI de Informática", 
+      "endereco": "Alameda Barão de Limeira, 539 - Santa Cecilia, São Paulo - São Paulo",
+      "localizacao": { 
+        "latitude": -23.536551,
+        "longitude": -46.646321 
+    }, 
+     "link": "https://www.uxteamsummit.com.br/" 
     }
   ]
 }
+
+
+
+
+
+
+
+
