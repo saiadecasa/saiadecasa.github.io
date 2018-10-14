@@ -143,6 +143,18 @@
         "longitude": -46.641039
       },
       "link": "http://reactconfbr.com.br/"
+    },
+    {
+      "titulo": "RD Summit 2018",
+      "dataInicio": "2018-11-07",
+      "dataFim": "2018-11-09",
+      "local": "Centrosul",
+      "endereco": "Avenida Governador Gustavo Richard, 850 - Centro, Florianópolis - Santa Catarina",
+      "localizacao": {
+        "latitude": -27.600953,
+        "longitude": -48.552099
+      },
+      "link": "https://rdsummit.com.br/"
     }
   ]
 }
