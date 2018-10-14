@@ -59,19 +59,7 @@
           "longitude": -51.227335
         },
         "link": "https://phpconference.com.br/"
-      },
-     {
-      "titulo": "WordCamp São Paulo 2018",
-      "dataInicio": "2018-10-13",
-      "dataFim": "2018-10-13",
-      "local": "Universidade Nove de Julho (Uninove)",
-      "endereco": "Rua Vagueiro, 235/249 - Liberdade, São Paulo - SP, Brasil",
-      "localizacao": {
-        "latitude": -23.564216,
-        "longitude": -46.638025
-      },
-      "link": "https://2018.saopaulo.wordcamp.org/"
-     },
+      },     
      {
         "titulo": "Roadsec São Paulo 2018",
         "dataInicio": "2018-11-10",
@@ -143,6 +131,18 @@
         "longitude": -46.641039
       },
       "link": "http://reactconfbr.com.br/"
+    },
+    {
+      "titulo": "HACKTUDO 2018",
+      "dataInicio": "2018-11-02",
+      "dataFim": "2018-11-04",
+      "local": "Cidade das Artes, RJ",
+      "endereco": "Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-080",
+      "localizacao": {
+        "latitude": -22.999156,
+        "longitude": -43.3657976
+      },
+      "link": "https://www.hacktudo.com.br"
     }
   ]
 }
