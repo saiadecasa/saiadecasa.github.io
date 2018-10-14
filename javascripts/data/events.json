@@ -119,6 +119,18 @@
        "longitude": -49.231884
      },
      "link": "https://hacktoberfestcwb.github.io/2018/"
+    },
+    {
+     "titulo": "CODERS IN RIO SUMMIT 2018",
+     "dataInicio": "2018-11-10",
+     "dataFim": "2018-11-10",
+     "local": "SENAC RJ FLAMENGO",
+     "endereco": "R. Marquês de Abrantes, 99 - Flamengo, Rio de Janeiro - RJ, 22230-061",
+     "localizacao": {
+       "latitude": -22.9365277,
+       "longitude": -43.1773033
+     },
+     "link": "https://codersinrio.com.br/"
    },
    {
       "titulo": "React Conf Brasil 2018",
