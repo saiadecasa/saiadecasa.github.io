@@ -167,6 +167,18 @@
         "longitude": -46.718763 
     }, 
      "link": "https://www.apicon.com.br/" 
+    },
+    { 
+      "titulo": "UXCONF BR 2019 ", 
+      "dataInicio": "2019-05-17", 
+      "dataFim": "2019-05-18", 
+      "local": "UniRitter", 
+      "endereco": "Rua Orfanotrófio, 555 - Santa Tereza, Porto Alegre - Rio Grande do Sul",
+      "localizacao": { 
+        "latitude": -30.079680,
+        "longitude": -51.219297
+    }, 
+     "link": "https://www.sympla.com.br/uxconf-br-2019__294034" 
     }
   ]
 }
