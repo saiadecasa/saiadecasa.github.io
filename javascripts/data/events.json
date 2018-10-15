@@ -72,6 +72,18 @@
          
        },
        "link": "http://sao-paulo.bigdataweek.com/"
+     },
+     {
+       "titulo": "APICON - Api Connect Conference",
+       "dataInicio": "2018-03-29",
+       "dataFim": "2018-03-29",
+       "local": "Villa Blue Tree",
+       "endereco": "R. Castro Verde, 266 - Várzea de Baixo, São Paulo - SP, 04729-060",
+       "localizacao": {
+         "latitude": -23.638671,
+         "longitude": -46.71865
+       },
+       "link": "http://apicon.com.br/"
      }
   ]
 }
