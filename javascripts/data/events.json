@@ -168,26 +168,29 @@
       },
       "link": "https://rdsummit.com.br/"
     },
-    { 
-      "titulo": "UX Team Summit 2018", 
-      "dataInicio": "2018-10-27", 
-      "dataFim": "2018-10-27", 
-      "local": "Escola SENAI de Informática", 
+    {
+      "titulo": "UX Team Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Escola SENAI de Informática",
       "endereco": "Alameda Barão de Limeira, 539 - Santa Cecilia, São Paulo - São Paulo",
-      "localizacao": { 
+      "localizacao": {
         "latitude": -23.536551,
-        "longitude": -46.646321 
-    }, 
-     "link": "https://www.uxteamsummit.com.br/" 
+        "longitude": -46.646321
+      },
+      "link": "https://www.uxteamsummit.com.br/"
+    },
+    {
+      "titulo": "GDG DevFest Paraná 2018",
+      "dataInicio": "2018-11-24 08:00:00",
+      "dataFim": "2018-11-24 18:30:00",
+      "local": "FEITEP - Faculdade de Engenharia e Inovação Técnico Profissional",
+      "endereco": "Avenida Paranavaí, 1164 - Zona 06, Maringá, Paraná",
+      "localizacao": {
+        "latitude": -23.4235474,
+        "longitude": -51.9710911
+      },
+      "link": "https://devfestpr.com/"
     }
-    
   ]
 }
-
-
-
-
-
-
-
-
