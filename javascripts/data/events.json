@@ -167,6 +167,18 @@
         "longitude": -46.646321 
     }, 
      "link": "https://www.uxteamsummit.com.br/" 
+    },
+    { 
+      "titulo": "APICON API Connect Conference 2019 ", 
+      "dataInicio": "2019-03-29", 
+      "dataFim": "2019-03-29", 
+      "local": "Villa Blue Tree", 
+      "endereco": "Rua Castro Verde, 266 – Jardim Caravelas, São Paulo - São Paulo",
+      "localizacao": { 
+        "latitude": -23.638432,
+        "longitude": -46.718763 
+    }, 
+     "link": "https://www.apicon.com.br/" 
     }
     
   ]
