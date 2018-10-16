@@ -48,7 +48,7 @@
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
-      {
+     {
         "titulo": "PHP Conference Brasil 2018",
         "dataInicio": "2018-12-06",
         "dataFim": "2018-12-08",
@@ -157,25 +157,64 @@
       "link": "https://www.sympla.com.br/women-dev-summit-2018__338718"
     },
     { 
-      "titulo": "UX Team Summit 2018", 
-      "dataInicio": "2018-10-27", 
-      "dataFim": "2018-10-27", 
-      "local": "Escola SENAI de Informática", 
+      "titulo": "DevFest BH",
+      "dataInicio": "2018-11-10",
+      "dataFim": "2018-11-10",
+      "local": "The One Business Center",
+      "endereco": "Raja Gabáglia, 1143 - Luxemburgo, Belo Horizonte - MG",
+      "localizacao": {
+        "latitude": -19.945745,
+        "longitude": -43.957034
+      },
+      "link": "http://www.devfestbh.com/"
+    },
+    {
+      "titulo": "RD Summit 2018",
+      "dataInicio": "2018-11-07",
+      "dataFim": "2018-11-09",
+      "local": "Centrosul",
+      "endereco": "Avenida Governador Gustavo Richard, 850 - Centro, Florianópolis - Santa Catarina",
+      "localizacao": {
+        "latitude": -27.600953,
+        "longitude": -48.552099
+      },
+      "link": "https://rdsummit.com.br/"
+    },
+    {
+      "titulo": "UX Team Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Escola SENAI de Informática",
       "endereco": "Alameda Barão de Limeira, 539 - Santa Cecilia, São Paulo - São Paulo",
-      "localizacao": { 
+      "localizacao": {
         "latitude": -23.536551,
-        "longitude": -46.646321 
-    }, 
-     "link": "https://www.uxteamsummit.com.br/" 
-    }
-    
+        "longitude": -46.646321
+      },
+      "link": "https://www.uxteamsummit.com.br/"
+    },
+    {
+      "titulo": "GDG DevFest Paraná 2018",
+      "dataInicio": "2018-11-24 08:00:00",
+      "dataFim": "2018-11-24 18:30:00",
+      "local": "FEITEP - Faculdade de Engenharia e Inovação Técnico Profissional",
+      "endereco": "Avenida Paranavaí, 1164 - Zona 06, Maringá, Paraná",
+      "localizacao": {
+        "latitude": -23.4235474,
+        "longitude": -51.9710911
+      },
+      "link": "https://devfestpr.com/"
+    },
+    {
+       "titulo": "APICON - Api Connect Conference",
+       "dataInicio": "2018-03-29",
+       "dataFim": "2018-03-29",
+       "local": "Villa Blue Tree",
+       "endereco": "R. Castro Verde, 266 - Várzea de Baixo, São Paulo - SP, 04729-060",
+       "localizacao": {
+         "latitude": -23.638671,
+         "longitude": -46.71865
+       },
+       "link": "http://apicon.com.br/"
+     }
   ]
 }
-
-
-
-
-
-
-
-
