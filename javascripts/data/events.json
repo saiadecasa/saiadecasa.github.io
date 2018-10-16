@@ -145,6 +145,18 @@
       "link": "http://reactconfbr.com.br/"
     },
     {
+      "titulo": "Women Dev Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Mercado Livre - Melicidade",
+      "endereco": "Avenida das Nações Unidas, 3003, Bonfim, Osasco, SP",
+      "localizacao": {
+        "latitude": -23.524154,
+        "longitude": -46.760554
+      },
+      "link": "https://www.sympla.com.br/women-dev-summit-2018__338718"
+    },
+    { 
       "titulo": "DevFest BH",
       "dataInicio": "2018-11-10",
       "dataFim": "2018-11-10",
