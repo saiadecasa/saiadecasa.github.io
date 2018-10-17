@@ -145,6 +145,18 @@
       "link": "http://reactconfbr.com.br/"
     },
     {
+      "titulo": "Latinoware 2018",
+      "dataInicio": "2018-10-17",
+      "dataFim": "2018-10-19",
+      "local": "Centro de Convenções de Foz do Iguaçu – CECONFI",
+      "endereco": "Rodovia das Cataratas, km 19,5 (acesso ao Aeroporto), Foz do Iguaçu – Paraná",
+      "localizacao": {
+        "latitude": 25.6033398,
+        "longitude": -54.4974058
+      },
+      "link": "https://latinoware.org/"
+    }, 
+    { 
       "titulo": "Women Dev Summit 2018",
       "dataInicio": "2018-10-27",
       "dataFim": "2018-10-27",
