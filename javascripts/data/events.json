@@ -48,7 +48,7 @@
        },
        "link": "http://sao-paulo.bigdataweek.com/"
      },
-      {
+     {
         "titulo": "PHP Conference Brasil 2018",
         "dataInicio": "2018-12-06",
         "dataFim": "2018-12-08",
@@ -109,11 +109,11 @@
      "link": "https://hacktoberfestcwb.github.io/2018/"
     },
     {
-     "titulo": "Campus Party BraSil - CPBR12",
-     "dataInicio": "2018-02-12",
+     "titulo": "Campus Party Brasil - CPBR12",
+     "dataInicio": "2019-02-12",
      "dataFim": "2019-02-17",
      "local": "Expo Center Norte",
-     "endereco": "Rua José Bernardo Pinto, 333 - Vila Guilherme, São Paulo - São Paylo",
+     "endereco": "Rua José Bernardo Pinto, 333 - Vila Guilherme, São Paulo - São Paulo",
      "localizacao": {
        "latitude": -23.510732,
        "longitude": -46.6120773
@@ -157,25 +157,64 @@
       "link": "https://latinoware.org/"
     }, 
     { 
-      "titulo": "UX Team Summit 2018", 
-      "dataInicio": "2018-10-27", 
-      "dataFim": "2018-10-27", 
-      "local": "Escola SENAI de Informática", 
+      "titulo": "Women Dev Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Mercado Livre - Melicidade",
+      "endereco": "Avenida das Nações Unidas, 3003, Bonfim, Osasco, SP",
+      "localizacao": {
+        "latitude": -23.524154,
+        "longitude": -46.760554
+      },
+      "link": "https://www.sympla.com.br/women-dev-summit-2018__338718"
+    },
+    {
+      "titulo": "DevFest BH",
+      "dataInicio": "2018-11-10",
+      "dataFim": "2018-11-10",
+      "local": "The One Business Center",
+      "endereco": "Raja Gabáglia, 1143 - Luxemburgo, Belo Horizonte - MG",
+      "localizacao": {
+        "latitude": -19.945745,
+        "longitude": -43.957034
+      },
+      "link": "http://www.devfestbh.com/"
+    },
+    {
+      "titulo": "RD Summit 2018",
+      "dataInicio": "2018-11-07",
+      "dataFim": "2018-11-09",
+      "local": "Centrosul",
+      "endereco": "Avenida Governador Gustavo Richard, 850 - Centro, Florianópolis - Santa Catarina",
+      "localizacao": {
+        "latitude": -27.600953,
+        "longitude": -48.552099
+      },
+      "link": "https://rdsummit.com.br/"
+    },
+    {
+      "titulo": "UX Team Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Escola SENAI de Informática",
       "endereco": "Alameda Barão de Limeira, 539 - Santa Cecilia, São Paulo - São Paulo",
-      "localizacao": { 
+      "localizacao": {
         "latitude": -23.536551,
-        "longitude": -46.646321 
-    }, 
-     "link": "https://www.uxteamsummit.com.br/" 
+        "longitude": -46.646321
+      },
+      "link": "https://www.uxteamsummit.com.br/"
+    },
+    {
+      "titulo": "GDG DevFest Paraná 2018",
+      "dataInicio": "2018-11-24 08:00:00",
+      "dataFim": "2018-11-24 18:30:00",
+      "local": "FEITEP - Faculdade de Engenharia e Inovação Técnico Profissional",
+      "endereco": "Avenida Paranavaí, 1164 - Zona 06, Maringá, Paraná",
+      "localizacao": {
+        "latitude": -23.4235474,
+        "longitude": -51.9710911
+      },
+      "link": "https://devfestpr.com/"
     }
-    
   ]
 }
-
-
-
-
-
-
-
-
