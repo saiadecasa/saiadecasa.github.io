@@ -215,6 +215,18 @@
         "longitude": -51.9710911
       },
       "link": "https://devfestpr.com/"
+    },
+	{
+      "titulo": "Americana Tech Conf",
+      "dataInicio": "2018-11-24 08:00:00",
+      "dataFim": "2018-11-24 17:00:00",
+      "local": "Etec Polivalente de Americana",
+      "endereco": "Av. Nossa Senhora de Fátima, 567, Americana",
+      "localizacao": {
+        "latitude": -22.735360,
+        "longitude": -47.316060
+      },
+      "link": "https://www.americanatechconf.com.br"
     }
   ]
 }
