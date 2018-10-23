@@ -1,18 +1,6 @@
 {
   "events": [
      {
-       "titulo": "Python Brasil 2018",
-       "dataInicio": "2018-10-17",
-       "dataFim": "2018-10-22",
-       "local": "Hotel Holiday Inn Natal",
-       "endereco": "Av. Sen. Salgado Filho , 1906 - Lagoa Nova, Natal - RN",
-       "localizacao": {
-         "latitude": -5.824917,
-         "longitude": -35.210006
-       },
-       "link": "https://2018.pythonbrasil.org.br/"
-     },
-     {
        "titulo": "DevOpsDay Belém 2018",
        "dataInicio": "2018-11-24",
        "dataFim": "2018-11-24",
