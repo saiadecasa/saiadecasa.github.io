@@ -60,18 +60,6 @@
         },
         "link": "http://roadsec.com.br/saopaulo-2018"
      },
-     {
-      "titulo": "GDG Campinas AndroidFest 2018",
-      "dataInicio": "2018-10-20",
-      "dataFim": "2018-10-20",
-      "local": "Vitória Hotel Concept Campinas",
-      "endereco": "Av. José de Souza Campos, 425, Campinas - São Paulo",
-      "localizacao": {
-        "latitude": -22.902451,
-        "longitude": -47.047998
-      },
-      "link": "https://gdg-campinas.github.io/androidfest/"
-    },
     {
      "titulo": "BrazilJS on the road Belo Horizonte",
      "dataInicio": "2018-10-27",
