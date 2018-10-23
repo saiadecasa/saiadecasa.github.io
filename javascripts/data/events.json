@@ -13,18 +13,6 @@
        "link": "https://www.devopsdays.org/events/2018-belem/welcome/"
      },
      {
-       "titulo": "São Paulo Big Data Week 2018",
-       "dataInicio": "2018-10-20",
-       "dataFim": "2018-10-20",
-       "local": "Centro de Convenções Rebouças - Entrada de pedestres",
-       "endereco": "Av. Dr. Enéas de Carvalho Aguiar, 23, Pinheiros, São Paulo, SP 05402-000",
-       "localizacao": {
-         "latitude": -23.5577389,
-         "longitude": -46.6692412
-       },
-       "link": "http://sao-paulo.bigdataweek.com/"
-     },
-     {
         "titulo": "PHP Conference Brasil 2018",
         "dataInicio": "2018-12-06",
         "dataFim": "2018-12-08",
@@ -59,18 +47,6 @@
        "longitude": -43.9538765
      },
      "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/"
-    },
-    {
-     "titulo": "Hacktoberfest Curitiba 2018",
-     "dataInicio": "2018-10-20",
-     "dataFim": "2018-10-20",
-     "local": "DINF - Departamennto de Informática UFPR",
-     "endereco": "Rua Evaristo F. Ferreira da Costa - Jardim das Américas, Curitiba - Paraná",
-     "localizacao": {
-       "latitude": -25.450791,
-       "longitude": -49.231884
-     },
-     "link": "https://hacktoberfestcwb.github.io/2018/"
     },
     {
      "titulo": "Campus Party Brasil - CPBR12",
