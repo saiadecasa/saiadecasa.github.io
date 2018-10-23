@@ -102,7 +102,7 @@
                   <% } %>
                   <% if('localizacao') { %>
                     <div class="sdc_maps clearfix" id="map<%= id %>"></div>
-                    <br><img class="sdc_staticmaps clearfix" data-id="<%= id %>" data-titulo="<%= titulo %>" src="//maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=17&format=jpeg&center=<%= localizacao.latitude %>,<%= localizacao.longitude %>&markers=color:red%7Ccolor:red%7Clabel:<%= local %>%7C<%=localizacao.latitude %>,<%=localizacao.longitude %>&sensor=false" alt="Localização do <%= titulo %>">
+                    <br><img class="sdc_staticmaps clearfix" data-id="<%= id %>" data-titulo="<%= titulo %>" src="https://www.mapquestapi.com/staticmap/v5/map?key=obwdBPwptJFlS6GbiXNqDNsb4r9rLAmm&zoom=16&locations=<%=localizacao.latitude %>,<%=localizacao.longitude %>&size=640,480@2x&defaultMarker=marker-red-lg" alt="Localização do <%= titulo %>">
                   <% } %>
                 </ul>
                 <p>Mais detalhes: <a href="<%= link %>" target="_blank"><%= titulo %></a></p>
