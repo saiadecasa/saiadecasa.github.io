@@ -13,6 +13,18 @@
        "link": "https://www.devopsdays.org/events/2018-belem/welcome/"
      },
      {
+      "titulo": "Frontin Floripa 2018",
+      "dataInicio": "2018-12-01",
+      "dataFim": "2018-12-01",
+      "local": "Hotel Maria do Mar",
+      "endereco": "Rodovia João Paulo, 2285 - João Paulo, Florianópolis - SC",
+      "localizacao": {
+        "latitude": -27.401323,
+        "longitude": -48.489330
+      },
+      "link": "http://frontinfloripa.com.br"
+      },
+     {
         "titulo": "PHP Conference Brasil 2018",
         "dataInicio": "2018-12-06",
         "dataFim": "2018-12-08",
