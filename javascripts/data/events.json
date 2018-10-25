@@ -29,12 +29,12 @@
 	"dataInicio": "2018-12-01",
 	"dataFim": "2018-12-01",
 	"local": "FICR - Faculdade Imaculada Conceição",
-	"endereco": "Avenida Caxangá 3841, 3841, Iputinga",
+	"endereco": "Avenida Caxangá 3841, Iputinga",
 	"localizacao": {
 	"latitude": -8.038648,
 	"longitude": -34.940345
 	},
-	"link": "jsday.com.br"
+	"link": "http://jsday.com.br"
       },
      {
         "titulo": "PHP Conference Brasil 2018",
