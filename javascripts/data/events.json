@@ -180,6 +180,17 @@
         "longitude": -47.316060
       },
       "link": "https://www.americanatechconf.com.br"
-    }
+    {
+      "titulo": "The Developers Conference Porto Alegre",
+      "dataInicio": "2018-12-05 08:00:00",
+      "dataFim": "2018-12-08 20:00:00",
+      "local": "Uniritter Zona Sul",
+      "endereco": "Rua Orfanotrófio, 555 - Santa Tereza, Porto Alegre - RS, 90840-440",
+      "localizacao": {
+        "latitude": -30.0796155,
+        "longitude": -51.2193185
+      },
+      "link": "https://www.americanatechconf.com.br"
+	}
   ]
 }
