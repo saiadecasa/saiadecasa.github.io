@@ -61,18 +61,6 @@
         "link": "http://roadsec.com.br/saopaulo-2018"
      },
     {
-     "titulo": "BrazilJS on the road Belo Horizonte",
-     "dataInicio": "2018-10-27",
-     "dataFim": "2018-10-27",
-     "local": "Samba Tech",
-     "endereco": "Rua Turim, 99 - Santa Lúcia - Belo Horizonte - MG",
-     "localizacao": {
-       "latitude": -19.9703342,
-       "longitude": -43.9538765
-     },
-     "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/"
-    },
-    {
      "titulo": "Campus Party Brasil - CPBR12",
      "dataInicio": "2019-02-12",
      "dataFim": "2019-02-17",
@@ -96,18 +84,6 @@
      },
      "link": "https://codersinrio.com.br/"
    },
-    { 
-      "titulo": "Women Dev Summit 2018",
-      "dataInicio": "2018-10-27",
-      "dataFim": "2018-10-27",
-      "local": "Mercado Livre - Melicidade",
-      "endereco": "Avenida das Nações Unidas, 3003, Bonfim, Osasco, SP",
-      "localizacao": {
-        "latitude": -23.524154,
-        "longitude": -46.760554
-      },
-      "link": "https://www.sympla.com.br/women-dev-summit-2018__338718"
-    },
     {
       "titulo": "DevFest BH",
       "dataInicio": "2018-11-10",
@@ -131,19 +107,6 @@
         "longitude": -48.552099
       },
       "link": "https://rdsummit.com.br/"
-    },
-    {
-      "titulo": "UX Team Summit 2018",
-      "dataInicio": "2018-10-27",
-      "dataFim": "2018-10-27",
-      "local": "Escola SENAI de Informática",
-      "endereco": "Alameda Barão de Limeira, 539 - Santa Cecilia, São Paulo - São Paulo",
-      "localizacao": {
-        "latitude": -23.536551,
-
-        "longitude": -46.646321 
-    }, 
-     "link": "https://www.uxteamsummit.com.br/" 
     },
     { 
       "titulo": "UXCONF BR 2019 ", 
