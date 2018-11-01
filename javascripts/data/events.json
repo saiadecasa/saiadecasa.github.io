@@ -1,6 +1,18 @@
 {
   "events": [
-     {
+    {
+      "titulo": "Boteco PHP RJ",
+      "dataInicio": "2018-11-14",
+      "dataFim": "2018-11-14",
+      "local": "Bourn Burger",
+      "endereco": "Av Gomes Freire, 579, Sobrado, Lapa - Rio de Janeiro, RJ · Rio de Janeiro",
+      "localizacao": {
+        "latitude":  -22.911208,
+        "longitude": -43.183391
+      },
+      "link": "https://www.meetup.com/pt-BR/PHP-Rio/events/mqntcqyxpbtb/"
+    },
+    {
        "titulo": "DevOpsDay Belém 2018",
        "dataInicio": "2018-11-24",
        "dataFim": "2018-11-24",
