@@ -72,18 +72,6 @@
      },
      "link": "http://brasil.campus-party.org/cpbr12/"
     },
-    {
-      "titulo": "DevFest BH",
-      "dataInicio": "2018-11-10",
-      "dataFim": "2018-11-10",
-      "local": "The One Business Center",
-      "endereco": "Raja Gabáglia, 1143 - Luxemburgo, Belo Horizonte - MG",
-      "localizacao": {
-        "latitude": -19.945745,
-        "longitude": -43.957034
-      },
-      "link": "http://www.devfestbh.com/"
-    },
     { 
       "titulo": "UXCONF BR 2019 ", 
       "dataInicio": "2019-05-17", 
