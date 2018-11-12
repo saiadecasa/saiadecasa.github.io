@@ -96,18 +96,6 @@
       },
       "link": "http://www.devfestbh.com/"
     },
-    {
-      "titulo": "RD Summit 2018",
-      "dataInicio": "2018-11-07",
-      "dataFim": "2018-11-09",
-      "local": "Centrosul",
-      "endereco": "Avenida Governador Gustavo Richard, 850 - Centro, Florianópolis - Santa Catarina",
-      "localizacao": {
-        "latitude": -27.600953,
-        "longitude": -48.552099
-      },
-      "link": "https://rdsummit.com.br/"
-    },
     { 
       "titulo": "UXCONF BR 2019 ", 
       "dataInicio": "2019-05-17", 
