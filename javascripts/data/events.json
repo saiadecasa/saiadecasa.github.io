@@ -60,18 +60,6 @@
         },
         "link": "https://phpconference.com.br/"
       },
-     {
-        "titulo": "Roadsec São Paulo 2018",
-        "dataInicio": "2018-11-10",
-        "dataFim": "2018-11-10",
-        "local": "Audio",
-        "endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
-        "localizacao": {
-          "latitude": -23.528204,
-          "longitude": -46.669452
-        },
-        "link": "http://roadsec.com.br/saopaulo-2018"
-     },
     {
      "titulo": "Campus Party Brasil - CPBR12",
      "dataInicio": "2019-02-12",
@@ -83,42 +71,6 @@
        "longitude": -46.6120773
      },
      "link": "http://brasil.campus-party.org/cpbr12/"
-    },
-    {
-     "titulo": "CODERS IN RIO SUMMIT 2018",
-     "dataInicio": "2018-11-10",
-     "dataFim": "2018-11-10",
-     "local": "SENAC RJ FLAMENGO",
-     "endereco": "R. Marquês de Abrantes, 99 - Flamengo, Rio de Janeiro - RJ, 22230-061",
-     "localizacao": {
-       "latitude": -22.9365277,
-       "longitude": -43.1773033
-     },
-     "link": "https://codersinrio.com.br/"
-   },
-    {
-      "titulo": "DevFest BH",
-      "dataInicio": "2018-11-10",
-      "dataFim": "2018-11-10",
-      "local": "The One Business Center",
-      "endereco": "Raja Gabáglia, 1143 - Luxemburgo, Belo Horizonte - MG",
-      "localizacao": {
-        "latitude": -19.945745,
-        "longitude": -43.957034
-      },
-      "link": "http://www.devfestbh.com/"
-    },
-    {
-      "titulo": "RD Summit 2018",
-      "dataInicio": "2018-11-07",
-      "dataFim": "2018-11-09",
-      "local": "Centrosul",
-      "endereco": "Avenida Governador Gustavo Richard, 850 - Centro, Florianópolis - Santa Catarina",
-      "localizacao": {
-        "latitude": -27.600953,
-        "longitude": -48.552099
-      },
-      "link": "https://rdsummit.com.br/"
     },
     { 
       "titulo": "UXCONF BR 2019 ", 
