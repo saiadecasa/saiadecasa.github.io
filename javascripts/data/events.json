@@ -1,29 +1,5 @@
 {
   "events": [
-    {
-      "titulo": "Boteco PHP RJ",
-      "dataInicio": "2018-11-14",
-      "dataFim": "2018-11-14",
-      "local": "Bourn Burger",
-      "endereco": "Av Gomes Freire, 579, Sobrado, Lapa - Rio de Janeiro, RJ · Rio de Janeiro",
-      "localizacao": {
-        "latitude":  -22.911208,
-        "longitude": -43.183391
-      },
-      "link": "https://www.meetup.com/pt-BR/PHP-Rio/events/mqntcqyxpbtb/"
-    },
-    {
-       "titulo": "DevOpsDay Belém 2018",
-       "dataInicio": "2018-11-24",
-       "dataFim": "2018-11-24",
-       "local": "Elephant Coworking",
-       "endereco": "Av. Governador José Malcher, 153, Reduto, Belém, Pará",
-       "localizacao": {
-         "latitude": -1.452013,
-         "longitude": -48.492646
-       },
-       "link": "https://www.devopsdays.org/events/2018-belem/welcome/"
-     },
      {
       "titulo": "Frontin Floripa 2018",
       "dataInicio": "2018-12-01",
@@ -83,30 +59,6 @@
         "longitude": -51.219297
     }, 
      "link": "https://www.sympla.com.br/uxconf-br-2019__294034" 
-    },
-    {
-      "titulo": "GDG DevFest Paraná 2018",
-      "dataInicio": "2018-11-24 08:00:00",
-      "dataFim": "2018-11-24 18:30:00",
-      "local": "FEITEP - Faculdade de Engenharia e Inovação Técnico Profissional",
-      "endereco": "Avenida Paranavaí, 1164 - Zona 06, Maringá, Paraná",
-      "localizacao": {
-        "latitude": -23.4235474,
-        "longitude": -51.9710911
-      },
-      "link": "https://devfestpr.com/"
-    },
-	{
-      "titulo": "Americana Tech Conf",
-      "dataInicio": "2018-11-24 08:00:00",
-      "dataFim": "2018-11-24 17:00:00",
-      "local": "Etec Polivalente de Americana",
-      "endereco": "Av. Nossa Senhora de Fátima, 567, Americana",
-      "localizacao": {
-        "latitude": -22.735360,
-        "longitude": -47.316060
-      },
-      "link": "https://www.americanatechconf.com.br"
     }
   ]
 }
