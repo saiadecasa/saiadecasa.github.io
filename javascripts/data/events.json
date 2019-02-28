@@ -1,17 +1,5 @@
 {
   "events": [
-    {
-     "titulo": "Campus Party Brasil - CPBR12",
-     "dataInicio": "2019-02-12",
-     "dataFim": "2019-02-17",
-     "local": "Expo Center Norte",
-     "endereco": "Rua José Bernardo Pinto, 333 - Vila Guilherme, São Paulo - São Paulo",
-     "localizacao": {
-       "latitude": -23.510732,
-       "longitude": -46.6120773
-     },
-     "link": "http://brasil.campus-party.org/cpbr12/"
-    },
     { 
       "titulo": "UXCONF BR 2019 ", 
       "dataInicio": "2019-05-17", 
