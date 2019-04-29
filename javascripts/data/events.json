@@ -35,6 +35,18 @@
         "longitude": -46.652927
     }, 
      "link": "https://qconsp.com/" 
+    },
+    { 
+      "titulo": "Front in Sampa 2019", 
+      "dataInicio": "2019-07-13", 
+      "dataFim": "2019-07-13", 
+      "local": "Centro de Convenções Rebouças", 
+      "endereco": "Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
+      "localizacao": { 
+        "latitude": -23.557620,
+        "longitude": -46.668123
+    }, 
+     "link": "https://www.frontinsampa.com.br/" 
     }
   ]
 }
