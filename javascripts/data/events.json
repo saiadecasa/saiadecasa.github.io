@@ -59,6 +59,18 @@
         "longitude": -46.657522
     }, 
      "link": "https://www.beersandbytes.com.br/" 
+    },
+    { 
+      "titulo": "Hack Town 2019", 
+      "dataInicio": "2019-09-05", 
+      "dataFim": "2019-09-08", 
+      "local": "Santa Rita do Sapucaí - MG", 
+      "endereco": "Santa Rita do Sapucaí - MG",
+      "localizacao": { 
+        "latitude": -22.240015,
+        "longitude": -45.686499
+    }, 
+     "link": "https://hacktown.com.br/" 
     }
   ]
 }
