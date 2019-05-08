@@ -47,6 +47,18 @@
         "longitude": -46.668123
     }, 
      "link": "https://www.frontinsampa.com.br/" 
+    },
+    { 
+      "titulo": "Beers & Bytes", 
+      "dataInicio": "2019-05-16", 
+      "dataFim": "2019-05-16", 
+      "local": "Grupo ZAP", 
+      "endereco": "Rua Bela Cintra, 539 - Consolação, São Paulo - SP, 01415-000",
+      "localizacao": { 
+        "latitude": -23.5521309,
+        "longitude": -46.657886
+    }, 
+     "link": "https://www.beersandbytes.com.br" 
     }
   ]
 }
