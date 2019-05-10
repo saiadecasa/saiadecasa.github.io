@@ -25,18 +25,6 @@
      "link": "https://conference.phprs.com.br" 
     },
     { 
-      "titulo": "QCon São Paulo 2019", 
-      "dataInicio": "2019-05-06", 
-      "dataFim": "2019-05-08", 
-      "local": "Centro de Convenções Frei Caneca", 
-      "endereco": "R. Frei Caneca, 569 - Consolação, São Paulo - SP, 01307-001",
-      "localizacao": { 
-        "latitude": -23.553614,
-        "longitude": -46.652927
-    }, 
-     "link": "https://qconsp.com/" 
-    },
-    { 
       "titulo": "Front in Sampa 2019", 
       "dataInicio": "2019-07-13", 
       "dataFim": "2019-07-13", 
@@ -59,6 +47,18 @@
         "longitude": -46.657886
     }, 
      "link": "https://www.beersandbytes.com.br" 
+    },
+    { 
+      "titulo": "Hack Town 2019", 
+      "dataInicio": "2019-09-05", 
+      "dataFim": "2019-09-08", 
+      "local": "Santa Rita do Sapucaí - MG", 
+      "endereco": "Santa Rita do Sapucaí - MG",
+      "localizacao": { 
+        "latitude": -22.240015,
+        "longitude": -45.686499
+    }, 
+     "link": "https://hacktown.com.br/" 
     }
   ]
 }
