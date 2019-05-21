@@ -1,30 +1,6 @@
 {
   "events": [
     { 
-      "titulo": "UXCONF BR 2019 ", 
-      "dataInicio": "2019-05-17", 
-      "dataFim": "2019-05-18", 
-      "local": "UniRitter", 
-      "endereco": "Rua Orfanotrófio, 555 - Santa Tereza, Porto Alegre - Rio Grande do Sul",
-      "localizacao": { 
-        "latitude": -30.079680,
-        "longitude": -51.219297
-    }, 
-     "link": "https://www.sympla.com.br/uxconf-br-2019__294034" 
-    },
-    { 
-      "titulo": "III Conferência PHPRS", 
-      "dataInicio": "2019-05-17", 
-      "dataFim": "2019-05-18", 
-      "local": "Faculdade Senac", 
-      "endereco": "Rua Cel. Genuíno, 130 - Centro Histórico, Porto Alegre - Rio Grande do Sul",
-      "localizacao": { 
-        "latitude": -30.035165,
-        "longitude": -51.226628
-    }, 
-     "link": "https://conference.phprs.com.br" 
-    },
-    { 
       "titulo": "Front in Sampa 2019", 
       "dataInicio": "2019-07-13", 
       "dataFim": "2019-07-13", 
