@@ -11,6 +11,18 @@
         "longitude": -46.668123
     }, 
      "link": "https://www.frontinsampa.com.br/" 
+    },
+    { 
+      "titulo": "Linux Developer Conference Brazil 2019", 
+      "dataInicio": "2019-08-02", 
+      "dataFim": "2019-08-04", 
+      "local": "Radisson Hotel Paulista São Paulo", 
+      "endereco": "Alameda Santos, 85 - Paraíso, São Paulo - SP, 01419-000",
+      "localizacao": { 
+        "latitude": -23.571358,
+        "longitude": -46.646418
+    }, 
+     "link": "https://linuxdev-br.net/" 
     }
   ]
 }
