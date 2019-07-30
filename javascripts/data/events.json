@@ -23,6 +23,18 @@
         "longitude": -46.720153
     }, 
      "link": "https://www.fluttertalks.com.br/" 
+    },
+    { 
+      "titulo": "Webbr 2019", 
+      "dataInicio": "2019-10-30", 
+      "dataFim": "2019-10-31", 
+      "local": "Centro de Convenções Rebouças", 
+      "endereco": "Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
+      "localizacao": { 
+        "latitude": -23.557571,
+        "longitude": -46.668102
+    }, 
+     "link": "https://conferenciaweb.w3c.br" 
     }
   ]
 }
