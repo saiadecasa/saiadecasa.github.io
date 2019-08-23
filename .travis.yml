@@ -16,3 +16,4 @@ script:
   - jshint javascripts/**/*.{js,json}
   - csslint **/*.css
   - mocha javascripts/tests/*.js
+  - node_modules/.bin/jsoncs javascripts/data/events.json
