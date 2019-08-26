@@ -60,7 +60,7 @@ Caso você queira realizar os testes no seu ambiente antes de enviar o Pull Requ
 Basta executar estes comandos no seu terminal (você precisará ter o `node` instalado para isso):
 
 ```bash
-# Com este passo todas as dependencias (htmlhint, jshint, csslint e mocha) serão instaladas
+# Com este passo todas as dependencias (htmlhint, jshint, csslint, mocha e jsoncs) serão instaladas
 npm install
 
 # Valida a estrutura do HTML
@@ -74,6 +74,9 @@ node_modules/.bin/csslint **/*.css --exclude-list=node_modules/
 
 # Executa testes Javacript
 node_modules/.bin/mocha javascripts/tests/*.js
+
+# Corrige arquivo JSON com o estilo de código que utilizamos
+node_modules/.bin/jsoncs --fix javascripts/data/events.json
 ```
 
 ## Grandes Reescritas
