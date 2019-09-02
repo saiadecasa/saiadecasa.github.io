@@ -25,18 +25,6 @@
       "link": "https://www.php.locaweb.com.br/"
     },
     {
-      "titulo": "Flutter Talks 2019",
-      "dataInicio": "2019-08-31",
-      "dataFim": "2019-08-31",
-      "local": "Centro Universitário Ítalo Brasileiro",
-      "endereco": "Av. João Dias, 2046 - Santo Amaro, São Paulo - SP, 04724-003",
-      "localizacao": {
-        "latitude": -23.644429,
-        "longitude": -46.720153
-      },
-      "link": "https://www.fluttertalks.com.br/"
-    },
-    {
       "titulo": "DevFest Nordeste 2019",
       "dataInicio": "2019-10-19",
       "dataFim": "2019-10-19",
