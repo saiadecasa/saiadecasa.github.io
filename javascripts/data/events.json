@@ -1,5 +1,29 @@
 {
   "events": [
+      {
+      "titulo": "IT Forum X",
+      "dataInicio": "2019-10-16",
+      "dataFim": "2019-10-17",
+      "local": "Transamerica Expo Center - SP",
+      "endereco": "Av. Dr. Mário Villas Boas Rodrigues, 387 Santo Amaro - São Paulo - SP - 04757-020",
+      "localizacao": {
+        "latitude": -23.648777,
+        "longitude": -46.718761
+      },
+      "link": "http://itforumexpo.com.br/"
+    },
+     {
+      "titulo": "Futurecom",
+      "dataInicio": "2019-10-28",
+      "dataFim": "2019-10-31",
+      "local": "São Paulo Expo",
+      "endereco": "Rodovia dos Imigrantes, km 1,5",
+      "localizacao": {
+        "latitude": -23.6448711,
+        "longitude": -46.6293967
+      },
+      "link": "https://www.futurecom.com.br/pt/home.html"
+    },
     {
       "titulo": "PHPMG Conference 2019",
       "dataInicio": "2019-09-21",
