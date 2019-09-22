@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "PHPMG Conference 2019",
-      "dataInicio": "2019-09-21",
-      "dataFim": "2019-09-21",
-      "local": "Belo Horizonte - MG - Local a definir",
-      "endereco": "A definir",
-      "localizacao": {
-        "latitude": -19.918121,
-        "longitude": -43.959962
-      },
-      "link": "https://conf.phpmg.com/"
-    },
-    {
       "titulo": "Locaweb PHP Community Summit",
       "dataInicio": "2019-09-26",
       "dataFim": "2019-09-27",
