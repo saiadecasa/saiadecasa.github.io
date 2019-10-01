@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "Locaweb PHP Community Summit",
-      "dataInicio": "2019-09-26",
-      "dataFim": "2019-09-27",
-      "local": "Developer E-Commerce HUB",
-      "endereco": "Rua Oscar Freire, 2379 - Pinheiros, São Paulo - SP, 05409-12",
-      "localizacao": {
-        "latitude": -23.5523916,
-        "longitude": -46.67789909999999
-      },
-      "link": "https://www.php.locaweb.com.br/"
-    },
-    {
       "titulo": "DevFest Nordeste 2019",
       "dataInicio": "2019-10-19",
       "dataFim": "2019-10-19",
