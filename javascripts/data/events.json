@@ -37,6 +37,18 @@
       "link": "https://academiadeforensedigital.com.br/afdsummit/2019/"
     },
     {
+      "titulo": "NASA Space Apps Challenge - Itajubá",
+      "dataInicio": "2019-10-18",
+      "dataFim": "2019-10-20",
+      "local": "Itajubá, BRA",
+      "endereco": "Av. B P S, 1303 - Centro, Itajubá - MG, 37500-176",
+      "localizacao": {
+        "latitude": -22.413821,
+        "longitude": -45.4545417
+      },
+      "link": "https://www.sympla.com.br/nasa-space-apps-challenge-2019--itajuba__661355"
+    },
+    {
       "titulo": "Hyper Festival Brazil 2019",
       "dataInicio": "2019-11-23",
       "dataFim": "2019-11-23",
