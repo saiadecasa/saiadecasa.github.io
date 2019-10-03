@@ -37,6 +37,18 @@
       "link": "https://academiadeforensedigital.com.br/afdsummit/2019/"
     },
     {
+      "titulo": "Hyper Festival Brazil 2019",
+      "dataInicio": "2019-11-23",
+      "dataFim": "2019-11-23",
+      "local": "Digital House",
+      "endereco": "Av. Dr. Cardoso de Melo, 90 - Vila Olímpia, São Paulo - SP, 04548-000",
+      "localizacao": {
+        "latitude": -23.6025096,
+        "longitude": -46.6774456
+      },
+      "link": "https://www.hypervrfestival.com/"
+    },
+    {
       "titulo": "Novas Tecnologias na Era da Indústria 4.0 – Guarulhos",
       "dataInicio": "2019-10-23",
       "dataFim": "2019-10-23",
