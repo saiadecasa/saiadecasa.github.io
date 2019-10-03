@@ -25,6 +25,18 @@
       "link": "https://2019.pythonbrasil.org.br/"
     },
     {
+      "titulo": "AFD Summit 2019 – Investigação Corporativa e Perícia Forense",
+      "dataInicio": "2019-12-07",
+      "dataFim": "2019-12-08",
+      "local": "Developer E-Commerce HUB",
+      "endereco": "Rua Oscar Freire, 2379 - Pinheiros, São Paulo - SP, 05409-120",
+      "localizacao": {
+        "latitude": -23.552422,
+        "longitude": -46.6800935
+      },
+      "link": "https://academiadeforensedigital.com.br/afdsummit/2019/
+    },
+    {
       "titulo": "Webbr 2019",
       "dataInicio": "2019-10-30",
       "dataFim": "2019-10-31",
