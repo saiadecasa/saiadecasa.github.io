@@ -95,6 +95,18 @@
         "longitude": -46.668102
       },
       "link": "https://conferenciaweb.w3c.br"
+    },
+    {
+      "titulo": "TDC 2019 RECIFE",
+      "dataInicio": "2019-10-10",
+      "dataFim": "2019-10-12",
+      "local": "Universidade Católica De Pernambuco - UNICAP",
+      "endereco": "Rua Almeida Cunha, 526 - Boa Vista, RECIFE - PE, 50050-900",
+      "localizacao": {
+        "latitude": -8.0548955,
+        "longitude": -34.8877622
+      },
+      "link": "http://www.thedevelopersconference.com.br/tdc/2019/recife/trilhas"
     }
   ]
 }
