@@ -8,5 +8,12 @@
         "jshint": "^2.9.6",
         "mocha": "^5.2.0",
         "should": "~7.1.0"
+    },
+    "scripts": {
+        "test": "node_modules/.bin/mocha javascripts/tests/*.js",
+        "htmlhint": "node_modules/.bin/htmlhint index.html",
+        "jshint": "node_modules/.bin/jshint javascripts/**/*.{js,json}",
+        "csslint": "node_modules/.bin/csslint **/*.css",
+	"jsoncs": "node_modules/.bin/jsoncs javascripts/data/events.json"
     }
 }
