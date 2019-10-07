@@ -2,7 +2,7 @@
     "name": "saiadecasa",
     "dependencies": {},
     "devDependencies": {
-        "@codelicia/jsoncs": "^1.0.0",
+        "@codelicia/jsoncs": "^1.1.0",
         "csslint": "~0.10.0",
         "htmlhint": "^0.10.1",
         "jshint": "^2.9.6",
