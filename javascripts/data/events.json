@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "DevCia - OctoberDev",
+      "dataInicio": "2019-10-16",
+      "dataFim": "2019-10-16",
+      "local": "Cervejaria Zero Grau",
+      "endereco": "Av. América, 4946 - Zona 1, Cianorte - PR, 87200-000",
+      "localizacao": {
+        "latitude": -23.6588357,
+        "longitude": -52.6015922
+      },
+      "link": "https://www.meetup.com/DevCia"
+    },
+    {
       "titulo": "DevFest Nordeste 2019",
       "dataInicio": "2019-10-19",
       "dataFim": "2019-10-19",
