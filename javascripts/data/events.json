@@ -107,6 +107,18 @@
         "longitude": -34.8877622
       },
       "link": "http://www.thedevelopersconference.com.br/tdc/2019/recife/trilhas"
+    },
+    {
+      "titulo": "Embarcadero Conference 2019",
+      "dataInicio": "2019-10-22",
+      "dataFim": "2019-10-22",
+      "local": "Centro de Convenções Rebouças",
+      "endereco": "Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000",
+      "localizacao": {
+        "latitude": -23.557571,
+        "longitude": -46.668102
+      },
+      "link": "https://embarcaderoconference.com.br"
     }
   ]
 }
