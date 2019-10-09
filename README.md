@@ -1,6 +1,6 @@
 # Saia de Casa!
 
-![](https://github.com/saiadecasa/saiadecasa.github.io/workflows/Continous%20Integration/badge.svg)
+[![Build Status](https://travis-ci.org/saiadecasa/saiadecasa.github.io.svg?branch=master)](https://travis-ci.org/saiadecasa/saiadecasa.github.io)
 [![Gitter chat](https://badges.gitter.im/saiadecasa.png)](https://gitter.im/saiadecasa)
 
 
