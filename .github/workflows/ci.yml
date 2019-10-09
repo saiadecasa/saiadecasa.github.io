@@ -1,0 +1,30 @@
+name: Continous Integration
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [6.x, 8.x, 10.x, 12.x]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Node Setup
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: npm install
+      run: npm install
+    - name: html hint
+      run: npm run htmlhint
+    - name: js hint
+      run: npm run jshint
+    - name: css lint
+      run: npm run csslint
+    - name: jsoncs
+      run: npm run jsoncs
+    - name: test
+      run: npm test
+
