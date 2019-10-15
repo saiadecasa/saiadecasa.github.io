@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "titulo": "Meetup - TI e Carreiras",
+      "dataInicio": "2019-10-17",
+      "dataFim": "2019-10-17",
+      "local": "Centro Universitário Integrado",
+      "endereco": "Av. Irmãos Pereira, 670 - Centro, Campo Mourão - PR, 87301-010",
+      "localizacao": {
+        "latitude": -24.0482665,
+        "longitude": -52.3809044
+      },
+      "link": "https://eventos.grupointegrado.br/evento/meetup-ti-e-carreiras/5102"
+    },
+    {
       "titulo": "DevFest Nordeste 2019",
       "dataInicio": "2019-10-19",
       "dataFim": "2019-10-19",
