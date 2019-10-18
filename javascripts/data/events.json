@@ -197,18 +197,6 @@
       "link": "https://conferenciaweb.w3c.br"
     },
     {
-      "titulo": "TDC 2019 RECIFE",
-      "dataInicio": "2019-10-10",
-      "dataFim": "2019-10-12",
-      "local": "Universidade Católica De Pernambuco - UNICAP",
-      "endereco": "Rua Almeida Cunha, 526 - Boa Vista, RECIFE - PE, 50050-900",
-      "localizacao": {
-        "latitude": -8.0548955,
-        "longitude": -34.8877622
-      },
-      "link": "http://www.thedevelopersconference.com.br/tdc/2019/recife/trilhas"
-    },
-    {
       "titulo": "Embarcadero Conference 2019",
       "dataInicio": "2019-10-22",
       "dataFim": "2019-10-22",
@@ -219,6 +207,18 @@
         "longitude": -46.668102
       },
       "link": "https://embarcaderoconference.com.br"
+    },
+    {
+      "titulo": "Festival MADA 2019",
+      "dataInicio": "2019-10-18",
+      "dataFim": "2019-10-19",
+      "local": "Arena das Dunas",
+      "endereco": "Av. Prudente de Morais, 5121 - Lagoa Nova, Natal - RN, 59064-625",
+      "localizacao": {
+        "latitude": -5.8268375,
+        "longitude": -35.2124213
+      },
+      "link": "https://www.sympla.com.br/festival-mada-2019__456453"
     }
   ]
 }
