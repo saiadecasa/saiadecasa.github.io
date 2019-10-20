@@ -108,18 +108,7 @@
       },
       "link": "https://conferenciaweb.w3c.br"
     },
-    {
-      "titulo": "TDC 2019 RECIFE",
-      "dataInicio": "2019-10-10",
-      "dataFim": "2019-10-12",
-      "local": "Universidade Católica De Pernambuco - UNICAP",
-      "endereco": "Rua Almeida Cunha, 526 - Boa Vista, RECIFE - PE, 50050-900",
-      "localizacao": {
-        "latitude": -8.0548955,
-        "longitude": -34.8877622
-      },
-      "link": "http://www.thedevelopersconference.com.br/tdc/2019/recife/trilhas"
-    },
+    
     {
       "titulo": "Embarcadero Conference 2019",
       "dataInicio": "2019-10-22",
@@ -131,6 +120,19 @@
         "longitude": -46.668102
       },
       "link": "https://embarcaderoconference.com.br"
+    },
+
+    {
+      "titulo": "OWASP Paraíba Day 2019",
+      "dataInicio": "2019-10-16",
+      "dataFim": "2019-10-16",
+      "local": "IESP Faculdades",
+      "endereco": "Rodovia BR 230, Km 14, s/n Morada Nova - Lot. Parque Verde, Cabedelo - PB, 58109-303",
+      "localizacao": {
+        "latitude": -7.094153,
+        "longitude": -34.848450
+      },
+      "link": "https://www.owasp.org/index.php/Paraiba"
     }
   ]
 }
