@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "DevFest Nordeste 2019",
-      "dataInicio": "2019-10-19",
-      "dataFim": "2019-10-19",
-      "local": "Sebrae (sebraelab)",
-      "endereco": "Av. Lima e Silva, 76 - Lagoa Nova, Natal - RN, 59062-300",
-      "localizacao": {
-        "latitude": -5.824864,
-        "longitude": -35.211892
-      },
-      "link": "https://ne.devfest.com.br/"
-    },
-    {
       "titulo": "Python Brasil 2019",
       "dataInicio": "2019-10-23",
       "dataFim": "2019-10-28",
