@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "titulo": "DevFest Nordeste 2019",
-      "dataInicio": "2019-10-19",
-      "dataFim": "2019-10-19",
-      "local": "Sebrae (sebraelab)",
-      "endereco": "Av. Lima e Silva, 76 - Lagoa Nova, Natal - RN, 59062-300",
-      "localizacao": {
-        "latitude": -5.824864,
-        "longitude": -35.211892
-      },
-      "link": "https://ne.devfest.com.br/"
-    },
-    {
       "titulo": "Python Brasil 2019",
       "dataInicio": "2019-10-23",
       "dataFim": "2019-10-28",
@@ -23,18 +11,6 @@
         "longitude": -47.808631
       },
       "link": "https://2019.pythonbrasil.org.br/"
-    },
-    {
-      "titulo": "PHPeste 2019",
-      "dataInicio": "2019-10-19",
-      "dataFim": "2019-10-20",
-      "local": "Uninabuco - Recife/PE",
-      "endereco": "Avenida Guararapes, R. Padre Euclídes Jardim, 233 - Santo Antônio, Recife - PE, 50010-460, BraSil",
-      "localizacao": {
-        "latitude": -8.063347,
-        "longitude": -34.879846
-      },
-      "link": "https://phpeste.net/"
     },
     {
       "titulo": "AFD Summit 2019 – Investigação Corporativa e Perícia Forense",
@@ -107,18 +83,6 @@
         "longitude": -46.668102
       },
       "link": "https://conferenciaweb.w3c.br"
-    },
-    {
-      "titulo": "TDC 2019 RECIFE",
-      "dataInicio": "2019-10-10",
-      "dataFim": "2019-10-12",
-      "local": "Universidade Católica De Pernambuco - UNICAP",
-      "endereco": "Rua Almeida Cunha, 526 - Boa Vista, RECIFE - PE, 50050-900",
-      "localizacao": {
-        "latitude": -8.0548955,
-        "longitude": -34.8877622
-      },
-      "link": "http://www.thedevelopersconference.com.br/tdc/2019/recife/trilhas"
     },
     {
       "titulo": "Embarcadero Conference 2019",
