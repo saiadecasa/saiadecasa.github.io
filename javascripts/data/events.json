@@ -131,6 +131,19 @@
         "longitude": -46.668102
       },
       "link": "https://embarcaderoconference.com.br"
+    },
+    {
+      "titulo": "DevFest Rio de Janeiro 2019",
+      "dataInicio": "2019-11-23",
+      "dataFim": "2019-11-23",
+      "local": "Universidade Estácio de Sá - Campus Nova América",
+      "endereco": "Av. Pastor Martin Luther King Junior, 126 - Del Castilho, Rio de Janeiro - RJ, 20765-630",
+      "localizacao": {
+        "latitude": -22.8787048,
+        "longitude": -43.2711886
+      },
+      "link": "https://www.sympla.com.br/devfest-rio-de-janeiro__680060"
     }
+    
   ]
 }
