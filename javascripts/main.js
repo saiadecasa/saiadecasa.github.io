@@ -213,12 +213,12 @@
       // já está habilitado...
       return;
 
-    var menuItemTemplate = _.template($('#order-menu-item-template').html())
+    var menuItemTemplate = _.template($('#order-menu-item-template').html());
     var menuItem = menuItemTemplate({
       key: 'DISTANCE',
       label: 'distância'
     });
 
-    $('#ordering ul').append(menuItem)
+    $('#ordering ul').append(menuItem);
   }
 })();

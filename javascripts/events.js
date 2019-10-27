@@ -10,7 +10,7 @@
     distance: function orderEventByDistance(a, b) {
       return a.distancia > b.distancia ? 1 : -1;
     }
-  }
+  };
 
   function Events(events) {
     var context = this;
@@ -80,7 +80,7 @@
       }
 
       return day1 + ' de ' + monthNames[month2] + ' de ' + year2;
-    };
+    }
   }
 
   function pad(n, width, z) {
