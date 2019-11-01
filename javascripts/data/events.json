@@ -131,6 +131,18 @@
         "longitude": -46.668102
       },
       "link": "https://embarcaderoconference.com.br"
+    },
+    {
+      "titulo": "Front In Sampa 2020",
+      "dataInicio": "2020-07-18",
+      "dataFim": "2020-07-18",
+      "local": "Teatro Gazeta",
+      "endereco": "Av. Paulista, 900, São Paulo",
+      "localizacao": {
+        "latitude": -23.5650991,
+        "longitude": -46.6533097
+      },
+      "link": "https://www.frontinsampa.com.br/"
     }
   ]
 }
